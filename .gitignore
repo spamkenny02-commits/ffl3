@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.gb
+*.gbc
+*.ram
+.venv/

@@ -1,0 +1,8890 @@
+classes_3AD4F (6 octets)
+EN: Robot 
+FR: Robot
+
+classes_3AD55 (6 octets)
+EN: Cyborg
+FR: Cyborg
+
+classes_3AD5B (6 octets)
+EN: Beast 
+FR: Bete
+
+classes_3AD61 (6 octets)
+EN: Monst.
+FR: Monstr
+
+classes_3AD67 (6 octets)
+EN: Human 
+FR: Humain
+
+classes_3AD6D (6 octets)
+EN: Mutant
+FR: Mutant
+
+status_3AD73 (4 octets)
+EN: Good
+FR: Bien
+
+status_3AD77 (4 octets)
+EN: Fell
+FR: K.O.
+
+status_3AD7B (4 octets)
+EN: Ston
+FR: Petr
+
+status_3AD7F (4 octets)
+EN: Mute
+FR: Muet
+
+status_3AD83 (4 octets)
+EN: Dark
+FR: Ave.
+
+status_3AD87 (4 octets)
+EN: Pois
+FR: Pois
+
+status_3AD8B (4 octets)
+EN: Curs
+FR: Maud
+
+status_3AD8F (4 octets)
+EN: Para
+FR: Para
+
+status_3AD93 (4 octets)
+EN: Slep
+FR: Dort
+
+status_3AD97 (4 octets)
+EN: Conf
+FR: Conf
+
+spells_3AD9C (5 octets)
+EN: Cure1
+FR: Soin1
+
+spells_3ADA2 (5 octets)
+EN: Shell
+FR: Coque
+
+spells_3ADA8 (5 octets)
+EN: Aero 
+FR: Vent
+
+spells_3ADAE (5 octets)
+EN: Spark
+FR: Etinc
+
+spells_3ADB4 (5 octets)
+EN: Cure2
+FR: Soin2
+
+spells_3ADBA (5 octets)
+EN: Conf 
+FR: Conf
+
+spells_3ADC0 (5 octets)
+EN: Quake
+FR: Seism
+
+spells_3ADC6 (5 octets)
+EN: Stone
+FR: Petr
+
+spells_3ADCC (5 octets)
+EN: Cure3
+FR: Soin3
+
+spells_3ADD2 (5 octets)
+EN: Fast 
+FR: Vite
+
+spells_3ADD8 (5 octets)
+EN: Weak 
+FR: Faibl
+
+spells_3ADDE (5 octets)
+EN: Heal 
+FR: Guéri
+
+spells_3ADE4 (5 octets)
+EN: Life 
+FR: Vie
+
+spells_3ADEA (5 octets)
+EN: Wall 
+FR: Mur
+
+spells_3ADF0 (5 octets)
+EN: Magma
+FR: Magma
+
+spells_3ADF6 (5 octets)
+EN: White
+FR: Blanc
+
+spells_3ADFC (5 octets)
+EN: Ice 1
+FR: Gel 1
+
+spells_3AE02 (5 octets)
+EN: Sleep
+FR: Dodo
+
+spells_3AE08 (5 octets)
+EN: Fire1
+FR: Feu 1
+
+spells_3AE0E (5 octets)
+EN: Venom
+FR: Venin
+
+spells_3AE14 (5 octets)
+EN: Lit 1
+FR: Foud1
+
+spells_3AE1A (5 octets)
+EN: Para 
+FR: Para
+
+spells_3AE20 (5 octets)
+EN: Ice 2
+FR: Gel 2
+
+spells_3AE26 (5 octets)
+EN: Mute 
+FR: Muet
+
+spells_3AE2C (5 octets)
+EN: Fire2
+FR: Feu 2
+
+spells_3AE32 (5 octets)
+EN: Erase
+FR: Effac
+
+spells_3AE38 (5 octets)
+EN: Lit 2
+FR: Foud2
+
+spells_3AE3E (5 octets)
+EN: Exit 
+FR: Sorti
+
+spells_3AE44 (5 octets)
+EN: Virus
+FR: Virus
+
+spells_3AE4A (5 octets)
+EN: Drain
+FR: Drain
+
+spells_3AE50 (5 octets)
+EN: Nuke 
+FR: Nucle
+
+spells_3AE56 (5 octets)
+EN: Fatal
+FR: Mort
+
+spells_3AE5C (5 octets)
+EN: Dive 
+FR: Plong
+
+spells_3AE62 (5 octets)
+EN: Float
+FR: Flott
+
+spells_3AE68 (5 octets)
+EN: Pure 
+FR: Pur
+
+spells_3AE6E (5 octets)
+EN: CureA
+FR: SoinA
+
+spells_3AE74 (5 octets)
+EN: Flood
+FR: Delug
+
+spells_3AE7A (5 octets)
+EN: Morph
+FR: Morph
+
+spells_3AE80 (5 octets)
+EN: CureB
+FR: SoinB
+
+spells_3AE86 (5 octets)
+EN: Wind 
+FR: Vent
+
+spells_3AE8C (5 octets)
+EN: FireX
+FR: Feu X
+
+spells_3AE92 (5 octets)
+EN: Cycle
+FR: Cycle
+
+spells_3AE98 (5 octets)
+EN: Shake
+FR: Seism
+
+spells_3AE9E (5 octets)
+EN: LifeA
+FR: Vie A
+
+spells_3AEA4 (5 octets)
+EN: Exit2
+FR: Sort2
+
+spells_3AEAA (5 octets)
+EN: Lit X
+FR: FoudX
+
+spells_3AEB0 (5 octets)
+EN: LifeB
+FR: Vie B
+
+spells_3AEB6 (5 octets)
+EN: Flare
+FR: Brasr
+
+items_equipment_3AEBC (7 octets)
+EN: Long   
+FR: Longue
+
+items_equipment_3AEC4 (7 octets)
+EN: Battle 
+FR: Guerre
+
+items_equipment_3AECC (7 octets)
+EN: Silver 
+FR: Argent
+
+items_equipment_3AED4 (7 octets)
+EN: Gold   
+FR: Or
+
+items_equipment_3AEDC (7 octets)
+EN: Laser  
+FR: Laser
+
+items_equipment_3AEE4 (7 octets)
+EN: Psi    
+FR: Psi
+
+items_equipment_3AEEC (7 octets)
+EN: Defence
+FR: Défense
+
+items_equipment_3AEF4 (7 octets)
+EN: Drain  
+FR: Drain
+
+items_equipment_3AEFC (7 octets)
+EN: Emperor
+FR: Empereu
+
+items_equipment_3AF04 (7 octets)
+EN: Xcalibr
+FR: Xcalibr
+
+items_equipment_3AF0C (7 octets)
+EN: Durend 
+FR: Durend
+
+items_equipment_3AF14 (7 octets)
+EN: Masmune
+FR: Masmune
+
+items_equipment_3AF1C (7 octets)
+EN: Muramas
+FR: Muramas
+
+items_equipment_3AF24 (7 octets)
+EN: X-Plane
+FR: X-Plan
+
+items_equipment_3AF2C (7 octets)
+EN: Dragon 
+FR: Dragon
+
+items_equipment_3AF34 (7 octets)
+EN: Sun    
+FR: Soleil
+
+items_equipment_3AF3C (7 octets)
+EN: Adamant
+FR: Adamant
+
+items_equipment_3AF44 (7 octets)
+EN: Psi    
+FR: Psi
+
+items_equipment_3AF4C (7 octets)
+EN: Iron   
+FR: Fer
+
+items_equipment_3AF54 (7 octets)
+EN: Gold   
+FR: Or
+
+items_equipment_3AF5C (7 octets)
+EN: Rune   
+FR: Rune
+
+items_equipment_3AF64 (7 octets)
+EN: Tomhawk
+FR: Tomahaw
+
+items_equipment_3AF6C (7 octets)
+EN: Battle 
+FR: Guerre
+
+items_equipment_3AF74 (7 octets)
+EN: Para   
+FR: Para
+
+items_equipment_3AF7C (7 octets)
+EN: CatClaw
+FR: GrifCha
+
+items_equipment_3AF84 (7 octets)
+EN: Poison 
+FR: Poison
+
+items_equipment_3AF8C (7 octets)
+EN: Petrify
+FR: Petrif
+
+items_equipment_3AF94 (7 octets)
+EN: Battle 
+FR: Guerre
+
+items_equipment_3AF9C (7 octets)
+EN: Gungnir
+FR: Gungnir
+
+items_equipment_3AFA4 (7 octets)
+EN: White  
+FR: Blanche
+
+items_equipment_3AFAC (7 octets)
+EN: Thunder
+FR: Foudre
+
+items_equipment_3AFB4 (7 octets)
+EN: X-Plane
+FR: X-Plan
+
+items_equipment_3AFBC (7 octets)
+EN: Gold   
+FR: Or
+
+items_equipment_3AFC4 (7 octets)
+EN: Bronze 
+FR: Bronze
+
+items_equipment_3AFCC (7 octets)
+EN: Fire   
+FR: Feu
+
+items_equipment_3AFD4 (7 octets)
+EN: Fast   
+FR: Rapide
+
+items_equipment_3AFDC (7 octets)
+EN: X-Fire 
+FR: Feu X
+
+items_equipment_3AFE4 (7 octets)
+EN: Wall   
+FR: Mur
+
+items_equipment_3AFEC (7 octets)
+EN: Razor  
+FR: Rasoir
+
+items_equipment_3AFF4 (7 octets)
+EN: B-Jack 
+FR: B-Jack
+
+items_equipment_3AFFC (7 octets)
+EN: Blitz  
+FR: Eclair
+
+items_equipment_3B004 (7 octets)
+EN: Saw    
+FR: Scie
+
+items_equipment_3B00C (7 octets)
+EN: Boomrng
+FR: Boomrng
+
+items_equipment_3B014 (7 octets)
+EN: Ninja  
+FR: Ninja
+
+items_equipment_3B01C (7 octets)
+EN: Poison 
+FR: Poison
+
+items_equipment_3B024 (7 octets)
+EN: Magnum 
+FR: Magnum
+
+items_equipment_3B02C (7 octets)
+EN: SMG    
+FR: Mitrail
+
+items_equipment_3B034 (7 octets)
+EN: Laser  
+FR: Laser
+
+items_equipment_3B03C (7 octets)
+EN: Psi    
+FR: Psi
+
+items_equipment_3B044 (7 octets)
+EN: Fire   
+FR: Feu
+
+items_equipment_3B04C (7 octets)
+EN: Punch  
+FR: Poing
+
+items_equipment_3B054 (7 octets)
+EN: Kick   
+FR: Pied
+
+items_equipment_3B05C (7 octets)
+EN: Headbut
+FR: CoupTet
+
+items_equipment_3B064 (7 octets)
+EN: X-Kick 
+FR: Pied X
+
+items_equipment_3B06C (7 octets)
+EN: Smother
+FR: Etouffe
+
+items_equipment_3B074 (7 octets)
+EN: Kneebut
+FR: Genou
+
+items_equipment_3B07C (7 octets)
+EN: Jyudo  
+FR: Judo
+
+items_equipment_3B084 (7 octets)
+EN: Karate 
+FR: Karate
+
+items_equipment_3B08C (7 octets)
+EN: Long   
+FR: Longue
+
+items_equipment_3B094 (7 octets)
+EN: Gold   
+FR: Or
+
+items_equipment_3B09C (7 octets)
+EN: Elven  
+FR: Elfique
+
+items_equipment_3B0A4 (7 octets)
+EN: Samurai
+FR: Samurai
+
+items_equipment_3B0AC (7 octets)
+EN: TearGas
+FR: GazLacr
+
+items_equipment_3B0B4 (7 octets)
+EN: Star   
+FR: Etoile
+
+items_equipment_3B0BC (7 octets)
+EN: Nuke   
+FR: Nucle
+
+items_equipment_3B0C4 (7 octets)
+EN: TNT    
+FR: TNT
+
+items_equipment_3B0CC (7 octets)
+EN: Grenade
+FR: Grenade
+
+items_equipment_3B0D4 (7 octets)
+EN: Napalm 
+FR: Napalm
+
+items_equipment_3B0DC (7 octets)
+EN: ATM    
+FR: ATM
+
+items_equipment_3B0E4 (7 octets)
+EN: Missile
+FR: Missile
+
+items_equipment_3B0EC (7 octets)
+EN: Vulkan 
+FR: Vulkan
+
+items_equipment_3B0F4 (7 octets)
+EN: Laser  
+FR: Laser
+
+items_equipment_3B0FC (7 octets)
+EN: Bronze 
+FR: Bronze
+
+items_equipment_3B104 (7 octets)
+EN: Silver 
+FR: Argent
+
+items_equipment_3B10C (7 octets)
+EN: Gold   
+FR: Or
+
+items_equipment_3B114 (7 octets)
+EN: Speed  
+FR: Vitesse
+
+items_equipment_3B11C (7 octets)
+EN: X-Plane
+FR: X-Plan
+
+items_equipment_3B124 (7 octets)
+EN: Dragon 
+FR: Dragon
+
+items_equipment_3B12C (7 octets)
+EN: Fire   
+FR: Feu
+
+items_equipment_3B134 (7 octets)
+EN: Ice    
+FR: Glace
+
+items_equipment_3B13C (7 octets)
+EN: Diamond
+FR: Diamant
+
+items_equipment_3B144 (7 octets)
+EN: Mirror 
+FR: Miroir
+
+items_equipment_3B14C (7 octets)
+EN: Samurai
+FR: Samurai
+
+items_equipment_3B154 (7 octets)
+EN: Aegis  
+FR: Aegis
+
+items_equipment_3B15C (7 octets)
+EN: Bronze 
+FR: Bronze
+
+items_equipment_3B164 (7 octets)
+EN: Silver 
+FR: Argent
+
+items_equipment_3B16C (7 octets)
+EN: Gold   
+FR: Or
+
+items_equipment_3B174 (7 octets)
+EN: Leather
+FR: Cuir
+
+items_equipment_3B17C (7 octets)
+EN: X-Plane
+FR: X-Plan
+
+items_equipment_3B184 (7 octets)
+EN: Dragon 
+FR: Dragon
+
+items_equipment_3B18C (7 octets)
+EN: Speed  
+FR: Vitesse
+
+items_equipment_3B194 (7 octets)
+EN: SandMan
+FR: Sable
+
+items_equipment_3B19C (7 octets)
+EN: Diamond
+FR: Diamant
+
+items_equipment_3B1A4 (7 octets)
+EN: Mirror 
+FR: Miroir
+
+items_equipment_3B1AC (7 octets)
+EN: Samurai
+FR: Samurai
+
+items_equipment_3B1B4 (7 octets)
+EN: Hecate 
+FR: Hecate
+
+items_equipment_3B1BC (7 octets)
+EN: Leather
+FR: Cuir
+
+items_equipment_3B1C4 (7 octets)
+EN: Bronze 
+FR: Bronze
+
+items_equipment_3B1CC (7 octets)
+EN: Silver 
+FR: Argent
+
+items_equipment_3B1D4 (7 octets)
+EN: Gold   
+FR: Or
+
+items_equipment_3B1DC (7 octets)
+EN: Psi    
+FR: Psi
+
+items_equipment_3B1E4 (7 octets)
+EN: Fur    
+FR: Fourrur
+
+items_equipment_3B1EC (7 octets)
+EN: Speed  
+FR: Vitesse
+
+items_equipment_3B1F4 (7 octets)
+EN: Battle 
+FR: Guerre
+
+items_equipment_3B1FC (7 octets)
+EN: Mage   
+FR: Mage
+
+items_equipment_3B204 (7 octets)
+EN: Dragon 
+FR: Dragon
+
+items_equipment_3B20C (7 octets)
+EN: Diamond
+FR: Diamant
+
+items_equipment_3B214 (7 octets)
+EN: Mirror 
+FR: Miroir
+
+items_equipment_3B21C (7 octets)
+EN: Wizard 
+FR: Sorcier
+
+items_equipment_3B224 (7 octets)
+EN: Samurai
+FR: Samurai
+
+items_equipment_3B22C (7 octets)
+EN: Power  
+FR: Force
+
+items_equipment_3B234 (7 octets)
+EN: Light  
+FR: Lumiere
+
+items_equipment_3B23C (7 octets)
+EN: Leather
+FR: Cuir
+
+items_equipment_3B244 (7 octets)
+EN: Iron   
+FR: Fer
+
+items_equipment_3B24C (7 octets)
+EN: Silver 
+FR: Argent
+
+items_equipment_3B254 (7 octets)
+EN: Gold   
+FR: Or
+
+items_equipment_3B25C (7 octets)
+EN: Bronze 
+FR: Bronze
+
+items_equipment_3B264 (7 octets)
+EN: Dragon 
+FR: Dragon
+
+items_equipment_3B26C (7 octets)
+EN: Diamond
+FR: Diamant
+
+items_equipment_3B274 (7 octets)
+EN: Mirror 
+FR: Miroir
+
+items_equipment_3B27C (7 octets)
+EN: Samurai
+FR: Samurai
+
+items_equipment_3B284 (7 octets)
+EN: Power  
+FR: Force
+
+items_equipment_3B28C (7 octets)
+EN: Leather
+FR: Cuir
+
+items_equipment_3B294 (7 octets)
+EN: Iron   
+FR: Fer
+
+items_equipment_3B29C (7 octets)
+EN: Gold   
+FR: Or
+
+items_equipment_3B2A4 (7 octets)
+EN: Bronze 
+FR: Bronze
+
+items_equipment_3B2AC (7 octets)
+EN: Speed  
+FR: Vitesse
+
+items_equipment_3B2B4 (7 octets)
+EN: Dragon 
+FR: Dragon
+
+items_equipment_3B2BC (7 octets)
+EN: Geta   
+FR: Geta
+
+items_equipment_3B2C4 (7 octets)
+EN: Diamond
+FR: Diamant
+
+items_equipment_3B2CC (7 octets)
+EN: Hecate 
+FR: Hecate
+
+items_equipment_3B2D4 (7 octets)
+EN: Hermes 
+FR: Hermes
+
+items_equipment_3B2DC (7 octets)
+EN: Scarf  
+FR: Echarpe
+
+items_equipment_3B2E4 (7 octets)
+EN: Ribbon 
+FR: Ruban
+
+items_equipment_3B2EC (7 octets)
+EN: Bangle 
+FR: Bracele
+
+items_equipment_3B2F4 (7 octets)
+EN: Armlet 
+FR: Brassrd
+
+items_equipment_3B2FC (7 octets)
+EN: Belt   
+FR: Ceintur
+
+items_equipment_3B304 (7 octets)
+EN: Pendant
+FR: Pendent
+
+items_equipment_3B30C (7 octets)
+EN: Plume  
+FR: Plume
+
+items_equipment_3B314 (7 octets)
+EN: Brooch 
+FR: Broche
+
+items_equipment_3B31C (7 octets)
+EN: Earring
+FR: Boucle
+
+items_equipment_3B324 (7 octets)
+EN: Shades 
+FR: Lunette
+
+items_equipment_3B32C (7 octets)
+EN: Cool   
+FR: Frais
+
+items_equipment_3B334 (7 octets)
+EN: Warm   
+FR: Chaud
+
+items_equipment_3B33C (7 octets)
+EN: Cure1  
+FR: Soin1
+
+items_equipment_3B344 (7 octets)
+EN: Cure2  
+FR: Soin2
+
+items_equipment_3B34C (7 octets)
+EN: Cure3  
+FR: Soin3
+
+items_equipment_3B354 (7 octets)
+EN: Soft   
+FR: Depetr
+
+items_equipment_3B35C (7 octets)
+EN: Throat 
+FR: Voix
+
+items_equipment_3B364 (7 octets)
+EN: EyeDrop
+FR: Collyre
+
+items_equipment_3B36C (7 octets)
+EN: Antedot
+FR: Antidot
+
+items_equipment_3B374 (7 octets)
+EN: Relax  
+FR: Detente
+
+items_equipment_3B37C (7 octets)
+EN: Awake  
+FR: Réveil
+
+items_equipment_3B384 (7 octets)
+EN: Calm   
+FR: Calme
+
+items_equipment_3B38C (7 octets)
+EN: Elixir 
+FR: Elixir
+
+items_equipment_3B394 (7 octets)
+EN: Tent   
+FR: Tente
+
+items_equipment_3B39C (7 octets)
+EN:        
+FR: (non traduit / a verifier)
+
+items_equipment_3B3A4 (7 octets)
+EN: HP     
+FR: PV
+
+items_equipment_3B3AC (7 octets)
+EN: Attack 
+FR: Attaqué
+
+items_equipment_3B3B4 (7 octets)
+EN: Defence
+FR: Défense
+
+items_equipment_3B3BC (7 octets)
+EN: Speed  
+FR: Vitesse
+
+items_equipment_3B3C4 (7 octets)
+EN: Magic  
+FR: Magie
+
+items_equipment_3B3CC (7 octets)
+EN: Earth  
+FR: Terre
+
+items_equipment_3B3D4 (7 octets)
+EN: Water  
+FR: Eau
+
+items_equipment_3B3DC (7 octets)
+EN: Fire   
+FR: Feu
+
+items_equipment_3B3E4 (7 octets)
+EN: Air    
+FR: Air
+
+items_equipment_3B3EC (7 octets)
+EN: Dark   
+FR: Ombre
+
+items_equipment_3B3F4 (7 octets)
+EN: Light  
+FR: Lumiere
+
+items_equipment_3B3FC (7 octets)
+EN: Cannon 
+FR: Canon
+
+items_equipment_3B404 (7 octets)
+EN: Missile
+FR: Missile
+
+items_equipment_3B40C (7 octets)
+EN: Laser  
+FR: Laser
+
+items_equipment_3B414 (7 octets)
+EN: E-Ray  
+FR: E-Ray
+
+items_equipment_3B41C (7 octets)
+EN: Berth  
+FR: Couchet
+
+items_equipment_3B424 (7 octets)
+EN: Flushex
+FR: Flushex
+
+items_equipment_3B42C (7 octets)
+EN: Rover  
+FR: Roulant
+
+items_equipment_3B434 (7 octets)
+EN: Hover  
+FR: Planeur
+
+items_equipment_3B43C (7 octets)
+EN: Soar   
+FR: Vol
+
+items_equipment_3B444 (7 octets)
+EN: Past   
+FR: Passé
+
+items_equipment_3B44C (7 octets)
+EN: Future 
+FR: Futur
+
+items_equipment_3B454 (7 octets)
+EN: X-Plane
+FR: X-Plan
+
+items_equipment_3B45C (7 octets)
+EN: Shield 
+FR: Bouclie
+
+items_equipment_3B464 (7 octets)
+EN:        
+FR: (non traduit / a verifier)
+
+items_equipment_3B46C (7 octets)
+EN: Radar  
+FR: Radar
+
+items_equipment_3B474 (7 octets)
+EN: Remote 
+FR: Telecom
+
+items_equipment_3B47C (7 octets)
+EN: Rocket 
+FR: Fusee
+
+items_equipment_3B484 (7 octets)
+EN: Radio  
+FR: Radio
+
+items_equipment_3B48C (7 octets)
+EN: Tower  
+FR: Tour
+
+items_equipment_3B494 (7 octets)
+EN: Chaos  
+FR: Chaos
+
+items_equipment_3B49C (7 octets)
+EN: Ifram  
+FR: Ifram
+
+items_equipment_3B4A4 (7 octets)
+EN:        
+FR: (non traduit / a verifier)
+
+items_equipment_3B4AC (7 octets)
+EN: Tablet 
+FR: Tablett
+
+items_equipment_3B4B4 (7 octets)
+EN:        
+FR: (non traduit / a verifier)
+
+items_equipment_3B4BC (7 octets)
+EN: Katana 
+FR: Katana
+
+items_equipment_3B4C4 (7 octets)
+EN: Emblem 
+FR: Embleme
+
+items_equipment_3B4CC (7 octets)
+EN: Crystal
+FR: Cristal
+
+items_equipment_3B4D4 (7 octets)
+EN: Metal  
+FR: Metal
+
+items_equipment_3B4DC (7 octets)
+EN: Oil    
+FR: Huile
+
+items_equipment_3B4E4 (7 octets)
+EN: Catnip 
+FR: HerbCha
+
+items_equipment_3B4EC (7 octets)
+EN:        
+FR: (non traduit / a verifier)
+
+items_equipment_3B4F4 (7 octets)
+EN: Prison 
+FR: Prison
+
+items_equipment_3B4FC (7 octets)
+EN: Pass   
+FR: Passage
+
+items_equipment_3B504 (7 octets)
+EN:        
+FR: (non traduit / a verifier)
+
+items_equipment_3B50C (7 octets)
+EN:        
+FR: (non traduit / a verifier)
+
+enemies_3B513 (8 octets)
+EN: Buji    
+FR: Buji
+
+enemies_3B51B (8 octets)
+EN: Shar    
+FR: Shar
+
+enemies_3B523 (8 octets)
+EN: Juba    
+FR: Juba
+
+enemies_3B52B (8 octets)
+EN: Masa    
+FR: Masa
+
+enemies_3B533 (8 octets)
+EN: Fungus  
+FR: Champign
+
+enemies_3B53B (8 octets)
+EN: Mushroom
+FR: Champign
+
+enemies_3B543 (8 octets)
+EN: Starfish
+FR: EtoilMer
+
+enemies_3B54B (8 octets)
+EN: Pentagon
+FR: Pentagon
+
+enemies_3B553 (8 octets)
+EN: F-Drake 
+FR: DracFeu
+
+enemies_3B55B (8 octets)
+EN: F-Liz.  
+FR: LezarFeu
+
+enemies_3B563 (8 octets)
+EN: Salamand
+FR: Salamand
+
+enemies_3B56B (8 octets)
+EN: Raven   
+FR: Corbeau
+
+enemies_3B573 (8 octets)
+EN: Amprex  
+FR: Amprex
+
+enemies_3B57B (8 octets)
+EN: Griffon 
+FR: Griffon
+
+enemies_3B583 (8 octets)
+EN: Worm    
+FR: Ver
+
+enemies_3B58B (8 octets)
+EN: LandWorm
+FR: VerTerre
+
+enemies_3B593 (8 octets)
+EN: GigaWorm
+FR: VerGeant
+
+enemies_3B59B (8 octets)
+EN: Turtle  
+FR: Tortue
+
+enemies_3B5A3 (8 octets)
+EN: Adamant 
+FR: Adamant
+
+enemies_3B5AB (8 octets)
+EN: Igasaur 
+FR: Igasaur
+
+enemies_3B5B3 (8 octets)
+EN: Wisper  
+FR: FeuFolle
+
+enemies_3B5BB (8 octets)
+EN: Fireball
+FR: BoulFeu
+
+enemies_3B5C3 (8 octets)
+EN: Big Eye 
+FR: GrosOeil
+
+enemies_3B5CB (8 octets)
+EN: Evil Eye
+FR: MauvOeil
+
+enemies_3B5D3 (8 octets)
+EN: BlackCat
+FR: ChatNoir
+
+enemies_3B5DB (8 octets)
+EN: MummyCat
+FR: ChatMomi
+
+enemies_3B5E3 (8 octets)
+EN: Squid   
+FR: Calmar
+
+enemies_3B5EB (8 octets)
+EN: Amoeba  
+FR: Amibe
+
+enemies_3B5F3 (8 octets)
+EN: Tire    
+FR: Pneu
+
+enemies_3B5FB (8 octets)
+EN: Wheel   
+FR: Roue
+
+enemies_3B603 (8 octets)
+EN: FireFan 
+FR: EventFeu
+
+enemies_3B60B (8 octets)
+EN: BabyWyrm
+FR: BebeWyrm
+
+enemies_3B613 (8 octets)
+EN: Wyrm Kid
+FR: JeunWyrm
+
+enemies_3B61B (8 octets)
+EN: Wyrm    
+FR: Wyrm
+
+enemies_3B623 (8 octets)
+EN: Wolf    
+FR: Loup
+
+enemies_3B62B (8 octets)
+EN: GreyWolf
+FR: LoupGris
+
+enemies_3B633 (8 octets)
+EN: Romulus 
+FR: Romulus
+
+enemies_3B63B (8 octets)
+EN: Ray     
+FR: Raie
+
+enemies_3B643 (8 octets)
+EN: DrainRay
+FR: RaieAbs
+
+enemies_3B64B (8 octets)
+EN: BoltRay 
+FR: RaieElec
+
+enemies_3B653 (8 octets)
+EN: D.Bone  
+FR: OsDragon
+
+enemies_3B65B (8 octets)
+EN: D.Fossil
+FR: FossDrag
+
+enemies_3B663 (8 octets)
+EN: Typhoon 
+FR: Typhon
+
+enemies_3B66B (8 octets)
+EN: Tempest 
+FR: Tempete
+
+enemies_3B673 (8 octets)
+EN: Scorpion
+FR: Scorpion
+
+enemies_3B67B (8 octets)
+EN: Hunter  
+FR: Chasseur
+
+enemies_3B683 (8 octets)
+EN: Angler  
+FR: Pecheur
+
+enemies_3B68B (8 octets)
+EN: BulbFish
+FR: PoissAmp
+
+enemies_3B693 (8 octets)
+EN: DualMask
+FR: MasqDoub
+
+enemies_3B69B (8 octets)
+EN: EvilMask
+FR: MasqMal
+
+enemies_3B6A3 (8 octets)
+EN: Ghost   
+FR: Fantome
+
+enemies_3B6AB (8 octets)
+EN: Specter 
+FR: Spectre
+
+enemies_3B6B3 (8 octets)
+EN: Snake   
+FR: Serpent
+
+enemies_3B6BB (8 octets)
+EN: Serpent 
+FR: Serpent
+
+enemies_3B6C3 (8 octets)
+EN: Hydra   
+FR: Hydre
+
+enemies_3B6CB (8 octets)
+EN: Octopus 
+FR: Pieuvre
+
+enemies_3B6D3 (8 octets)
+EN: Ammonite
+FR: Ammonite
+
+enemies_3B6DB (8 octets)
+EN: Kraken  
+FR: Kraken
+
+enemies_3B6E3 (8 octets)
+EN: Baby-D  
+FR: BebeDrag
+
+enemies_3B6EB (8 octets)
+EN: Young-D 
+FR: JeunDrag
+
+enemies_3B6F3 (8 octets)
+EN: Sei-Ryu 
+FR: Sei-Ryu
+
+enemies_3B6FB (8 octets)
+EN: Gargoyle
+FR: Gargouil
+
+enemies_3B703 (8 octets)
+EN: Remora  
+FR: Remora
+
+enemies_3B70B (8 octets)
+EN: Garuda  
+FR: Garuda
+
+enemies_3B713 (8 octets)
+EN: Silver  
+FR: Argent
+
+enemies_3B71B (8 octets)
+EN: Kelpie  
+FR: Kelpie
+
+enemies_3B723 (8 octets)
+EN: Mustang 
+FR: Mustang
+
+enemies_3B72B (8 octets)
+EN: Centaur 
+FR: Centaure
+
+enemies_3B733 (8 octets)
+EN: Nitemare
+FR: Cauchemr
+
+enemies_3B73B (8 octets)
+EN: Orc-Orc 
+FR: Orque
+
+enemies_3B743 (8 octets)
+EN: Mad Boar
+FR: Sanglier
+
+enemies_3B74B (8 octets)
+EN: Pirate  
+FR: Pirate
+
+enemies_3B753 (8 octets)
+EN: Werepig 
+FR: PorcGar
+
+enemies_3B75B (8 octets)
+EN: Viking  
+FR: Viking
+
+enemies_3B763 (8 octets)
+EN: Diviner 
+FR: Devin
+
+enemies_3B76B (8 octets)
+EN: Broomer 
+FR: Balayeur
+
+enemies_3B773 (8 octets)
+EN: Witch   
+FR: Sorciere
+
+enemies_3B77B (8 octets)
+EN: Magician
+FR: Magicien
+
+enemies_3B783 (8 octets)
+EN: Wizard  
+FR: Sorcier
+
+enemies_3B78B (8 octets)
+EN: Sprite  
+FR: Esprit
+
+enemies_3B793 (8 octets)
+EN: Nymph   
+FR: Nymphe
+
+enemies_3B79B (8 octets)
+EN: Fairy   
+FR: Fee
+
+enemies_3B7A3 (8 octets)
+EN: Pixie   
+FR: Lutin
+
+enemies_3B7AB (8 octets)
+EN: Sylph   
+FR: Sylphe
+
+enemies_3B7B3 (8 octets)
+EN: Medusa  
+FR: Meduse
+
+enemies_3B7BB (8 octets)
+EN: Lamia   
+FR: Lamia
+
+enemies_3B7C3 (8 octets)
+EN: Naga    
+FR: Naga
+
+enemies_3B7CB (8 octets)
+EN: Scylla  
+FR: Scylla
+
+enemies_3B7D3 (8 octets)
+EN: Echidna 
+FR: Echidna
+
+enemies_3B7DB (8 octets)
+EN: Fish Man
+FR: H.Poiss
+
+enemies_3B7E3 (8 octets)
+EN: Merman  
+FR: Triton
+
+enemies_3B7EB (8 octets)
+EN: Nix     
+FR: Nix
+
+enemies_3B7F3 (8 octets)
+EN: Selkie  
+FR: Selkie
+
+enemies_3B7FB (8 octets)
+EN: Gill Man
+FR: H.Branch
+
+enemies_3B803 (8 octets)
+EN: Watcher 
+FR: Guetteur
+
+enemies_3B80B (8 octets)
+EN: Hermit  
+FR: Ermite
+
+enemies_3B813 (8 octets)
+EN: Mage    
+FR: Mage
+
+enemies_3B81B (8 octets)
+EN: Sorcerer
+FR: Sorcier
+
+enemies_3B823 (8 octets)
+EN: Warlock 
+FR: MagNoir
+
+enemies_3B82B (8 octets)
+EN: Thanos  
+FR: Thanos
+
+enemies_3B833 (8 octets)
+EN: Soarx   
+FR: Soarx
+
+enemies_3B83B (8 octets)
+EN: Siren   
+FR: Sirene
+
+enemies_3B843 (8 octets)
+EN: Succubus
+FR: Succube
+
+enemies_3B84B (8 octets)
+EN: Sphinx  
+FR: Sphinx
+
+enemies_3B853 (8 octets)
+EN: Fighter 
+FR: Combatt
+
+enemies_3B85B (8 octets)
+EN: Warrior 
+FR: Guerrier
+
+enemies_3B863 (8 octets)
+EN: Liz Man 
+FR: H.Lezard
+
+enemies_3B86B (8 octets)
+EN: Liz Duke
+FR: DucLezar
+
+enemies_3B873 (8 octets)
+EN: Liz King
+FR: RoiLezar
+
+enemies_3B87B (8 octets)
+EN: SeaMonk 
+FR: MoinMer
+
+enemies_3B883 (8 octets)
+EN: SaltMonk
+FR: MoinSel
+
+enemies_3B88B (8 octets)
+EN: Brooder 
+FR: Couveur
+
+enemies_3B893 (8 octets)
+EN: Big Head
+FR: GrosTete
+
+enemies_3B89B (8 octets)
+EN: Dagon   
+FR: Dagon
+
+enemies_3B8A3 (8 octets)
+EN: Thoth   
+FR: Thoth
+
+enemies_3B8AB (8 octets)
+EN: Horus   
+FR: Horus
+
+enemies_3B8B3 (8 octets)
+EN: Familiar
+FR: Familier
+
+enemies_3B8BB (8 octets)
+EN: Fiend   
+FR: Demon
+
+enemies_3B8C3 (8 octets)
+EN: Osiris  
+FR: Osiris
+
+enemies_3B8CB (8 octets)
+EN: Set     
+FR: Set
+
+enemies_3B8D3 (8 octets)
+EN: Loki    
+FR: Loki
+
+enemies_3B8DB (8 octets)
+EN: Mephisto
+FR: Mephisto
+
+enemies_3B8E3 (8 octets)
+EN: Anubis  
+FR: Anubis
+
+enemies_3B8EB (8 octets)
+EN: Aeshma  
+FR: Aeshma
+
+enemies_3B8F3 (8 octets)
+EN: Hooligan
+FR: Voyou
+
+enemies_3B8FB (8 octets)
+EN: Thief   
+FR: Voleur
+
+enemies_3B903 (8 octets)
+EN: Burgler 
+FR: Cambrio
+
+enemies_3B90B (8 octets)
+EN: Brigand 
+FR: Brigand
+
+enemies_3B913 (8 octets)
+EN: Outlaw  
+FR: HorsLoi
+
+enemies_3B91B (8 octets)
+EN: Quacky  
+FR: Quacky
+
+enemies_3B923 (8 octets)
+EN: Stranger
+FR: Etranger
+
+enemies_3B92B (8 octets)
+EN: Imposter
+FR: Imposteu
+
+enemies_3B933 (8 octets)
+EN: LoonyGuy
+FR: Fou
+
+enemies_3B93B (8 octets)
+EN: Cracker 
+FR: Crackeur
+
+enemies_3B943 (8 octets)
+EN: Soldier 
+FR: Soldat
+
+enemies_3B94B (8 octets)
+EN: Terorist
+FR: Terror
+
+enemies_3B953 (8 octets)
+EN: Commando
+FR: Commando
+
+enemies_3B95B (8 octets)
+EN: HiredGun
+FR: Mercen
+
+enemies_3B963 (8 octets)
+EN: SS      
+FR: SS
+
+enemies_3B96B (8 octets)
+EN: Ronin   
+FR: Ronin
+
+enemies_3B973 (8 octets)
+EN: Samurai 
+FR: Samurai
+
+enemies_3B97B (8 octets)
+EN: Hatamoto
+FR: Hatamoto
+
+enemies_3B983 (8 octets)
+EN: Daimyo  
+FR: Daimyo
+
+enemies_3B98B (8 octets)
+EN: Shogun  
+FR: Shogun
+
+enemies_3B993 (8 octets)
+EN: Talker  
+FR: Bavard
+
+enemies_3B99B (8 octets)
+EN: Busybody
+FR: Fouineur
+
+enemies_3B9A3 (8 octets)
+EN: Rumorer 
+FR: Rumeur
+
+enemies_3B9AB (8 octets)
+EN: Tattler 
+FR: Rapporte
+
+enemies_3B9B3 (8 octets)
+EN: Virago  
+FR: Virago
+
+enemies_3B9BB (8 octets)
+EN: Headless
+FR: SansTete
+
+enemies_3B9C3 (8 octets)
+EN: Duke    
+FR: Duc
+
+enemies_3B9CB (8 octets)
+EN: Dullahan
+FR: Dullahan
+
+enemies_3B9D3 (8 octets)
+EN: Brain   
+FR: Cerveau
+
+enemies_3B9DB (8 octets)
+EN: Removed 
+FR: Retire
+
+enemies_3B9E3 (8 octets)
+EN: Orb Rat 
+FR: RatOrbe
+
+enemies_3B9EB (8 octets)
+EN: Tomtom  
+FR: Tomtom
+
+enemies_3B9F3 (8 octets)
+EN: Jerrit  
+FR: Jerrit
+
+enemies_3B9FB (8 octets)
+EN: Maitie  
+FR: Maitie
+
+enemies_3BA03 (8 octets)
+EN: Spectrat
+FR: Spectrat
+
+enemies_3BA0B (8 octets)
+EN: Flower  
+FR: Fleur
+
+enemies_3BA13 (8 octets)
+EN: Cosmos  
+FR: Cosmos
+
+enemies_3BA1B (8 octets)
+EN: IronRose
+FR: RoseFer
+
+enemies_3BA23 (8 octets)
+EN: Reaper  
+FR: Faucheur
+
+enemies_3BA2B (8 octets)
+EN: Cactus  
+FR: Cactus
+
+enemies_3BA33 (8 octets)
+EN: Guard   
+FR: Garde
+
+enemies_3BA3B (8 octets)
+EN: Keeper  
+FR: Gardien
+
+enemies_3BA43 (8 octets)
+EN: Monitor 
+FR: Controle
+
+enemies_3BA4B (8 octets)
+EN: Searcher
+FR: Cherche
+
+enemies_3BA53 (8 octets)
+EN: Alert   
+FR: Alerte
+
+enemies_3BA5B (8 octets)
+EN: Bazooka 
+FR: Bazooka
+
+enemies_3BA63 (8 octets)
+EN: 75mm    
+FR: 75mm
+
+enemies_3BA6B (8 octets)
+EN: 105mm   
+FR: 105mm
+
+enemies_3BA73 (8 octets)
+EN: 150mm   
+FR: 150mm
+
+enemies_3BA7B (8 octets)
+EN: 210mm   
+FR: 210mm
+
+enemies_3BA83 (8 octets)
+EN: Trixter 
+FR: Farceur
+
+enemies_3BA8B (8 octets)
+EN: Con Man 
+FR: Escroc
+
+enemies_3BA93 (8 octets)
+EN: Beguiler
+FR: Trompeur
+
+enemies_3BA9B (8 octets)
+EN: Swindler
+FR: Arnaque
+
+enemies_3BAA3 (8 octets)
+EN: Hustler 
+FR: Filou
+
+enemies_3BAAB (8 octets)
+EN: AirMaid 
+FR: FilleAir
+
+enemies_3BAB3 (8 octets)
+EN: IronLady
+FR: DameFer
+
+enemies_3BABB (8 octets)
+EN: Valkyrie
+FR: Valkyrie
+
+enemies_3BAC3 (8 octets)
+EN: Iken    
+FR: Iken
+
+enemies_3BACB (8 octets)
+EN: Venus   
+FR: Venus
+
+enemies_3BAD3 (8 octets)
+EN: WaterHag
+FR: SorciEau
+
+enemies_3BADB (8 octets)
+EN: Dwelg   
+FR: Dwelg
+
+enemies_3BAE3 (8 octets)
+EN: Lara    
+FR: Lara
+
+enemies_3BAEB (8 octets)
+EN: Jorgandr
+FR: Jorgandr
+
+enemies_3BAF3 (8 octets)
+EN: Ashura  
+FR: Ashura
+
+enemies_3BAFB (8 octets)
+EN: Dogra   
+FR: Dogra
+
+enemies_3BB03 (8 octets)
+EN: Chaos   
+FR: Chaos
+
+enemies_3BB0B (8 octets)
+EN: Maitreya
+FR: Maitreya
+
+enemies_3BB13 (8 octets)
+EN: Fenrir  
+FR: Fenrir
+
+enemies_3BB1B (8 octets)
+EN: Guha    
+FR: Guha
+
+enemies_3BB23 (8 octets)
+EN: Dahak   
+FR: Dahak
+
+enemies_3BB2B (8 octets)
+EN: Agron   
+FR: Agron
+
+enemies_3BB33 (8 octets)
+EN: Ballor  
+FR: Ballor
+
+enemies_3BB3B (8 octets)
+EN: Sol     
+FR: Sol
+
+enemies_3BB43 (8 octets)
+EN: Xagor   
+FR: Xagor
+
+stats_267BF (7 octets)
+EN: Attack 
+FR: Attaqué
+
+stats_267C6 (7 octets)
+EN: Defence
+FR: Défense
+
+stats_267CD (7 octets)
+EN: Agility
+FR: Agilite
+
+stats_267D4 (7 octets)
+EN: Magic  
+FR: Magie
+
+stats_267DB (7 octets)
+EN: Hit    
+FR: Toucher
+
+stats_267E2 (7 octets)
+EN: Evade  
+FR: Esquive
+
+stats_267E9 (7 octets)
+EN: M.Def. 
+FR: Def.Mag
+
+stats_267F0 (7 octets)
+EN: M.Evade
+FR: Esq.Mag
+
+talents_267F7 (8 octets)
+EN: Nail    
+FR: Griffe
+
+talents_267FF (8 octets)
+EN: Tusk    
+FR: Défense
+
+talents_26807 (8 octets)
+EN: Tongue  
+FR: Langue
+
+talents_2680F (8 octets)
+EN: Horn    
+FR: Corne
+
+talents_26817 (8 octets)
+EN: Beak    
+FR: Bec
+
+talents_2681F (8 octets)
+EN: Tail    
+FR: Queue
+
+talents_26827 (8 octets)
+EN: Fin     
+FR: Nageoire
+
+talents_2682F (8 octets)
+EN: Tentacle
+FR: Tentacul
+
+talents_26837 (8 octets)
+EN: Acid    
+FR: Acide
+
+talents_2683F (8 octets)
+EN: Sunburst
+FR: EclSol
+
+talents_26847 (8 octets)
+EN: D-Beam  
+FR: Rayon D
+
+talents_2684F (8 octets)
+EN: P-Blast 
+FR: Explos P
+
+talents_26857 (8 octets)
+EN: Rocket  
+FR: Fusee
+
+talents_2685F (8 octets)
+EN: Drill   
+FR: Foreuse
+
+talents_26867 (8 octets)
+EN: Slicer  
+FR: Tranche
+
+talents_2686F (8 octets)
+EN: SpinCut 
+FR: Tournoy
+
+talents_26877 (8 octets)
+EN: Laser   
+FR: Laser
+
+talents_2687F (8 octets)
+EN: Beam    
+FR: Rayon
+
+talents_26887 (8 octets)
+EN: Punch   
+FR: Poing
+
+talents_2688F (8 octets)
+EN: Kick    
+FR: Pied
+
+talents_26897 (8 octets)
+EN: Upper   
+FR: Uppercut
+
+talents_2689F (8 octets)
+EN: Stab    
+FR: Estoc
+
+talents_268A7 (8 octets)
+EN: Headbut 
+FR: CoupTet
+
+talents_268AF (8 octets)
+EN: WindUp  
+FR: Charge
+
+talents_268B7 (8 octets)
+EN: Crash   
+FR: Fracas
+
+talents_268BF (8 octets)
+EN: Bash    
+FR: Frappe
+
+talents_268C7 (8 octets)
+EN: Dive    
+FR: Plongeon
+
+talents_268CF (8 octets)
+EN: Breath  
+FR: Souffle
+
+talents_268D7 (8 octets)
+EN: Bite    
+FR: Morsure
+
+talents_268DF (8 octets)
+EN: Sneer   
+FR: Ricaner
+
+talents_268E7 (8 octets)
+EN: Dispel  
+FR: Dissipe
+
+talents_268EF (8 octets)
+EN: Scream  
+FR: Cri
+
+talents_268F7 (8 octets)
+EN: Knife   
+FR: Couteau
+
+talents_268FF (8 octets)
+EN: Dash    
+FR: Ruee
+
+talents_26907 (8 octets)
+EN: LowKick 
+FR: PiedBas
+
+talents_2690F (8 octets)
+EN: Drop    
+FR: Chute
+
+talents_26917 (8 octets)
+EN: Freeze  
+FR: Geler
+
+talents_2691F (8 octets)
+EN: Dance   
+FR: Danse
+
+talents_26927 (8 octets)
+EN: Tromp   
+FR: Pietine
+
+talents_2692F (8 octets)
+EN: W-Attack
+FR: 2Attaq
+
+talents_26937 (8 octets)
+EN: 2-Swords
+FR: 2Epees
+
+talents_2693F (8 octets)
+EN: 2X-Kick 
+FR: 2Pieds X
+
+talents_26947 (8 octets)
+EN: 2-Tusks 
+FR: 2Defens
+
+talents_2694F (8 octets)
+EN: 3-Heads 
+FR: 3Tetes
+
+talents_26957 (8 octets)
+EN: 4-Heads 
+FR: 4Tetes
+
+talents_2695F (8 octets)
+EN: 6-Arms  
+FR: 6Bras
+
+talents_26967 (8 octets)
+EN: 8-Legs  
+FR: 8Pattes
+
+talents_2696F (8 octets)
+EN: Twice   
+FR: 2Fois
+
+talents_26977 (8 octets)
+EN: 6times  
+FR: 6Fois
+
+talents_2697F (8 octets)
+EN: Quake   
+FR: Seisme
+
+talents_26987 (8 octets)
+EN: Squirt  
+FR: Jet
+
+talents_2698F (8 octets)
+EN: Frost   
+FR: Givre
+
+talents_26997 (8 octets)
+EN: Whirl   
+FR: Tourbill
+
+talents_2699F (8 octets)
+EN: Flame   
+FR: Flamme
+
+talents_269A7 (8 octets)
+EN: Burning 
+FR: Brulure
+
+talents_269AF (8 octets)
+EN: Glow    
+FR: Lueur
+
+talents_269B7 (8 octets)
+EN: Storm   
+FR: Tempete
+
+talents_269BF (8 octets)
+EN: Cyclone 
+FR: Cyclone
+
+talents_269C7 (8 octets)
+EN: Thunder 
+FR: Foudre
+
+talents_269CF (8 octets)
+EN: Explode 
+FR: Exploser
+
+talents_269D7 (8 octets)
+EN: Barrier 
+FR: Barriere
+
+talents_269DF (8 octets)
+EN: Swallow 
+FR: Avaler
+
+talents_269E7 (8 octets)
+EN: Dk-Virus
+FR: VirusN
+
+talents_269EF (8 octets)
+EN: Dk-Force
+FR: ForceN
+
+talents_269F7 (8 octets)
+EN: Fluid   
+FR: Fluide
+
+talents_269FF (8 octets)
+EN: Touch   
+FR: Toucher
+
+talents_26A07 (8 octets)
+EN: Dissolv 
+FR: Dissolv
+
+talents_26A0F (8 octets)
+EN: Absorb  
+FR: Absorbe
+
+talents_26A17 (8 octets)
+EN: Drain   
+FR: Drain
+
+talents_26A1F (8 octets)
+EN: Remedy  
+FR: Remede
+
+talents_26A27 (8 octets)
+EN: Remedy  
+FR: Remede
+
+talents_26A2F (8 octets)
+EN: XPowder 
+FR: Poudre X
+
+talents_26A37 (8 octets)
+EN: X-Gaze  
+FR: Regard X
+
+talents_26A3F (8 octets)
+EN: X-Flash 
+FR: Flash X
+
+talents_26A47 (8 octets)
+EN: X-Heat  
+FR: ChaleurX
+
+talents_26A4F (8 octets)
+EN: StonSkin
+FR: PeauPetr
+
+talents_26A57 (8 octets)
+EN: StonGaze
+FR: RegPetr
+
+talents_26A5F (8 octets)
+EN: StoneGas
+FR: GazPetr
+
+talents_26A67 (8 octets)
+EN: Petrify 
+FR: Petrif
+
+talents_26A6F (8 octets)
+EN: Mute    
+FR: Muet
+
+talents_26A77 (8 octets)
+EN: Silence 
+FR: Silence
+
+talents_26A7F (8 octets)
+EN: Blind   
+FR: Aveugle
+
+talents_26A87 (8 octets)
+EN: Ink     
+FR: Encre
+
+talents_26A8F (8 octets)
+EN: Flash   
+FR: Flash
+
+talents_26A97 (8 octets)
+EN: Poison  
+FR: Poison
+
+talents_26A9F (8 octets)
+EN: Poison  
+FR: Poison
+
+talents_26AA7 (8 octets)
+EN: P-Skin  
+FR: PeauPois
+
+talents_26AAF (8 octets)
+EN: Gaze    
+FR: Regard
+
+talents_26AB7 (8 octets)
+EN: CursSong
+FR: ChantMau
+
+talents_26ABF (8 octets)
+EN: ParaSkin
+FR: PeauPara
+
+talents_26AC7 (8 octets)
+EN: ParaNail
+FR: GrifPara
+
+talents_26ACF (8 octets)
+EN: Gaze    
+FR: Regard
+
+talents_26AD7 (8 octets)
+EN: Paralyze
+FR: Paralysé
+
+talents_26ADF (8 octets)
+EN: Lullaby 
+FR: Berceuse
+
+talents_26AE7 (8 octets)
+EN: SleepGas
+FR: GazDodo
+
+talents_26AEF (8 octets)
+EN: Hypnosis
+FR: Hypnose
+
+talents_26AF7 (8 octets)
+EN: Sleep   
+FR: Sommeil
+
+talents_26AFF (8 octets)
+EN: Decoy   
+FR: Leurre
+
+talents_26B07 (8 octets)
+EN: Riddle  
+FR: Enigme
+
+talents_26B0F (8 octets)
+EN: Charm   
+FR: Charme
+
+talents_26B17 (8 octets)
+EN: Psych   
+FR: Psy
+
+talents_26B1F (8 octets)
+EN: Numb    
+FR: Engourdi
+
+talents_26B27 (8 octets)
+EN: Stench  
+FR: Puanteur
+
+talents_26B2F (8 octets)
+EN: Sand    
+FR: Sable
+
+talents_26B37 (8 octets)
+EN: Blitz   
+FR: Eclair
+
+talents_26B3F (8 octets)
+EN: Soften  
+FR: Amollir
+
+talents_26B47 (8 octets)
+EN: Multiply
+FR: Multipl
+
+talents_26B4F (8 octets)
+EN: Steal   
+FR: Voler
+
+talents_26B57 (8 octets)
+EN: Avenge  
+FR: Venger
+
+talents_26B5F (8 octets)
+EN: Counter 
+FR: Contre
+
+talents_26B67 (8 octets)
+EN: Repair  
+FR: Repare
+
+talents_26B6F (8 octets)
+EN: Selfix  
+FR: AutoRep
+
+talents_26B77 (8 octets)
+EN: ○All    
+FR: ○Tout
+
+talents_26B7F (8 octets)
+EN: ○Fatal  
+FR: ○Mort
+
+talents_26B87 (8 octets)
+EN: ○Stone  
+FR: ○Petr
+
+talents_26B8F (8 octets)
+EN: ○Mute   
+FR: ○Muet
+
+talents_26B97 (8 octets)
+EN: ○Blind  
+FR: ○Aveugle
+
+talents_26B9F (8 octets)
+EN: ○Poison 
+FR: ○Poison
+
+talents_26BA7 (8 octets)
+EN: ○Curse  
+FR: ○Maudit
+
+talents_26BAF (8 octets)
+EN: ○Para   
+FR: ○Para
+
+talents_26BB7 (8 octets)
+EN: ○Sleep  
+FR: ○Sommeil
+
+talents_26BBF (8 octets)
+EN: ○Confuse
+FR: ○Confus
+
+talents_26BC7 (8 octets)
+EN: ○Damage 
+FR: ○Degats
+
+talents_26BCF (8 octets)
+EN: ○Change 
+FR: ○Change
+
+talents_26BD7 (8 octets)
+EN: ○Quake  
+FR: ○Seisme
+
+talents_26BDF (8 octets)
+EN: ○Ice    
+FR: ○Glace
+
+talents_26BE7 (8 octets)
+EN: ○Fire   
+FR: ○Feu
+
+talents_26BEF (8 octets)
+EN: ○Tornado
+FR: ○Tornade
+
+talents_26BF7 (8 octets)
+EN: ○Thunder
+FR: ○Foudre
+
+talents_26BFF (8 octets)
+EN:         
+FR: (non traduit / a verifier)
+
+talents_26C07 (8 octets)
+EN:         
+FR: (non traduit / a verifier)
+
+talents_26C0F (8 octets)
+EN:         
+FR: (non traduit / a verifier)
+
+talents_26C17 (8 octets)
+EN:         
+FR: (non traduit / a verifier)
+
+talents_26C1F (8 octets)
+EN:         
+FR: (non traduit / a verifier)
+
+talents_26C27 (8 octets)
+EN: ×Quake  
+FR: ×Seisme
+
+talents_26C2F (8 octets)
+EN: ×Ice    
+FR: ×Glace
+
+talents_26C37 (8 octets)
+EN: ×Fire   
+FR: ×Feu
+
+talents_26C3F (8 octets)
+EN: ×Tornado
+FR: ×Tornade
+
+talents_26C47 (8 octets)
+EN: ×Thunder
+FR: ×Foudre
+
+talents_26C4F (8 octets)
+EN:         
+FR: (non traduit / a verifier)
+
+talents_26C57 (8 octets)
+EN:         
+FR: (non traduit / a verifier)
+
+worlds_272B3 (11 octets)
+EN: Present    
+FR: Present
+
+worlds_272BE (11 octets)
+EN: Past       
+FR: Passé
+
+worlds_272C9 (11 octets)
+EN: Future     
+FR: Futur
+
+worlds_272D4 (11 octets)
+EN: Pureland   
+FR: Pureland
+
+worlds_272DF (11 octets)
+EN: Floatland  
+FR: Floatland
+
+worlds_272EA (11 octets)
+EN: Upperworld 
+FR: Monde haut
+
+worlds_272F5 (11 octets)
+EN: Underworld 
+FR: Enfers
+
+intro_25EB3 (351 octets)
+EN: The Pureland Water
+ Entity appeared
+ and flooded this
+ world's present,
+ past and future.
+
+The water brought
+ monsters, which
+hunted people day
+and night. Cities
+fell one by one,
+   covered by
+   the sea...
+
+  However, a few
+   individuals
+  prepare for a
+ journey that may
+  determine the
+fate of the world
+
+
+
+------------------
+Behold.” the sealed
+ city Dharm. Here
+three young people
+   sent back as
+children from the
+   ruins of the
+future, are living
+  with the Elder.
+He has reared them
+together with his
+own granddaughter.
+
+FR: L'Entité de l'Eau
+venue de Pureland
+inonda le monde,
+à toutes les
+ époques.
+
+Des monstres
+surgirent des eaux
+et traquèrent les
+hommes jour et
+nuit.
+Les cités furent
+englouties.
+
+Quelques personnes
+préparent un long
+voyage dont dépend
+le sort du monde.
+
+
+
+------------------
+Voici Dharm, une
+cité fermée. Trois
+jeunes du futur
+y vivent avec
+l'Ancien. Envoyés
+ici enfants, ils
+ont grandi avec
+sa petite-fille.
+
+
+intro_26021 (70 octets)
+EN: .”
+“Guess that might
+ be the last time
+ we all use the
+ Simulator. I'll
+ say goodbye right
+ now:
+[1C][1F][00].”
+“OK………See you:
+FR: Je crois que c'est
+notre dernière
+séance au
+simulateur. Je
+vous dis au
+revoir.
+[1C][1F][00]
+D'accord... A
+bientôt.
+
+intro_2609F (35 octets)
+EN: ! You're
+ really leaving?”
+[1C][1F][00].”
+“Yeah, but I'll
+ be back:
+
+FR: ! Tu pars vraiment
+?
+[1C][1F][00]
+Oui, mais je
+reviendrai.
+
+intro_260C5 (35 octets)
+EN: .”
+“………”
+[1C][1F][00].”
+“Don't worry.
+ You'll see me off
+ tomorrow, right?”
+
+FR: ...
+[1C][1F][00]
+Ne t'en fais pas.
+Tu viens me dire
+au revoir demain,
+hein ?
+
+intro_260EB (17 octets)
+EN: .”
+“………”
+[1C][1F][00].”
+“I've got to go
+ now:
+FR: ...
+[1C][1F][00]
+Je dois partir.
+
+intro_2611A (1 octets)
+EN: her
+FR: (non traduit / a verifier)
+
+intro_2611C (10 octets)
+EN:  “I'll miss you……:
+FR: Tu me manqueras...
+
+intro_2612A (14 octets)
+EN: 
+  -- Next day --
+FR: 
+-- Le lendemain --
+
+intro_2613F (29 octets)
+EN: [1C][1F][00].”
+“We're all ready
+ now:
+Elder.”
+“Good:
+[1C][1F][00].”
+“Where's 
+FR: [1C][1F][00]
+Nous sommes prêts.
+Ancien : Bien.
+[1C][1F][00]
+Où est 
+
+intro_2615F (54 octets)
+EN: ?”
+Elder.”
+“I guess it's too
+ hard on her to
+ see you off:
+[1C][1F][00].”
+“I'll miss her……”
+Elder.”
+“Let me tell you
+ about 
+FR: ?
+Ancien : Te dire
+au revoir lui fait
+trop de peine.
+[1C][1F][00]
+Elle me
+manquera...
+Ancien : Parlons
+de 
+
+intro_26197 (19 octets)
+EN: , the
+ man who sent you
+ back to me:
+FR: , l'homme qui vous
+a envoyes ici.
+
+intro_261B8 (16 octets)
+EN: ! Where are
+ the kids going?”
+
+FR: ! Où vont les
+enfants ?
+
+intro_261CA (8 octets)
+EN: .”
+“To the past:
+
+FR: Dans le passé.
+
+intro_261D4 (13 octets)
+EN: .”
+“Past!? Quacer's  
+FR: Le passé ?! La 
+
+intro_261E4 (12 octets)
+EN: Timemachine isn't
+FR: machine a voyager
+dans le temps de
+Quacer n'est
+
+intro_261F2 (10 octets)
+EN: 
+ finished yet!”
+
+FR:  pas encore finie
+!
+
+intro_26201 (24 octets)
+EN: I've no choice!!
+ Changing the past
+FR: Je n'ai pas le
+choix ! Changer le
+passé
+
+intro_2621C (19 octets)
+EN: is the only way
+ to save the world
+ 
+FR: est notre seul
+moyen de sauver le
+monde de
+
+intro_26231 (1 octets)
+EN: from 
+FR:  
+
+intro_26232 (5 octets)
+EN: sinking:
+
+FR: la noyade.
+
+intro_26239 (10 octets)
+EN: .”
+“You're mad!”
+
+FR: Tu es fou !
+
+intro_26247 (1 octets)
+EN: You're a newcomer.
+
+FR: (non traduit / a verifier)
+
+intro_2624E (2 octets)
+EN: Elder.”
+“
+FR: (non traduit / a verifier)
+
+intro_26252 (102 octets)
+EN: 's plan
+ won't work if the
+ future's already
+ destroyed. Still
+ wish to go?”
+[1C][1F][00].”
+“Yes, we 3 decided
+ that we can't
+ close our eyes to
+ our own future:
+
+FR:  ne peut pas
+réussir si le
+futur est déjà
+détruit.
+Voulez-vous
+toujours partir ?
+[1C][1F][00]
+Oui. Nous avons
+décidé tous les
+trois de faire
+face à notre
+avenir.
+
+intro_262B9 (24 octets)
+EN: Elder.”
+“Well said! Then
+ see this. Come!”
+FR: Ancien : Bien dit
+! Venez voir ceci
+!
+
+intro_262E3 (1 octets)
+EN: onster
+FR: (non traduit / a verifier)
+
+intro_26305 (8 octets)
+EN: .”
+“Don't go!”
+FR: Ne pars pas !
+
+intro_26323 (85 octets)
+EN: .”
+“Monsters are
+ going to get you
+ outside:
+[1C][1F][00].”
+“It's OK. We're
+ going to make it
+ safe so you can
+ play outside!
+ Be good. We'll
+ see you later:
+
+FR: Les monstres vont
+vous attraper
+dehors !
+[1C][1F][00]
+Tout ira bien.
+Nous rendrons le
+monde sur pour que
+tu puisses y
+jouer. Sois sage.
+A bientôt.
+
+intro_2637C (15 octets)
+EN: .”
+“Really?”
+[1C][1F][00].”
+“I promise!”
+FR: Vraiment ?
+[1C][1F][00]
+Promis !
+
+intro_26399 (21 octets)
+EN: Elder.”
+“Ready?”
+[1C][1F][00].”
+“Yes! Let's go:
+FR: Ancien : Prêts ?
+[1C][1F][00]
+Oui ! Allons-y !
+
+intro_263C4 (1 octets)
+EN: You're a newcomer.
+
+FR: (non traduit / a verifier)
+
+intro_263C8 (1 octets)
+EN: her
+FR: (non traduit / a verifier)
+
+intro_263D8 (10 octets)
+EN: .”
+“Elder! Wait:
+Elder.”
+“
+FR: Ancien ! Attendez
+!
+Ancien : 
+
+intro_263E8 (20 octets)
+EN: ,
+ I told you not to
+ leave the city:
+
+FR: , je t'avais dit
+de rester en
+ville.
+
+intro_263FE (42 octets)
+EN: .”
+“I know, but we're
+ worried. We all
+ grew up together!
+ And 
+FR: Je sais, mais nous
+sommes inquiets.
+Nous avons grandi
+ensemble ! Et 
+
+intro_2642B (3 octets)
+EN: 's……”
+
+FR: ...
+
+
+intro_26433 (23 octets)
+EN: .”
+“Stop! Elder knows
+ what he's doing:
+
+FR: Arrête ! L'Ancien
+sait ce qu'il
+fait.
+
+intro_2644E (9 octets)
+EN: .”
+“But!”
+Elder.”
+“………”
+
+FR: Mais !
+Ancien : ...
+
+intro_2645B (51 octets)
+EN: .”
+“I'll guard the
+ city! At least
+ let her go:
+Elder.”
+“Hmm, alright. You
+ should both go:
+
+FR: Je garderai la
+ville ! Laissez-la
+au moins partir.
+Ancien : Hmm,
+d'accord. Partez
+tous les deux.
+
+intro_26490 (14 octets)
+EN: .”
+“You won't regret
+ this!”
+
+FR: Vous ne le
+regretterez pas !
+
+intro_264AB (9 octets)
+EN: .”
+“Thank you, Elder:
+
+FR: Merci, Ancien.
+
+intro_264D3 (6 octets)
+EN:  joined.
+
+FR:  nous rejoint.
+
+
+intro_264DD (6 octets)
+EN:  joined.
+
+FR:  nous rejoint.
+
+
+intro_264EB (25 octets)
+EN: 
+Elder.”
+“Ready? Let's go
+ back there:
+FR: Ancien : Prêts ?
+Retournons là-bas.
+
+intro_26516 (1 octets)
+EN: her
+FR: (non traduit / a verifier)
+
+intro_26530 (7 octets)
+EN: [1C][1F][00].”
+“What the……”
+
+FR: [1C][1F][00]
+Mais qu'est-ce...
+?
+
+intro_2653B (37 octets)
+EN: Elder.”
+“It's the Talon, a
+ fighter that can
+ travel through
+ time:
+
+FR: Ancien : C'est le
+Talon, un vaisseau
+de combat capable
+de voyager dans le
+temps.
+
+intro_26561 (71 octets)
+EN: [1C][1F][00].”
+“Then, we're off
+ to the future?”
+Elder.”
+“No, it's useless
+ now. Take this to
+ Cronos in Elan.
+ He knows a lot
+ about Talon:
+
+
+FR: [1C][1F][00]
+Nous partons donc
+vers le futur ?
+Ancien : Non, ce
+serait inutile
+pour le moment.
+Porte ceci a
+Cronos, à Elan. Il
+connait bien le
+Talon.
+
+intro_265AC (11 octets)
+EN: 
+[1C][1F][00].”
+“What's this?”
+Elder.”
+“
+FR: 
+[1C][1F][00]
+Qu'est-ce que
+c'est ?
+Ancien : 
+
+intro_265B9 (37 octets)
+EN:  had it.
+ Might be a
+ missing Unit.
+ Let Cronos see
+ it:
+[1C][1F][00].”
+“Right!”
+
+FR:  l'avait. C'est
+peut-être une
+unité manquante.
+Montre-la a
+Cronos.
+[1C][1F][00]
+Bien !
+
+intro_265E0 (34 octets)
+EN: .”
+“Hey, the ocean's
+ between here and
+ Elan:
+Elder.”
+“Find 
+FR: Mais l'océan nous
+separe d'Elan !
+Ancien : Trouvez 
+
+intro_26604 (23 octets)
+EN:  in
+ North Tower. You
+ can fly then.
+
+FR:  dans la Tour
+Nord. Vous
+pourrez alors
+voler.
+
+intro_2661C (28 octets)
+EN:  Monsters lurk
+ there, so be
+ careful:
+[1C][1F][00].”
+“OK!”
+FR:  Des monstres y
+rodent. Soyez
+prudents.
+[1C][1F][00]
+D'accord !
+
+intro_26640 (1 octets)
+EN: You're a newcomer.
+
+FR: (non traduit / a verifier)
+
+intro_2664B (2 octets)
+EN: Tht 
+FR: (non traduit / a verifier)
+
+intro_26653 (9 octets)
+EN: Pulcer.”
+“Who is it? 
+FR: Pulcer : Qui
+est-ce ? 
+
+intro_2665E (20 octets)
+EN: ?”
+[1C][1F][00].”
+“Um, no………”
+Pulcer.”
+“Then get out:
+FR: ?
+[1C][1F][00]
+Euh, non...
+Pulcer : Alors,
+sortez !
+
+intro_2667B (1 octets)
+EN: You're a newcomer.
+
+FR: (non traduit / a verifier)
+
+intro_26680 (17 octets)
+EN: How's the Flushex
+working?
+FR: Le Flushex
+fonctionne-t-il
+bien ?
+
+intro_26697 (118 octets)
+EN: Elder.”
+“Oh yes, fifteen
+ years ago when I
+ was looking for
+ a place to build
+ a town, I met a
+ group collecting
+ Units. That means
+ there are others
+ hunting Units too
+ so be careful:
+FR: Ancien : Il y a
+quinze ans, je
+cherchais un
+endroit ou fonder
+une ville. J'ai
+rencontre un
+groupe qui
+cherchait des
+unités. D'autres
+les recherchent
+donc aussi. Soyez
+prudents.
+
+intro_26710 (5 octets)
+EN: Elder.”
+“Find 
+FR: Ancien : Trouvez 
+
+intro_26717 (20 octets)
+EN:  in
+ North Tower to
+ go to Elan:
+FR:  dans la Tour Nord
+pour aller a
+Elan.
+
+intro_2672C (25 octets)
+EN: Elder.”
+“Don't worry. Now
+ you must hurry:
+FR: Ancien : Ne t'en
+fais pas.
+Depeche-toi !
+
+intro_26746 (2 octets)
+EN: Elder.”
+“
+FR: (non traduit / a verifier)
+
+intro_2674A (23 octets)
+EN: 's magic will
+ save the city
+ someday:
+FR:  sauvera un jour
+la ville par sa
+magie.
+
+intro_26764 (38 octets)
+EN: .”
+“Use the simulator
+ behind the hearth
+ for battle
+ practice:
+FR: Entraîne-toi au
+combat dans le
+simulateur
+derrière le foyer.
+
+intro_2678D (29 octets)
+EN: .”
+“I'll protect the
+ city. Don't
+ worry about it:
+FR: Je protégerai la
+ville. Ne t'en
+fais pas.
+
+intro_267AC (5 octets)
+EN: maned …Talon
+FR: (non traduit / a verifier)
+
+intro_267B7 (2 octets)
+EN: I or
+FR: (non traduit / a verifier)
+
+menus_battle_26CCF (45 octets)
+EN:  Item
+ Magic
+ Talent Status Equip
+ Auto
+ Save
+FR:  Obj.
+ Magie
+ Talent Etat   Equip
+ Auto
+ Sauv
+
+menus_battle_26D2C (2 octets)
+EN: You're a newcomer.
+
+
+FR: (non traduit / a verifier)
+
+menus_battle_26DA0 (2 octets)
+EN: ake 
+
+FR: (non traduit / a verifier)
+
+menus_battle_26DF6 (2 octets)
+EN: onster
+
+FR: (non traduit / a verifier)
+
+menus_battle_26E04 (4 octets)
+EN: Auto
+FR: Auto
+
+menus_battle_26E0A (36 octets)
+EN: Please select file to save the data.
+FR: Sauvegarder dans
+quel fichier ?
+
+menus_battle_26E75 (35 octets)
+EN: Previous data file will be deleted.
+FR: L'ancienne partie
+sera effacée.
+
+menus_battle_26F55 (17 octets)
+EN: Your bag is full!
+FR: Sac plein !
+
+menus_battle_26F8B (16 octets)
+EN:   You have that!
+FR: Deja acquis !
+
+menus_battle_26F9C (17 octets)
+EN:  That's too many!
+FR:  Il y en a trop !
+
+menus_battle_26FAE (46 octets)
+EN: You have too
+many.
+The rest will be
+discarded.
+FR: Vous en avez trop.
+Le surplus sera
+jete.
+
+menus_battle_26FDD (10 octets)
+EN:   Learned 
+FR:  Appris : 
+
+menus_battle_2705B (2 octets)
+EN: You're a newcomer.
+
+
+FR: (non traduit / a verifier)
+
+menus_battle_270CB (2 octets)
+EN: ake 
+
+FR: (non traduit / a verifier)
+
+menus_battle_2711D (2 octets)
+EN: onster
+
+FR: (non traduit / a verifier)
+
+menus_battle_2712B (9 octets)
+EN: nest over
+FR:  nid vide
+
+menus_battle_27137 (11 octets)
+EN: Auto Battle
+FR: Combat auto
+
+menus_battle_2716B (8 octets)
+EN:  Quake……
+FR:  Seisme…
+
+menus_battle_27175 (8 octets)
+EN:  Fire………
+FR:  Feu…
+
+menus_battle_2717F (8 octets)
+EN:  Ice…………
+FR:  Glace…
+
+menus_battle_27189 (8 octets)
+EN:  Tornado
+FR:  Tornade
+
+menus_battle_27194 (8 octets)
+EN:  Mute………
+FR:  Muet…
+
+menus_battle_2719E (8 octets)
+EN:  Confuse
+FR:  Confus
+
+menus_battle_271A8 (8 octets)
+EN:  Blind……
+FR:  Aveugle
+
+menus_battle_271B2 (8 octets)
+EN:  Sleep……
+FR:  Sommeil
+
+menus_battle_271BC (8 octets)
+EN:  Poison…
+FR:  Poison…
+
+menus_battle_271C6 (8 octets)
+EN:  Para………
+FR:  Para…
+
+menus_battle_271D0 (8 octets)
+EN:  Curse……
+FR:  Maudit…
+
+menus_battle_271DA (8 octets)
+EN:  Stone……
+FR:  Petrif…
+
+menus_battle_271E5 (16 octets)
+EN:   Not enough MP!
+FR: Pas assez de PM!
+
+menus_battle_271F9 (27 octets)
+EN: Which data
+  will you play?
+FR: Quelle partie
+charger ?
+
+menus_battle_27215 (17 octets)
+EN: New Game
+Continue
+FR: Nouveau
+Reprendre
+
+menus_battle_27227 (38 octets)
+EN:  ©1993 SQUARE CO.
+Licensed by Nintendo
+FR:  ©1993 SQUARE CO.
+Licence Nintendo
+
+menus_battle_2724F (9 octets)
+EN: Received 
+FR: Obtenu : 
+
+menus_battle_27261 (21 octets)
+EN: Couldn't carry.
+Left 
+FR: Sac plein.
+Reste : 
+
+menus_battle_2727E (4 octets)
+EN: Wow!
+FR: Oh !
+
+menus_battle_27285 (15 octets)
+EN: You are now in
+
+FR: Vous etes a
+
+
+menus_battle_27298 (11 octets)
+EN: Units left…
+FR: Unités…
+
+menus_battle_272A6 (12 octets)
+EN: Units left…0
+FR: Unités…0
+
+menus_battle_27301 (18 octets)
+EN: Can't use it here!
+FR: Inutilisable ici !
+
+menus_battle_2731B (25 octets)
+EN: You can't carry
+any more 
+FR: Vous ne pouvez
+porter : 
+
+menus_battle_2738E (17 octets)
+EN:  Fight
+ Run
+ Auto
+FR:  Atq.
+ Fuir
+ Auto
+
+menus_battle_273A0 (28 octets)
+EN:  Weapon
+ Talent
+ Magic
+ Item
+FR:  Arme
+ Talent
+ Magie
+ Objet
+
+menus_battle_273BD (13 octets)
+EN:  Parry
+ Guard
+FR:  Pare
+ Garde
+
+menus_battle_2747B (7 octets)
+EN:  Yes No
+FR: Oui Non
+
+menus_battle_274A7 (28 octets)
+EN: AutoRun WeapTaleItemParrGuar
+FR: AutoFuirArmeTaleObjtParrGard
+
+menus_battle_274C4 (12 octets)
+EN: Eat?
+ Yes No
+FR: Manger?
+O/N
+
+menus_battle_274D1 (16 octets)
+EN: Install?
+ Yes No
+FR: Installer?
+O/N
+
+menus_battle_274E5 (12 octets)
+EN:  is guarded.
+FR:  est garde.
+
+menus_battle_274F2 (8 octets)
+EN: Auto Set
+FR: Reg.auto
+
+menus_battle_274FB (32 octets)
+EN: Fight again? Yes
+             No
+FR: Recombattre? Oui
+            Non
+
+menus_battle_2751C (7 octets)
+EN:  Howdy!
+FR: Salut !
+
+menus_battle_27527 (7 octets)
+EN: /night.
+FR: /nuit.
+
+menus_battle_27531 (10 octets)
+EN: Thank you!
+FR: Merci !
+
+menus_battle_2753C (15 octets)
+EN:  Not enough GP!
+FR: Pas assez de GP
+
+menus_battle_2754C (10 octets)
+EN:  Stay Exit
+FR: Dorm.Sort.
+
+menus_battle_27557 (14 octets)
+EN:  Exit Buy Sell
+FR: Sort.AchatVte.
+
+menus_battle_27566 (18 octets)
+EN:  Exit Buy Sell Mix
+FR: Sort.AchatVte.Mix
+
+menus_battle_27579 (16 octets)
+EN:  May I help you?
+FR:  Puis-je aider ?
+
+menus_battle_2758A (17 octets)
+EN:  Okay! Which one?
+FR:  Bien ! Lequel ?
+
+menus_battle_2759C (18 octets)
+EN:  Your bag is full!
+FR: Sac plein !
+
+menus_battle_275AF (11 octets)
+EN:  Which one?
+FR:  Lequel ?
+
+menus_battle_275C6 (7 octets)
+EN:  Yes No
+FR: Oui Non
+
+menus_battle_275CE (11 octets)
+EN:  No thanks!
+FR: Non merci!
+
+menus_battle_275DE (8 octets)
+EN:  will be
+FR:  donnera
+
+menus_battle_275E9 (10 octets)
+EN: Light and 
+FR: Clair et 
+
+menus_battle_275F4 (4 octets)
+EN: Dark
+FR: Noir
+
+menus_battle_275F9 (11 octets)
+EN:  will make…
+FR:  donneront…
+
+menus_battle_2760A (9 octets)
+EN: Light and
+FR: Clair et
+
+menus_battle_27619 (11 octets)
+EN: Dark. Okay?
+FR: Noir. O/N?
+
+menus_battle_27625 (10 octets)
+EN: Need more!
+FR: Encore !
+
+menus_battle_27635 (13 octets)
+EN:  Which do you
+FR:  Que voulez-
+
+menus_battle_27643 (13 octets)
+EN:  want to mix?
+FR:  fusionner ?
+
+menus_battle_27654 (17 octets)
+EN:  That combination
+FR:  Ce melange
+
+menus_battle_27666 (12 octets)
+EN:  is no good.
+FR:  est rate.
+
+menus_battle_27761 (13 octets)
+EN: First
+
+Second
+FR: 1er
+
+2e
+
+menus_battle_27771 (7 octets)
+EN: Earth
+ 
+FR: Terre
+ 
+
+menus_battle_27779 (7 octets)
+EN: Water
+ 
+FR: Eau
+  
+
+menus_battle_27781 (6 octets)
+EN: Fire
+ 
+FR: Feu
+  
+
+menus_battle_27788 (3 octets)
+EN: Air
+FR: Air
+
+menus_battle_2778C (11 octets)
+EN:  Will make…
+FR:  Donnera…
+
+menus_battle_27798 (16 octets)
+EN:   Talon Cockpit
+
+FR:  Poste du Talon
+
+
+menus_battle_277AA (11 octets)
+EN: “Now what?”
+FR: “Et apres?”
+
+menus_battle_277B6 (34 octets)
+EN:  Depart Engine Warp
+ Weapon Option
+FR:  Départ Moteur Saut
+ Arme Option
+
+menus_battle_277DB (6 octets)
+EN: ENGINE
+FR: MOTEUR
+
+menus_battle_277E2 (17 octets)
+EN: “No Proper Units”
+FR: “Unités requises”
+
+menus_battle_277F6 (11 octets)
+EN: “How fast?”
+FR: “Vitesse ?”
+
+menus_battle_2780E (4 octets)
+EN: WARP
+FR: SAUT
+
+menus_battle_27815 (12 octets)
+EN: “Use which?”
+FR: “Laquelle ?”
+
+menus_battle_2782C (14 octets)
+EN: Set completed!
+FR: Reglage fini !
+
+menus_battle_2783D (6 octets)
+EN: WEAPON
+FR: ARME
+
+menus_battle_27844 (17 octets)
+EN:   “Set to which?”
+FR:  “Regler quoi ?”
+
+menus_battle_27868 (6 octets)
+EN: OPTION
+FR: OPTION
+
+menus_battle_2786F (18 octets)
+EN: “These are usable:
+FR: “Utilisable :
+
+menus_battle_27889 (9 octets)
+EN: Attached 
+FR: Installe 
+
+menus_battle_27895 (10 octets)
+EN: 
+to Talon.
+FR: 
+au Talon.
+
+menus_battle_278A0 (54 octets)
+EN: ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz.
+FR: (non traduit / a verifier)
+
+menus_battle_278D7 (28 octets)
+EN: Hero   HeroineBoy    Girl   
+FR: Heros  HeroineGarcon Fille  
+
+menus_battle_278FE (10 octets)
+EN: K's M's Z's p's !'s 
+FR: (non traduit / a verifier)
+
+menus_battle_27909 (3 octets)
+EN: TalononsterTalon
+FR: (non traduit / a verifier)
+
+menus_battle_27912 (2 octets)
+EN: stTalon
+FR: (non traduit / a verifier)
+
+menus_battle_27915 (13 octets)
+EN: TalonarTalonllTalonthTalonacTalonSacred SwordTalonCronos.”
+“Talon
+FR: (non traduit / a verifier)
+
+menus_battle_27923 (1 octets)
+EN: Talon
+FR: (non traduit / a verifier)
+
+menus_battle_27925 (1 octets)
+EN: Talon
+FR: (non traduit / a verifier)
+
+menus_battle_27927 (23 octets)
+EN: Talon2Talon6TalonATalonKTalonUTaloneTalonnTalontTalonyTalon○Talon)Talon
+FR: (non traduit / a verifier)
+
+menus_battle_27947 (13 octets)
+EN: seed se.”
+“searse:
+seGrannyseI'll se
+FR: (non traduit / a verifier)
+
+menus_battle_27957 (19 octets)
+EN: se…se5seDseNseYsesse/se)seake e
+ 
+FR: (non traduit / a verifier)
+
+menus_battle_27972 (12 octets)
+EN: I e
+ 
+ e
+ d e
+ ree
+ ate
+ Talone
+ 
+FR: (non traduit / a verifier)
+
+menus_battle_27983 (19 octets)
+EN: e
+ 2e
+ 8e
+ Fe
+ Ke
+ Pe
+ Xe
+ ee
+ le
+ -e
+ 
+FR: (non traduit / a verifier)
+
+menus_battle_27997 (3 octets)
+EN: ThleTh
+FR: (non traduit / a verifier)
+
+menus_battle_2799D (11 octets)
+EN: The Tht Tho ThElderTha Th
+FR: (non traduit / a verifier)
+
+menus_battle_279AD (13 octets)
+EN: Th4ThGThQThhTh”Th:Th
+FR: (non traduit / a verifier)
+
+menus_battle_279C6 (12 octets)
+EN: Strike first!
+
+FR: Attaqué initiale !
+
+
+menus_battle_279D3 (15 octets)
+EN: Unexpected attack!
+
+FR: Attaqué surprise !
+
+
+menus_battle_279E3 (15 octets)
+EN: Talon.”
+“Detected the
+ enemy:
+
+FR: Talon : Ennemi
+detecte !
+
+
+menus_battle_279F3 (12 octets)
+EN: Talon attacks
+with 
+FR: Talon attaqué avec 
+
+menus_battle_27A05 (16 octets)
+EN: The enemy boarded
+the Talon!
+
+FR: L'ennemi est a
+bord du Talon !
+
+
+menus_battle_27A16 (8 octets)
+EN: Ran away.
+
+FR: Fuite reussie.
+
+
+menus_battle_27A1F (9 octets)
+EN: Can't run!
+
+FR: Fuite impossible !
+
+
+menus_battle_27A2B (9 octets)
+EN:  EXP up!
+
+FR:  EXP augmente !
+
+
+menus_battle_27A35 (7 octets)
+EN: Received 
+FR: Reçu : 
+
+menus_battle_27A42 (7 octets)
+EN: Received 
+FR: Reçu : 
+
+menus_battle_27A50 (12 octets)
+EN: 's HP
+recovered!
+
+FR:  recupere ses PV !
+
+
+menus_battle_27A66 (9 octets)
+EN:  turned into
+
+FR:  devient
+
+
+menus_battle_27A74 (8 octets)
+EN: turned into
+
+FR: devient
+
+
+menus_battle_27A89 (10 octets)
+EN: 's level up!
+
+FR:  gagné un niveau !
+
+
+menus_battle_27A97 (5 octets)
+EN:  used
+
+FR:  utilise
+
+
+menus_battle_27AAB (6 octets)
+EN: 's party.
+
+FR:  et son groupe.
+
+
+menus_battle_27ABA (9 octets)
+EN: 's
+Attack 
+FR:  :
+Attaqué 
+
+menus_battle_27AC4 (9 octets)
+EN: 's
+Defense 
+FR:  :
+Défense 
+
+menus_battle_27ACE (9 octets)
+EN: 's
+Agility 
+FR:  :
+Agilite 
+
+menus_battle_27AD8 (8 octets)
+EN: 's
+Magic 
+FR:  :
+Magie 
+
+menus_battle_27AE1 (5 octets)
+EN: down!
+
+FR: baisse !
+
+
+menus_battle_27AEF (5 octets)
+EN:  fell.
+
+FR:  tombe.
+
+
+menus_battle_27AF5 (6 octets)
+EN: revived.
+
+FR: revient a la vie.
+
+
+menus_battle_27AFC (13 octets)
+EN:  was
+turned to stone.
+
+FR:  est petrifie.
+
+
+menus_battle_27B0A (10 octets)
+EN:  was
+softened.
+
+FR:  est dépétrifié.
+
+
+menus_battle_27B15 (11 octets)
+EN:  lost
+voice.
+
+FR:  perd la voix.
+
+
+menus_battle_27B21 (13 octets)
+EN:  regained
+voice.
+
+FR:  retrouve sa voix.
+
+
+menus_battle_27B2F (8 octets)
+EN:  lost
+sight.
+
+FR:  perd la vue.
+
+
+menus_battle_27B38 (11 octets)
+EN:  recovered
+sight.
+
+FR:  retrouve la vue.
+
+
+menus_battle_27B44 (9 octets)
+EN:  was
+poisoned.
+
+FR:  est empoisonné.
+
+
+menus_battle_27B4E (14 octets)
+EN:  was
+neutralized.
+
+FR:  est désintoxique.
+
+
+menus_battle_27B5D (9 octets)
+EN:  was
+cursed.
+
+FR:  est maudit.
+
+
+menus_battle_27B67 (9 octets)
+EN:  is
+cursed.
+
+FR:  est maudit.
+
+
+menus_battle_27B71 (16 octets)
+EN:  was
+released from
+curse.
+
+FR:  n'est plus
+maudit.
+
+
+menus_battle_27B82 (11 octets)
+EN:  was
+paralyzed.
+
+FR:  est paralysé.
+
+
+menus_battle_27B8E (19 octets)
+EN:  was
+released from
+paralysis.
+
+FR:  n'est plus
+paralysé.
+
+
+menus_battle_27BA2 (11 octets)
+EN:  is
+paralized.
+
+FR:  est paralysé.
+
+
+menus_battle_27BAE (6 octets)
+EN:  slept.
+
+FR:  dort.
+
+
+menus_battle_27BB5 (7 octets)
+EN:  woke up.
+
+FR:  se reveille.
+
+
+menus_battle_27BBD (9 octets)
+EN:  is
+sleeping.
+
+FR:  dort encore.
+
+
+menus_battle_27BC7 (10 octets)
+EN:  was
+confused.
+
+FR:  est confus.
+
+
+menus_battle_27BD2 (19 octets)
+EN:  regained
+consciousness.
+
+FR:  reprend ses
+esprits.
+
+
+menus_battle_27BE6 (10 octets)
+EN:  is
+confused.
+
+FR:  est confus.
+
+
+menus_battle_27BF4 (7 octets)
+EN:  smashed
+
+FR:  frappe
+
+
+menus_battle_27BFF (5 octets)
+EN:  used
+
+FR:  utilise
+
+
+menus_battle_27C07 (6 octets)
+EN:  against
+
+FR:  contre
+
+
+menus_battle_27C16 (6 octets)
+EN: .
+It hit 
+FR: . Touche 
+
+menus_battle_27C1E (6 octets)
+EN:  times.
+
+FR:  fois.
+
+
+menus_battle_27C28 (6 octets)
+EN:  group.
+
+FR:  et son groupe.
+
+
+menus_battle_27C2F (6 octets)
+EN: the enemy.
+
+FR: l'ennemi.
+
+
+menus_battle_27C39 (15 octets)
+EN:  didn't
+do anything.
+
+FR:  n'a rien fait.
+
+
+menus_battle_27C4F (10 octets)
+EN: weak
+against 
+FR: faible contre 
+
+menus_battle_27C5A (10 octets)
+EN: strong
+against 
+FR: fort contre 
+
+menus_battle_27C65 (5 octets)
+EN: Hit × 
+FR: Coups × 
+
+menus_battle_27C6F (10 octets)
+EN: A mighty blow!
+
+FR: Coup puissant !
+
+
+menus_battle_27C7D (15 octets)
+EN:  cannot
+use magic.
+
+FR:  ne peut pas
+lancer de magie.
+
+
+menus_battle_27C8D (6 octets)
+EN: Missed!
+
+FR: Rate !
+
+
+menus_battle_27C94 (6 octets)
+EN: Defeated 
+FR: A vaincu 
+
+menus_battle_27CA2 (15 octets)
+EN: 's party
+was beat……
+
+FR:  et son groupe ont
+perdu...
+
+
+menus_battle_27CB2 (5 octets)
+EN: 
+Won!
+
+FR: 
+Gagné !
+
+
+menus_battle_27CB8 (6 octets)
+EN: Quake.
+
+FR: Seisme.
+
+
+menus_battle_27CBF (4 octets)
+EN: Ice.
+
+FR: Gel.
+
+
+menus_battle_27CC4 (4 octets)
+EN: Fire.
+
+FR: Feu.
+
+
+menus_battle_27CC9 (7 octets)
+EN: Tornado.
+
+FR: Tornade.
+
+
+menus_battle_27CD1 (6 octets)
+EN: Thunder.
+
+FR: Foudre.
+
+
+menus_battle_27CD8 (6 octets)
+EN: Damage.
+
+FR: Dégâts.
+
+
+menus_battle_27CDF (14 octets)
+EN: Can't absorb HP
+from 
+FR: Impossible
+d'absorber les PV
+de 
+
+menus_battle_27CF5 (18 octets)
+EN:  has more
+power to absorb!
+
+FR:  absorbe davantage
+!
+
+
+menus_battle_27D0B (14 octets)
+EN:  repulsed
+the attack.
+
+FR:  repousse
+l'attaqué.
+
+
+menus_battle_27D1D (12 octets)
+EN:  countered
+with 
+FR:  contre avec 
+
+menus_battle_27D31 (10 octets)
+EN:  is
+defending.
+
+FR:  se défend.
+
+
+menus_battle_27D3F (16 octets)
+EN:  is
+waiting for the
+attack.
+
+FR:  attend l'attaqué.
+
+
+menus_battle_27D50 (6 octets)
+EN: the party.
+
+FR: le groupe.
+
+
+menus_battle_27D5F (8 octets)
+EN:  selfixed
+
+FR:  se soigne
+
+
+menus_battle_27D70 (14 octets)
+EN:  is
+self-repairing.
+
+FR:  se repare.
+
+
+menus_battle_27D82 (11 octets)
+EN: 
+multiplied.
+
+FR:  se multiplie.
+
+
+menus_battle_27D91 (13 octets)
+EN:  is trying
+to steal.
+
+FR:  tente de voler.
+
+
+menus_battle_27DA1 (8 octets)
+EN: GP stolen.
+
+FR: GP voles.
+
+
+menus_battle_27DAA (4 octets)
+EN: Stole 
+FR: Vole 
+
+menus_battle_27DB4 (11 octets)
+EN: Nothing happened.
+
+FR: Rien ne se passé.
+
+
+menus_battle_27DC0 (9 octets)
+EN: No effect.
+
+FR: Sans effet.
+
+
+menus_battle_27DCA (4 octets)
+EN: Found 
+FR: Trouve 
+
+menus_battle_27DD5 (5 octets)
+EN: 's meat!
+
+FR:  : viande !
+
+
+menus_battle_27DDB (4 octets)
+EN: Found 
+FR: Trouve 
+
+menus_battle_27DE6 (7 octets)
+EN: 's parts!
+
+FR:  : pieces !
+
+
+menus_battle_27DEE (15 octets)
+EN: [1C][1F][00].”
+“We have to wake
+ her up!”
+
+FR: [1C][1F][00]
+Il faut la
+réveiller !
+
+menus_battle_27DFF (38 octets)
+EN: Sol.”
+“More! You must
+ Get rid of him
+ before he wakes!”
+
+FR: Sol : Encore !
+Eliminez-le avant
+son réveil !
+
+menus_battle_27E27 (22 octets)
+EN: Sol.”
+“Hurry!
+ He's waking up!”
+
+FR: Sol : Vite ! Il se
+reveille !
+
+menus_battle_27E3F (38 octets)
+EN: Xagor.”
+“Now that Sol is
+ gone, I will
+ rule this
+ world!!”
+
+FR: Xagor : Sol a
+disparu. Ce monde
+est a moi !
+
+menus_battle_27E67 (10 octets)
+EN: “Oh, no………:
+
+FR: Oh non...
+
+menus_battle_27E74 (13 octets)
+EN: What's that
+ noise?
+
+FR: Quel est ce bruit
+?
+
+menus_battle_27E83 (7 octets)
+EN:  It's the Talon!”
+
+FR: C'est le Talon !
+
+menus_battle_27E8B (6 octets)
+EN: the party.
+
+FR: le groupe.
+
+
+menus_battle_27E92 (6 octets)
+EN: the party.
+
+FR: le groupe.
+
+
+dialogue_events_281E5 (159 octets)
+EN: Elder.”
+“Are you looking
+ for something?”
+[1C][1F][00].”
+“We are looking
+ for Units of
+ Talon. And you?”
+Old man.”
+“I am looking for
+ a place to
+ build a new town:
+[1C][1F][00].”
+“How about east of
+ the Palace?”
+Old man.”
+“Thank you. Come
+ and see my town
+ when you pass by.
+ I will name the
+ town Dharm:
+[1C][1F][00].”
+“Sure……”
+FR: Ancien :
+Cherchez-vous
+quelque chose ?
+[1C][1F][00]
+Les unités du
+Talon. Et vous ?
+Vieil homme : Un
+endroit ou fonder
+une ville.
+[1C][1F][00]
+Et a l'est du
+Palais ?
+Vieil homme :
+Merci. Venez me
+rendre visite en
+passant. Je
+nommerai ma ville
+Dharm.
+[1C][1F][00]
+Bien sur...
+
+dialogue_events_28290 (15 octets)
+EN: [1C][1F][00].”
+“That must be our
+ Elder!”
+FR: [1C][1F][00]
+Ce doit être notre
+Ancien !
+
+dialogue_events_282A2 (2 octets)
+EN: You p
+FR: (non traduit / a verifier)
+
+dialogue_events_282A8 (37 octets)
+EN: Elder founded this
+town, Dharm.
+The town of Elan
+is to the west.
+FR: L'Ancien a fonde
+Dharm. Elan se
+trouve a l'ouest.
+
+dialogue_events_282CE (32 octets)
+EN: You can jump over
+people and holes
+using B.
+FR: Avec B, tu peux
+sauter par-dessus
+les gens et les
+trous.
+
+dialogue_events_282EF (36 octets)
+EN: Push A to speed up
+the messages.
+Push B to pause.
+FR: A accelere les
+messages. B les
+met en pause.
+
+dialogue_events_28314 (15 octets)
+EN: The magic book of
+
+FR: Le livre de magie
+de 
+
+dialogue_events_28325 (13 octets)
+EN:  is in the
+North Tower.
+FR:  est dans la Tour
+Nord.
+
+dialogue_events_28335 (34 octets)
+EN: .”
+“I'll train myself
+ to become a fine
+ warrior like you:
+FR: Je m'entrainerai
+pour devenir un
+grand guerrier
+comme toi.
+
+dialogue_events_2835A (10 octets)
+EN: .”
+“See you again,
+ 
+FR: A bientôt, 
+
+dialogue_events_28371 (30 octets)
+EN: Beware! Monsters
+are also after
+Talon' Units!
+FR: Attention ! Les
+monstres cherchent
+aussi les unités
+du Talon !
+
+dialogue_events_28390 (33 octets)
+EN: Oh, my! Monsters
+are kidnapping us
+children!
+FR: Oh non ! Les
+monstres enlevent
+les enfants !
+
+dialogue_events_283B5 (17 octets)
+EN: .”
+“Thank you for
+ helping me:
+FR: Merci de m'avoir
+aide.
+
+dialogue_events_283CA (5 octets)
+EN: isqze
+:
+
+FR: (non traduit / a verifier)
+
+dialogue_events_283D2 (26 octets)
+EN: Cronos is living
+in the largest
+house here.
+FR: Cronos habite la
+plus grande
+maison.
+
+dialogue_events_283ED (31 octets)
+EN: Granny founded
+this town. She is
+in the magic shop.
+FR: Mamie a fonde
+cette ville. Elle
+est au magasin de
+magie.
+
+dialogue_events_2840D (31 octets)
+EN: Our master Sol is
+sleeping in
+Floatland.
+FR: Notre maître Sol
+dort a Floatland.
+
+dialogue_events_2842D (34 octets)
+EN: The Magical Stones
+will make the 16
+Lost Magic!
+FR: Les pierres
+magiques
+permettent de
+créer les 16
+magies perdues !
+
+dialogue_events_2845A (37 octets)
+EN: The Units will be
+set automatically
+when you board
+Talon.
+FR: Les unités
+s'installent
+automatiquement a
+bord du Talon.
+
+dialogue_events_28480 (30 octets)
+EN: Talon used to have
+13 Units and 4
+crew members.
+FR: Le Talon avait 13
+unités et 4
+membres
+d'équipage.
+
+dialogue_events_2849F (29 octets)
+EN: I've heard there
+is a hidden path
+around here.
+FR: Il parait qu'un
+passage secret se
+trouve par ici.
+
+dialogue_events_284BD (27 octets)
+EN: This spa will
+restore your
+health. Try it!
+FR: Ces sources
+chaudes vous
+soigneront.
+Essayez !
+
+dialogue_events_284D9 (36 octets)
+EN: The town of Lae
+was destroyed by a
+disease long ago.
+FR: Une maladie a
+ravagé Lae il y a
+longtemps.
+
+dialogue_events_284FE (34 octets)
+EN: The town of Muu is
+under the sea in
+the northern bay.
+FR: Muu est sous la
+mer, dans la baie
+du nord.
+
+dialogue_events_28521 (28 octets)
+EN: We have no ships.
+Monsters wrecked
+them all.
+FR: Les monstres ont
+détruit tous nos
+navires.
+
+dialogue_events_2853E (30 octets)
+EN: Granny is in her
+house. It's south
+of a big column.
+FR: Mamie est chez
+elle, au sud de la
+grande colonne.
+
+dialogue_events_2855D (18 octets)
+EN: Cronos? He's in
+Granny's house.
+FR: Cronos ? Il est
+chez Mamie.
+
+dialogue_events_28571 (3 octets)
+EN: erou(
+FR: (non traduit / a verifier)
+
+dialogue_events_28575 (1 octets)
+EN: You're a newcomer.
+
+FR: (non traduit / a verifier)
+
+dialogue_events_28581 (30 octets)
+EN: Dogra is living in
+a cavern to the
+southeast.
+FR: Dogra vit dans une
+grotte au sud-est.
+
+dialogue_events_285A0 (35 octets)
+EN: Sol will beat up
+all the monsters
+once he wakes up!
+FR: Quand Sol se
+réveillera, il
+battra tous les
+monstres !
+
+dialogue_events_285C4 (24 octets)
+EN: Wrecked ships are
+full of treasures.
+FR: Les épaves
+regorgent de
+trésors.
+
+dialogue_events_285DD (25 octets)
+EN: You can dive into
+the sea by using
+the magic 
+FR: Pour plonger dans
+la mer, utilisez
+la magie 
+
+dialogue_events_285FA (24 octets)
+EN: We might look old,
+but we live long!
+FR: Nous semblons
+ages, mais nous
+vivons longtemps !
+
+dialogue_events_28613 (16 octets)
+EN: Sol was taken to
+the Pureland!
+FR: Sol a été emmene a
+Pureland !
+
+dialogue_events_28624 (33 octets)
+EN: The monster called
+Maitreya is now
+ruling Floatland.
+FR: Maitreya regne
+maintenant sur
+Floatland.
+
+dialogue_events_28646 (35 octets)
+EN: All the towns but
+this one and Viper
+are submerged now.
+FR: Seules cette ville
+et Viper ne sont
+pas encore
+englouties.
+
+dialogue_events_2866A (29 octets)
+EN: We must stop the
+water from the
+Water Entity!
+FR: Il faut arrêter
+l'eau de l'Entité
+!
+
+dialogue_events_28688 (95 octets)
+EN: Cronos.”
+“So you've come.
+ Go west to Viper
+ to help the
+ people there.
+ And before that,
+ go see Granny in
+ the Inn. She has
+ not long to live,
+ I'm afraid:
+FR: Cronos : Vous
+voilà. Allez aider
+les habitants de
+Viper, a l'ouest.
+Mais voyez d'abord
+Mamie a l'auberge.
+Je crains qu'elle
+n'ait plus
+longtemps a vivre.
+
+dialogue_events_286E8 (25 octets)
+EN: The people of Muu
+turned into
+monsters.
+FR: Les habitants de
+Muu sont devenus
+des monstres.
+
+dialogue_events_28702 (34 octets)
+EN: Master Sol might
+be able to stop
+the Water Entity.
+FR: Maître Sol
+pourrait arrêter
+l'Entité de l'Eau.
+
+dialogue_events_28725 (29 octets)
+EN: Rebels are
+planning to land
+on Floatland.
+FR: Les rebelles
+projettent de
+debarquer a
+Floatland.
+
+dialogue_events_28743 (12 octets)
+EN: The girl called
+
+FR: La fille nommee 
+
+dialogue_events_28751 (21 octets)
+EN:  was captured
+by somebody.
+FR:  a été capturee
+par quelqu'un.
+
+dialogue_events_28768 (40 octets)
+EN: You're a newcomer.
+Granny
+“You're late! They
+ already took Sol
+ to the Pureland.
+ Take this 
+FR: Mamie : Vous êtes
+en retard ! Sol
+est déjà a
+Pureland. Prenez
+ceci : 
+
+dialogue_events_28792 (41 octets)
+EN: .
+ Go to Muu and use
+ this magic to ask
+ the WaterHags……:
+[1C][1F][00].”
+“Granny………?”
+FR: . Allez à Muu et
+utilisez cette
+magie pour
+interroger les
+sorcières des
+eaux...
+[1C][1F][00]
+Mamie... ?
+
+dialogue_events_287C0 (3 octets)
+EN: ha,ll
+FR: (non traduit / a verifier)
+
+dialogue_events_287C6 (31 octets)
+EN: All the WaterHags
+in the town were
+formerly humans.
+FR: Toutes les
+sorcières des eaux
+de la ville
+etaient humaines.
+
+dialogue_events_287E6 (33 octets)
+EN: You'd better leave
+here. You might
+catch the disease.
+FR: Partez d'ici !
+Vous risquez
+d'attraper la
+maladie.
+
+dialogue_events_28808 (32 octets)
+EN: Help! I'm…… losing
+my self control………
+FR: Au secours ! Je...
+perds le
+controle...
+
+dialogue_events_28829 (33 octets)
+EN: Disease? No! I'm
+changing into
+another being.
+FR: Une maladie ? Non
+! Je deviens un
+autre être.
+
+dialogue_events_2884C (20 octets)
+EN: Will I turn into a
+monster too?
+FR: Vais-je devenir un
+monstre, moi aussi
+?
+
+dialogue_events_28861 (26 octets)
+EN: What's happening?
+I don't want to be
+a monster!
+FR: Que se passe-t-il
+? Je ne veux pas
+devenir un monstre
+!
+
+dialogue_events_2887C (14 octets)
+EN: Can you use the
+magic 
+FR: Savez-vous lancer 
+
+dialogue_events_2888E (36 octets)
+EN: A weird disease is
+widespread in Lae,
+I've heard.
+FR: Une maladie
+étrange se repand
+a Lae, dit-on.
+
+dialogue_events_288B3 (51 octets)
+EN: Master Sol made
+this world!
+He may be able to
+stop the water
+from the Entity!
+FR: Maître Sol a créé
+ce monde !
+Peut-être peut-il
+arrêter l'eau de
+l'Entité !
+
+dialogue_events_288E9 (58 octets)
+EN:  is the seed
+of an intelligent
+tree. But it only
+grows on Ripesoil.
+Find it somewhere.
+FR:  est la graine
+d'un arbre
+intelligent. Il
+ne pousse que sur
+un sol fertile.
+Trouvez-en.
+
+dialogue_events_28924 (29 octets)
+EN: It's too dangerous
+to go outside of
+the town!
+FR: Sortir de la ville
+est trop dangereux
+!
+
+dialogue_events_28942 (24 octets)
+EN: Wrecked ships are
+full of treasures!
+FR: Les épaves
+regorgent de
+trésors !
+
+dialogue_events_28972 (1 octets)
+EN: Granny
+FR: (non traduit / a verifier)
+
+dialogue_events_28987 (31 octets)
+EN:  can grow in
+the Ripesoil near
+the cavern.
+FR:  pousse dans le
+sol fertile pres
+de la grotte.
+
+dialogue_events_289A7 (25 octets)
+EN: This town will be
+ruined by the
+disease.
+FR: La maladie va
+détruire cette
+ville.
+
+dialogue_events_289C1 (24 octets)
+EN: D…Don't attack me!
+I'm a human!
+FR: N-ne m'attaquez
+pas ! Je suis
+humain !
+
+dialogue_events_289DA (34 octets)
+EN: They say Flushex
+can turn monsters
+into humans.
+FR: Le Flushex
+rendrait leur
+forme humaine aux
+monstres.
+
+dialogue_events_289FF (8 octets)
+EN: .”
+“GRRR………”
+[1C][1F][00].”
+“
+FR: GRRR...
+[1C][1F][00]
+
+
+dialogue_events_28A09 (15 octets)
+EN: ? We came to
+ save you:
+
+FR: ? Nous venons te
+sauver.
+
+dialogue_events_28A1A (15 octets)
+EN: .”
+“GRRR……… EGRRR……”
+
+FR: GRRR... EGRRR...
+
+dialogue_events_28A2C (18 octets)
+EN: .”
+“Something's wrong
+ with her:
+FR: Quelque chose ne
+va pas chez elle.
+
+dialogue_events_28A43 (8 octets)
+EN: [1C][1F][00].”
+“You all right?”
+
+FR: [1C][1F][00]
+Ca va ?
+
+
+dialogue_events_28A4D (49 octets)
+EN: .”
+“Mmm………Hm………
+ Where am I?”
+[1C][1F][00].”
+“You've just had a
+ bad dream.
+ Let's go:
+
+FR: Mmm... Hm... Où
+suis-je ?
+[1C][1F][00]
+Tu viens de faire
+un mauvais rêve.
+Allons-y.
+
+dialogue_events_28A80 (5 octets)
+EN: .”
+“Yes:
+
+FR: Oui.
+
+dialogue_events_28A8A (6 octets)
+EN:  joined!
+FR:  nous rejoint !
+
+dialogue_events_28AA1 (33 octets)
+EN: [1C][1F][00].”
+“Monster! Go back
+ to your realm!”
+Dogra.”
+“You must be
+ 
+FR: [1C][1F][00]
+Monstre ! Retourne
+chez toi !
+Dogra : Tu dois
+être 
+
+dialogue_events_28AC4 (7 octets)
+EN: !”
+[1C][1F][00].”
+“Huh!?”
+
+FR: !
+[1C][1F][00]
+Hein ?!
+
+
+dialogue_events_28AD3 (6 octets)
+EN: [1C][1F][00].”
+“You know 
+FR: [1C][1F][00]
+Tu connais 
+
+dialogue_events_28ADB (23 octets)
+EN: !
+ Where is he!?”
+ Dogra.”
+“GRRR………”
+
+FR: ! Où est-il ?!
+Dogra : GRRR...
+
+dialogue_events_28AF3 (1 octets)
+EN: Granny
+FR: (non traduit / a verifier)
+
+dialogue_events_28AF8 (88 octets)
+EN: 
+“Return the Units,
+ Ashura! Or else…”
+Ashura.”
+“The Units were
+ already moved to
+ Chaos' Castle.
+ I'll give you
+ something else!”
+FR: Rends les unités,
+Ashura ! Sinon...
+Ashura : Elles
+sont déjà au
+chateau de Chaos.
+Je vais vous
+offrir autre chose
+!
+
+dialogue_events_28B58 (1 octets)
+EN: Granny
+FR: (non traduit / a verifier)
+
+dialogue_events_28B5A (70 octets)
+EN: Chaos.”
+“Why gather the
+ Units, human?”
+[1C][1F][00].”
+“To go back to the
+ future!”
+Chaos.”
+“Your future is
+ lost.
+ And now for you!”
+FR: Chaos : Pourquoi
+reunir les unités,
+humain ?
+[1C][1F][00]
+Pour retourner
+dans le futur !
+Chaos : Ton futur
+est perdu. Et toi
+aussi !
+
+dialogue_events_28BAC (10 octets)
+EN:  is waiting
+for you, 
+FR:  vous attend, 
+
+dialogue_events_28BBB (43 octets)
+EN: The old city of
+Dharm was lost.
+But it's safe
+here in New Dharm.
+FR: L'ancienne Dharm
+est perdue. Mais
+nous sommes a
+l'abri ici, a
+Nouvelle Dharm.
+
+dialogue_events_28BE7 (29 octets)
+EN: Are you a Rebel?
+I'll join you when
+I grow up!
+FR: Tu es rebelle ? Je
+vous rejoindrai
+quand je serai
+grand !
+
+dialogue_events_28C05 (20 octets)
+EN: Elder has already
+passed away.
+FR: L'Ancien est déjà
+mort.
+
+dialogue_events_28C23 (28 octets)
+EN: .”
+“I'm defending
+ the town against
+ monsters now!”
+FR: Je protégé
+maintenant la
+ville des monstres
+!
+
+dialogue_events_28C40 (32 octets)
+EN: This underground
+town is a perfect
+shelter.
+FR: Cette ville
+souterraine est un
+abri ideal.
+
+dialogue_events_28C63 (54 octets)
+EN:  was captured!
+They said she was
+the only one able
+to draw the
+Mystic Sword!
+FR:  a été capturee !
+On dit qu'elle
+seule peut tirer
+l'Epée mystique !
+
+dialogue_events_28C9A (36 octets)
+EN: You must first
+reach Floatland to
+defeat Maitreya.
+FR: Atteignez
+Floatland pour
+vaincre Maitreya.
+
+dialogue_events_28CBF (27 octets)
+EN: I heard a band of
+rebels had gone to
+the Pureland.
+FR: Un groupe de
+rebelles serait
+parti a Pureland.
+
+dialogue_events_28CDD (28 octets)
+EN: , Jupiah and
+Dr.Quacer left for
+the Pureland.
+FR: , Jupiah et le Dr
+Quacer sont partis
+a Pureland.
+
+dialogue_events_28CFA (29 octets)
+EN: You can talk to
+the WaterHags of
+Muu using 
+FR: Pour parler aux
+sorcières des eaux
+de Muu, utilisez 
+
+dialogue_events_28D1D (30 octets)
+EN:  said he had
+come from farther
+future of doom.
+FR:  dit venir d'un
+futur encore plus
+lointain et
+condamne.
+
+dialogue_events_28D3C (16 octets)
+EN: I heard Monsters
+will use 
+FR: Les monstres
+veulent utiliser 
+
+dialogue_events_28D4E (6 octets)
+EN:  to
+get 
+FR:  pour obtenir 
+
+dialogue_events_28D56 (23 octets)
+EN: , for
+she is the only
+one to draw it.
+FR: , car elle seule
+peut la tirer.
+
+dialogue_events_28D70 (6 octets)
+EN: [1C][1F][00].”
+“Huh?!”
+
+FR: [1C][1F][00]
+Hein ?!
+
+dialogue_events_28D78 (32 octets)
+EN: .”
+“Remember me?
+ I was in Dharm
+ when you left………”
+[1C][1F][00].”
+“
+FR: Tu te souviens de
+moi ? J'etais a
+Dharm lors de ton
+départ...
+[1C][1F][00]
+
+
+dialogue_events_28D9D (28 octets)
+EN: .”
+“Yes!”
+[1C][1F][00].”
+“My, you've
+ become a fine
+ warrior!”
+
+FR: Oui !
+[1C][1F][00]
+Tu es devenu un
+grand guerrier !
+
+dialogue_events_28DBB (45 octets)
+EN: .”
+“Thank you.
+ Would you help
+ me defeat
+ Maitreya?
+ We must hurry:
+
+FR: Merci. Aidez-moi a
+vaincre Maitreya !
+Il faut faire
+vite.
+
+dialogue_events_28DE9 (17 octets)
+EN: [1C][1F][00].”
+“Of course!
+ But why?”
+
+FR: [1C][1F][00]
+Bien sur ! Mais
+pourquoi ?
+
+dialogue_events_28DFC (7 octets)
+EN: .”
+“Sol and 
+FR: Sol et 
+
+dialogue_events_28E05 (13 octets)
+EN:  were
+ taken to
+ the Pureland.
+ 
+FR:  ont été emmenes a
+Pureland. 
+
+dialogue_events_28E14 (47 octets)
+EN:  went there
+ in Talon2.
+ We must follow
+ them in Talon1:
+[1C][1F][00].”
+“Maitreya has a
+ Unit, then:
+
+FR:  y est alle avec
+Talon2. Il faut
+les suivre avec
+Talon1.
+[1C][1F][00]
+Maitreya possede
+donc une unité.
+
+dialogue_events_28E45 (9 octets)
+EN: .”
+“Right, he has
+ 
+FR: Oui, il a 
+
+dialogue_events_28E50 (58 octets)
+EN: .
+ Talon1 is safe
+ in Palace, but
+ we can't use it:
+[1C][1F][00].”
+“I see. How shall
+ we carry out our
+ plan?”
+
+FR: . Talon1 est a
+l'abri au Palais,
+mais inutilisable.
+[1C][1F][00]
+Comment
+allons-nous faire
+?
+
+dialogue_events_28E8C (57 octets)
+EN: .”
+“Dr.Pulcer has a
+ plan. Take this
+ and see him in
+ a shelter at
+ the bottom of the
+ northern sea:
+FR: Le Dr Pulcer a un
+plan. Prenez ceci
+et trouvez-le dans
+l'abri au fond de
+la mer du nord.
+
+dialogue_events_28ECA (5 octets)
+EN: acWz,ll
+FR: (non traduit / a verifier)
+
+dialogue_events_28EDB (28 octets)
+EN: Dr.Pulcer is in
+a shelter in the
+sea due north.
+FR: Le Dr Pulcer est
+dans un abri sous
+la mer, plein
+nord.
+
+dialogue_events_28EF8 (28 octets)
+EN: We can take care
+of ourselves.
+Don't worry.
+FR: Nous savons nous
+defendre. Ne vous
+inquietez pas.
+
+dialogue_events_28F15 (34 octets)
+EN: Humans are good at
+weapons. Beasts
+are good at 
+FR: Les humains
+manient bien les
+armes. Les bêtes
+excellent avec les 
+
+dialogue_events_28F38 (22 octets)
+EN: s.
+Mutants are good
+at magic.
+FR: . Les mutants
+excellent en
+magie.
+
+dialogue_events_28F4F (33 octets)
+EN: In Floatland, some
+Units are waiting
+to be found.
+FR: Des unités restent
+a decouvrir a
+Floatland.
+
+dialogue_events_28F71 (38 octets)
+EN: Hey! You look just
+like Jupiah. His
+brother, perhaps?
+FR: Tu ressembles a
+Jupiah ! Es-tu son
+frere ?
+
+dialogue_events_28F9D (4 octets)
+EN: look?”
+ou?”
+
+FR: (non traduit / a verifier)
+
+dialogue_events_28FA2 (4 octets)
+EN: You need 
+FR: Il faut 
+
+dialogue_events_28FA8 (10 octets)
+EN: 
+to get to
+the Pureland.
+FR:  pour gagner
+Pureland.
+
+dialogue_events_28FB3 (16 octets)
+EN: Dr.Pulcer is an
+Talon expert.
+FR: Le Dr Pulcer est
+un expert du
+Talon.
+
+dialogue_events_28FC4 (29 octets)
+EN: Master Sol came
+from the Pureland,
+like monsters did.
+FR: Sol vient de
+Pureland, comme
+les monstres.
+
+dialogue_events_28FE2 (26 octets)
+EN: You might find the
+Unit in the ruins
+to the north.
+FR: Une unité pourrait
+se trouver dans
+les ruines du
+nord.
+
+dialogue_events_28FFD (37 octets)
+EN: The Entity can't
+be stopped unless
+Sol wakes up.
+FR: L'Entité ne peut
+être arrêtée tant
+que Sol dort.
+
+dialogue_events_29023 (24 octets)
+EN: Time does not pass
+in here and in
+Pureland.
+FR: Le temps ne passé
+ni ici ni a
+Pureland.
+
+dialogue_events_2903E (1 octets)
+EN: Sacred Sword
+FR: (non traduit / a verifier)
+
+dialogue_events_29047 (36 octets)
+EN: Maitreya.”
+“Came here to join
+ your friend?
+ You sure can!”
+FR: Maitreya : Vous
+venez rejoindre
+votre amie ? Avec
+plaisir !
+
+dialogue_events_29073 (1 octets)
+EN: Granny
+FR: (non traduit / a verifier)
+
+dialogue_events_2907B (43 octets)
+EN: Buzi was the chief
+crew member of
+Talon. Ask him to
+join you.
+FR: Buzi etait chef
+d'équipage du
+Talon.
+Demandez-lui de
+vous rejoindre.
+
+dialogue_events_290A7 (29 octets)
+EN: Welcome to Knaya,
+the center of
+trade!
+FR: Bienvenue a Knaya,
+centre du commerce
+!
+
+dialogue_events_290C6 (5 octets)
+EN: 0ac0s 0
+FR: (non traduit / a verifier)
+
+dialogue_events_290CE (38 octets)
+EN:  was a crew
+member of Talon.
+He's living on
+Cape Frost now.
+FR:  etait dans
+l'équipage du
+Talon. Il vit
+maintenant au Cap
+du Givre.
+
+dialogue_events_290F7 (15 octets)
+EN:  went to Porle
+by ship.
+FR:  est parti a Porle
+en bateau.
+
+dialogue_events_29107 (36 octets)
+EN: I'm looking for a
+Mystic Sword, but
+no one sells them.
+FR: Je cherche une
+Epée mystique,
+mais personne n'en
+vend.
+
+dialogue_events_2912C (30 octets)
+EN: We have many shops
+here. They are
+worth visiting.
+FR: Visitez nos
+nombreux magasins
+!
+
+dialogue_events_2914B (30 octets)
+EN: [1C][1F][00].”
+“What happened?
+ They have been
+ turned to stone:
+FR: [1C][1F][00]
+Que s'est-il passé
+? Ils ont été
+petrifies !
+
+dialogue_events_2916A (30 octets)
+EN: [1C][1F][00].”
+“What happened?
+ They have been
+ turned to stone:
+FR: [1C][1F][00]
+Que s'est-il passé
+? Ils ont été
+petrifies !
+
+dialogue_events_29189 (4 octets)
+EN: Meow!
+FR: Miaou !
+
+dialogue_events_2918F (1 octets)
+EN: Talon
+FR: (non traduit / a verifier)
+
+dialogue_events_29191 (23 octets)
+EN: You saved us from
+Fenrir.
+Thank you.
+FR: Vous nous avez
+sauves de Fenrir.
+Merci.
+
+dialogue_events_291A9 (33 octets)
+EN: Mt.Hasid is to the
+southwest. You can
+go via Knaya.
+FR: Le mont Hasid est
+au sud-ouest.
+Passez par Knaya.
+
+dialogue_events_291CF (123 octets)
+EN: Eitar
+“You removed the
+ curse Fenrir cast
+ upon us.
+ I'll give you
+ some advice in
+ return. Go find
+ Buzi in Mt.Hasid.
+ He was an Talon
+ chief crew and
+ can help you
+ gather other
+ members:
+FR: Eitar : Vous avez
+leve la
+malediction de
+Fenrir. En retour,
+je vous conseille
+de chercher Buzi
+au mont Hasid. Cet
+ancien chef
+d'équipage du
+Talon vous aidera
+a retrouver les
+autres membres.
+
+dialogue_events_2924B (24 octets)
+EN: [1C][1F][00].”
+“Seems like he is
+ on a journey:
+FR: [1C][1F][00]
+Il semble être
+parti en voyage.
+
+dialogue_events_29266 (58 octets)
+EN: .”
+“I'm making armor
+ for King Clamin.
+ Visit me when you
+ come to Cirrus.
+ I can be of help:
+FR: Je fabrique une
+armure pour le roi
+Clamin. Venez me
+voir a Cirrus. Je
+peux vous aider.
+
+dialogue_events_292A7 (22 octets)
+EN: !?”
+[1C][1F][00].”
+“Yeah. We came
+ to help you:
+
+FR: !?
+[1C][1F][00]
+Oui. Nous sommes
+venus t'aider.
+
+dialogue_events_292C9 (11 octets)
+EN: .”
+“Thank you. But
+ 
+FR: Merci. Mais 
+
+dialogue_events_292D6 (41 octets)
+EN: ………Didn't he
+ come with you?”
+[1C][1F][00].”
+“We split up to
+ search for you:
+
+FR: ... Il n'est pas
+avec vous ?
+[1C][1F][00]
+Nous nous sommes
+séparés pour te
+chercher.
+
+dialogue_events_29301 (148 octets)
+EN: .”
+“I see.
+ The masters want
+ to conquer our
+ world. Their only
+ concern is about
+ Talon, with its 4
+ crew members and
+ the 4 Mystic
+ Swords. They
+ needed me to get
+ one of the Mystic
+ Swords:
+[1C][1F][00].”
+“Let's go look for
+ the crew members
+ first:
+
+FR: Je vois. Les
+maîtres veulent
+conquérir notre
+monde. Ils ne
+craignent que le
+Talon, ses quatre
+membres d'équipage
+et les quatre
+Epees mystiques.
+Ils avaient besoin
+de moi pour
+obtenir une de ces
+epees.
+[1C][1F][00]
+Cherchons d'abord
+l'équipage.
+
+dialogue_events_2939B (6 octets)
+EN:  joined!
+FR:  nous rejoint !
+
+dialogue_events_293AB (6 octets)
+EN: [1C][1F][00].”
+“Release 
+FR: [1C][1F][00]
+Libere 
+
+dialogue_events_293B3 (72 octets)
+EN: ,
+ Fenrir!”
+Fenrir.”
+“Jupiah! You came
+ back to life!?”
+[1C][1F][00].”
+“What!?”
+Fenrir.”
+“You'll be gone
+ for good this
+ time!”
+
+FR: , Fenrir !
+Fenrir : Jupiah !
+Tu es revenu a la
+vie ?!
+[1C][1F][00]
+Quoi ?!
+Fenrir : Cette
+fois, tu mourras
+pour de bon !
+
+dialogue_events_293FD (1 octets)
+EN: You 
+FR: (non traduit / a verifier)
+
+dialogue_events_293FF (41 octets)
+EN: [1C][1F][00].”
+“You say Jupiah
+ was beat?”
+Fenrir.”
+“Who are you………
+ NNNGH!”
+FR: [1C][1F][00]
+Tu dis que Jupiah
+a été vaincu ?
+Fenrir : Qui
+es-tu... NNNGH !
+
+dialogue_events_29430 (1 octets)
+EN: Granny
+FR: (non traduit / a verifier)
+
+dialogue_events_29432 (4 octets)
+EN: Meow!
+FR: Miaou !
+
+dialogue_events_29438 (1 octets)
+EN: Talon
+FR: (non traduit / a verifier)
+
+dialogue_events_29443 (8 octets)
+EN: 1,Hzh0o0
+FR: (non traduit / a verifier)
+
+dialogue_events_2944C (33 octets)
+EN: Magic has forced
+us to worship
+monsters as
+masters. 
+FR: La magie nous
+force a vénérer
+les monstres comme
+des maîtres. 
+
+dialogue_events_2946F (26 octets)
+EN: 
+intends to release
+us from our bonds
+with 
+FR:  veut nous libérer
+de nos liens avec 
+
+dialogue_events_2948F (29 octets)
+EN:  can make Lost
+Magic from Magical
+Stones.
+FR:  cree des magies
+perdues avec les
+pierres magiques.
+
+dialogue_events_294AF (4 octets)
+EN: ,lla p
+FR: (non traduit / a verifier)
+
+dialogue_events_294B6 (3 octets)
+EN: y wy
+FR: (non traduit / a verifier)
+
+dialogue_events_294BB (24 octets)
+EN: Dr.Quacer is
+waiting for you
+inside.
+FR: Le Dr Quacer vous
+attend a
+l'interieur.
+
+dialogue_events_294D6 (16 octets)
+EN:  left for
+Goht alone!
+FR:  est parti seul a
+Goht !
+
+dialogue_events_294F0 (27 octets)
+EN:  went to the
+Goht region inside
+the barrier.
+FR:  est parti pour la
+region de Goht,
+derrière la
+barriere.
+
+dialogue_events_2950C (31 octets)
+EN: Talon uses a human
+mind for its
+control system.
+FR: Le Talon est
+commande par un
+esprit humain.
+
+dialogue_events_2952D (26 octets)
+EN: I've seen Talon'
+crew in this town
+before!
+FR: J'ai déjà vu
+l'équipage du
+Talon dans cette
+ville !
+
+dialogue_events_29548 (31 octets)
+EN: Nature's going
+awry these days.
+We can't use 
+FR: La nature se
+deregle ces
+jours-ci.
+Impossible
+d'utiliser 
+
+dialogue_events_29569 (3 octets)
+EN: 
+and 
+FR: 
+et 
+
+dialogue_events_2956E (12 octets)
+EN:  for
+travelling.
+FR:  pour voyager.
+
+dialogue_events_29582 (28 octets)
+EN: 4 Talon crew
+members are living
+in this world.
+FR: Les quatre membres
+d'équipage du
+Talon vivent dans
+ce monde.
+
+dialogue_events_295A1 (39 octets)
+EN:  in Zhakal
+can be drawn only
+by a special girl.
+FR:  a Zhakal ne peut
+être tiree que
+par une jeune
+fille spéciale.
+
+dialogue_events_295C9 (29 octets)
+EN: King Clamin is
+looking for
+the Mystic Swords.
+FR: Le roi Clamin
+recherche les
+Epees mystiques.
+
+dialogue_events_295E7 (26 octets)
+EN: Welcome to Cirrus,
+the floating city!
+FR: Bienvenue a
+Cirrus, la ville
+flottante !
+
+dialogue_events_29604 (24 octets)
+EN:  can make the
+finest shield
+with 
+FR:  peut forger le
+meilleur bouclier
+avec 
+
+dialogue_events_29622 (23 octets)
+EN: 's gone to
+look for the
+Mystic Swords.
+FR:  est parti
+chercher les
+Epees mystiques.
+
+dialogue_events_29646 (40 octets)
+EN: .”
+“Came here for the
+ Mystic Swords?”
+[1C][1F][00].”
+“No. To ask King
+ Clamin for the
+ 
+FR: Vous venez pour
+les Epees
+mystiques ?
+[1C][1F][00]
+Non. Nous
+demandons au roi
+Clamin le 
+
+dialogue_events_29670 (7 octets)
+EN:  to Goht:
+
+FR:  pour Goht.
+
+dialogue_events_29679 (24 octets)
+EN: .”
+“I see. I also
+ want to go to
+ Goht for 
+FR: Je vois. Je veux
+aussi aller a Goht
+pour 
+
+dialogue_events_29693 (11 octets)
+EN: .
+ Let me join you!”
+FR: . Laissez-moi
+venir !
+
+dialogue_events_296AE (7 octets)
+EN:  boarded!
+FR:  monte à bord !
+
+dialogue_events_296B8 (25 octets)
+EN: King Clamin is
+collecting fine
+arms.
+FR: Le roi Clamin
+collectionne les
+belles armes.
+
+dialogue_events_296D2 (28 octets)
+EN: King Clamin is the
+only human in this
+world.
+FR: Le roi Clamin est
+le seul humain de
+ce monde.
+
+dialogue_events_296F1 (16 octets)
+EN:  went to
+Zhakal after
+
+FR:  est parti a
+Zhakal après 
+
+dialogue_events_29705 (32 octets)
+EN: You can reach Goht
+only through
+the Underworld.
+FR: Seul le Monde
+souterrain permet
+d'atteindre Goht.
+
+dialogue_events_29726 (15 octets)
+EN: Have you tried
+drawing 
+FR: Avez-vous essaye
+de tirer 
+
+dialogue_events_29739 (5 octets)
+EN: You're 
+FR: Tu es 
+
+dialogue_events_29745 (30 octets)
+EN:  said you must
+come to Porle once
+you get the Pass.
+FR:  dit de venir a
+Porle une fois le
+laissez-passer
+obtenu.
+
+dialogue_events_29764 (3 octets)
+EN: Find 
+FR: Cherche 
+
+dialogue_events_29768 (7 octets)
+EN: Emperor,
+
+FR: Empereur, 
+
+dialogue_events_29770 (6 octets)
+EN: Durend, 
+FR: Durend, 
+
+dialogue_events_29781 (17 octets)
+EN: We are looking
+for the Lost Ark!
+FR: Nous cherchons
+l'Arche perdue !
+
+dialogue_events_29798 (3 octets)
+EN: 
+and 
+FR: 
+et 
+
+dialogue_events_2979D (5 octets)
+EN:  make
+
+FR:  creent 
+
+dialogue_events_297A3 (6 octets)
+EN: Emperor.
+FR: Empereur.
+
+dialogue_events_297AA (36 octets)
+EN: Beating villains,
+right? I was doing
+the same before.
+FR: Vous combattez les
+bandits ? Je
+faisais pareil,
+autrefois.
+
+dialogue_events_297CF (33 octets)
+EN: Barrier Machine is
+in Goht. Talon
+can't enter there.
+FR: La machine de
+barriere est a
+Goht. Le Talon ne
+peut y entrer.
+
+dialogue_events_297F1 (18 octets)
+EN: Goht is across the
+Crevass.
+FR: Goht est de
+l'autre cote de la
+Crevasse.
+
+dialogue_events_29804 (33 octets)
+EN: The Underworld is
+filled with danger
+and treasure!
+FR: Le Monde
+souterrain regorge
+de dangers et de
+trésors !
+
+dialogue_events_29827 (3 octets)
+EN: Use 
+FR: Utilisé 
+
+dialogue_events_2982C (16 octets)
+EN:  to
+talk to Dwelgs.
+FR:  pour parler aux
+Dwelgs.
+
+dialogue_events_2983F (15 octets)
+EN:  is in Goht,
+I heard.
+FR:  serait a Goht.
+
+dialogue_events_29866 (2 octets)
+EN: Talon7
+FR: (non traduit / a verifier)
+
+dialogue_events_29879 (20 octets)
+EN: Xagor made the
+Water Entity.
+FR: Xagor a créé
+l'Entité de l'Eau.
+
+dialogue_events_2988E (28 octets)
+EN: I've seen that
+family somewhere
+before……
+FR: J'ai déjà vu cette
+famille quelque
+part...
+
+dialogue_events_298AB (37 octets)
+EN: Agron is in the
+ruins to the east.
+Do you have the
+Mystic Sword?
+FR: Agron est dans les
+ruines a l'est.
+Avez-vous l'Epée
+mystique ?
+
+dialogue_events_298D5 (17 octets)
+EN: .”
+“You're here!”
+[1C][1F][00].”
+“Who are you?”
+
+FR: Vous voilà !
+[1C][1F][00]
+Qui êtes-vous ?
+
+dialogue_events_298EF (26 octets)
+EN: , the
+ one who took you
+ from the future:
+[1C][1F][00].”
+“You?!”
+
+FR: , celui qui vous a
+ramenes du futur.
+[1C][1F][00]
+Vous ?!
+
+dialogue_events_2990B (77 octets)
+EN: .”
+“I have to go and
+ investigate Mt.
+ Goht.
+ Go destroy the
+ Barrier Machine
+ in here!
+ I'll be back.
+ Good luck!”
+[1C][1F][00].”
+“Hey! Wait!”
+
+FR: Je dois explorer
+le mont Goht.
+Détruisez la
+machine de
+barriere ici ! Je
+reviendrai. Bonne
+chance !
+[1C][1F][00]
+He ! Attendez !
+
+dialogue_events_2995C (1 octets)
+EN: ing
+FR: (non traduit / a verifier)
+
+dialogue_events_29962 (20 octets)
+EN: Xagor's castle is
+in Mt.Goht.
+FR: Le chateau de
+Xagor est au mont
+Goht.
+
+dialogue_events_29977 (42 octets)
+EN: Man.”
+“Are you looking
+ for Mystic
+ Treasure?”
+[1C][1F][00].”
+“Yes. Find any?”
+Man.”
+“I found 
+FR: Homme : Vous
+cherchez un Trésor
+mystique ?
+[1C][1F][00]
+Oui. En avez-vous
+trouve un ?
+Homme : J'ai
+trouve 
+
+dialogue_events_299A3 (97 octets)
+EN: :
+[1C][1F][00].”
+“We need it to
+ defend our world
+ from the masters:
+Man.”
+“Okay! Take it!”
+[1C][1F][00].”
+“Thank you!
+ Can I ask who
+ you are?”
+Man.”
+“People call me
+ Captain.
+ Good luck!”
+FR: .
+[1C][1F][00]
+Il nous faut ce
+trésor pour
+defendre notre
+monde des maîtres.
+Homme : Prenez-le
+!
+[1C][1F][00]
+Merci ! Qui
+etes-vous ?
+Homme : On
+m'appelle
+Capitaine. Bonne
+chance !
+
+dialogue_events_29A0F (25 octets)
+EN: Agron is guarding
+the Barrier
+Machine.
+FR: Agron garde la
+machine de
+barriere.
+
+dialogue_events_29A29 (30 octets)
+EN: You need the
+Mystic Swords to
+defeat Agron.
+FR: Il faut les Epees
+mystiques pour
+vaincre Agron.
+
+dialogue_events_29A49 (20 octets)
+EN: I'll wait for you
+here. Good luck!
+FR: Je vous attends
+ici. Bonne chance
+!
+
+dialogue_events_29A5E (21 octets)
+EN: Quacer.”
+“I'll take care of
+ the Engine!”
+FR: Quacer : Je
+m'occupe du moteur
+!
+
+dialogue_events_29A74 (38 octets)
+EN: Monster.”
+“You are not meant
+ to challenge the
+ will of the
+ masters. Perish!
+FR: Monstre : Vous ne
+devez pas defier
+la volonté des
+maîtres. Mourez !
+
+dialogue_events_29A9C (1 octets)
+EN: onster
+FR: (non traduit / a verifier)
+
+dialogue_events_29AA0 (1 octets)
+EN: Granny
+FR: (non traduit / a verifier)
+
+dialogue_events_29AA4 (25 octets)
+EN: Granny founded
+Elan to take care
+of orphans.
+FR: Mamie a fonde Elan
+pour recueillir
+les orphelins.
+
+dialogue_events_29ABE (25 octets)
+EN: Ship to Darius is
+departing. Get on!
+FR: Le navire pour
+Darius part.
+Montez à bord !
+
+dialogue_events_29ADE (18 octets)
+EN: Guard.”
+“Let's fight
+ together!
+FR: Garde : Combattons
+ensemble !
+
+dialogue_events_29AF1 (25 octets)
+EN: Ship to Knaya is
+departing. Get on!
+FR: Le navire pour
+Knaya part. Montez
+à bord !
+
+dialogue_events_29B11 (12 octets)
+EN: [1C][1F][00].”
+“What happened?”
+Granny.”
+“
+FR: [1C][1F][00]
+Que s'est-il passé
+?
+Mamie : 
+
+dialogue_events_29B1F (159 octets)
+EN:  was taken by
+ Dogra. I came to
+ rescue her:
+[1C][1F][00].”
+“Wait!
+ Leave it to us:
+Granny.”
+“But………”
+[1C][1F][00].”
+“You have to live
+ longer. Your help
+ is needed in the
+ future:
+Granny.”
+“What………You came
+ from the future?”
+[1C][1F][00].”
+“Exactly. The
+ Elder of Dharm
+ raised us:
+Granny.”
+“I trust you.
+ I'll be waiting
+ in Elan!”
+FR:  a été enlevée par
+Dogra. Je suis
+venue la sauver.
+[1C][1F][00]
+Laissez-nous faire
+!
+Mamie : Mais...
+[1C][1F][00]
+Vous devez vivre.
+Le futur a besoin
+de vous.
+Mamie : Vous venez
+du futur ?
+[1C][1F][00]
+Oui. L'Ancien de
+Dharm nous a
+eleves.
+Mamie : Je vous
+fais confiance. Je
+vous attends a
+Elan !
+
+dialogue_events_29BF1 (3 octets)
+EN: re/for 
+FR: (non traduit / a verifier)
+
+dialogue_events_29BF8 (3 octets)
+EN: the
+ /for 
+FR: (non traduit / a verifier)
+
+dialogue_events_29BFF (3 octets)
+EN: .
+/for 
+FR: (non traduit / a verifier)
+
+dialogue_events_29C06 (3 octets)
+EN: Talon/for 
+FR: (non traduit / a verifier)
+
+dialogue_events_29C0D (3 octets)
+EN: Sacred Sword/for 
+FR: (non traduit / a verifier)
+
+dialogue_events_29C15 (2 octets)
+EN: ight?”
+
+FR: (non traduit / a verifier)
+
+dialogue_events_29C38 (90 octets)
+EN: [1C][1F][00].”
+“Dharm's Elder
+ sent me here
+ with this:
+Cronos.”
+“Elder, huh? It
+ brings back mem…
+ Hey!”
+[1C][1F][00].”
+“What?”
+Cronos.”
+“The Radar detects
+ Units. What is
+ your intention?”
+
+FR: [1C][1F][00]
+L'Ancien de Dharm
+m'a envoye avec
+ceci.
+Cronos : L'Ancien
+? Que de
+souvenirs... He !
+[1C][1F][00]
+Quoi ?
+Cronos : Le radar
+detecte les
+unités. Quel est
+ton but ?
+
+dialogue_events_29C93 (61 octets)
+EN: [1C][1F][00].”
+“To return to the
+ future, where I
+ came from:
+Cronos.”
+“I see. Monsters
+ seek Units too.
+ Prepared?”
+[1C][1F][00].”
+“Yes!”
+
+FR: [1C][1F][00]
+Retourner dans le
+futur d'où je
+viens.
+Cronos : Les
+monstres cherchent
+aussi les unités.
+Tu es prêt ?
+[1C][1F][00]
+Oui !
+
+dialogue_events_29CD1 (9 octets)
+EN: Cronos.”
+“Then take this
+ 
+FR: Cronos : Alors,
+prends ce 
+
+dialogue_events_29CDC (5 octets)
+EN: . I'll look
+ for 
+FR: . Je cherche 
+
+dialogue_events_29CE3 (50 octets)
+EN: . Seek
+ past now, and I
+ will see you back
+ here when you
+ return:
+[1C][1F][00].”
+“It's a plan!”
+
+FR: . Explore le
+passé. Nous nous
+reverrons ici a
+ton retour.
+[1C][1F][00]
+C'est entendu !
+
+dialogue_events_29D20 (2 octets)
+EN: I'll is 
+FR: (non traduit / a verifier)
+
+dialogue_events_29D23 (2 octets)
+EN: hain 
+FR: (non traduit / a verifier)
+
+dialogue_events_29D29 (14 octets)
+EN: I can make things
+with 
+FR: Je peux fabriquer
+des objets avec 
+
+dialogue_events_29D39 (4 octets)
+EN:  and
+
+FR:  et 
+
+dialogue_events_29D3F (8 octets)
+EN: . Have any?
+
+FR: . En avez-vous ?
+
+dialogue_events_29D48 (18 octets)
+EN: Cronos.”
+“Come back when
+ you have room:
+FR: Cronos : Reviens
+quand tu auras de
+la place.
+
+dialogue_events_29D5B (30 octets)
+EN: Cronos.”
+“I'll search the
+ South Tower. Now
+ hurry to the
+ past:
+FR: Cronos : Je vais
+fouiller la Tour
+Sud. Depeche-toi
+de gagner le
+passé.
+
+dialogue_events_29D7A (14 octets)
+EN: Cronos.”
+“Hey, I found
+ where 
+FR: Cronos : J'ai
+trouve où est 
+
+dialogue_events_29D8A (40 octets)
+EN: 
+ is!”
+[1C][1F][00].”
+“Really?”
+Cronos.”
+“A monster called
+ Ashura in South
+ Tower has it:
+FR: !
+[1C][1F][00]
+Vraiment ?
+Cronos : Ashura,
+le monstre de la
+Tour Sud, le
+possede.
+
+dialogue_events_29DB4 (1 octets)
+EN: onster
+FR: (non traduit / a verifier)
+
+dialogue_events_29DC7 (35 octets)
+EN: “Something's in
+ Lae's bay!”
+Cronos.”
+“OK, you guys come
+ with me!”
+FR: Quelque chose est
+dans la baie de
+Lae !
+Cronos : Venez
+avec moi !
+
+dialogue_events_29E0D (67 octets)
+EN: [1C][1F][00].”
+“W, what's that?”
+Cronos.”
+“Probably one of
+ four Water Entity
+ monsters, either
+ Chaos or Maitreya
+ so hurry!”
+FR: [1C][1F][00]
+Qu'est-ce que
+c'est ?
+Cronos : Sans
+doute un des
+quatre monstres de
+l'Entité, Chaos ou
+Maitreya. Vite !
+
+dialogue_events_29E5A (21 octets)
+EN: Cronos.”
+“South Tower key.
+ I copied it:
+FR: Cronos : J'ai
+copie la cle de la
+Tour Sud.
+
+dialogue_events_29E74 (27 octets)
+EN: Cronos.”
+“Looks like Chaos
+ dwells in the
+ castle:
+FR: Cronos : Chaos
+semble vivre au
+chateau.
+
+dialogue_events_29E90 (21 octets)
+EN: Cronos.”
+“Castle's entrance
+ is underwater:
+FR: Cronos : L'entrée
+du chateau est
+sous l'eau.
+
+dialogue_events_29EA7 (1 octets)
+EN: look
+FR: (non traduit / a verifier)
+
+dialogue_events_29EAF (73 octets)
+EN: Granny.”
+“You found me:
+[1C][1F][00].”
+“Tell me about
+ the future:
+Granny.”
+“Unless the water
+ from Water Entity
+ is stopped, the
+ world will
+ perish:
+ 
+FR: Mamie : Tu m'as
+trouvée.
+[1C][1F][00]
+Parlez-moi du
+futur.
+Mamie : Si l'eau
+de l'Entité
+continue de
+couler, le monde
+perira. 
+
+dialogue_events_29EFB (15 octets)
+EN: “Ah, you're the
+ one I gave 
+FR: Ah, c'est a toi
+que j'ai donne 
+
+dialogue_events_29F10 (21 octets)
+EN: Granny.”
+“Don't forget
+ to get magic:
+FR: Mamie : N'oublie
+pas d'apprendre la
+magie.
+
+dialogue_events_29F27 (7 octets)
+EN: [1C][1F][00].”
+“Let's take 
+FR: [1C][1F][00]
+Prenons 
+
+dialogue_events_29F30 (4 octets)
+EN: 
+ to Elder:
+FR:  a l'Ancien.
+
+dialogue_events_29F3A (18 octets)
+EN: [1C][1F][00].”
+“Elder! Please
+ take care of her:
+Elder.”
+“
+FR: [1C][1F][00]
+Ancien ! Prenez
+soin d'elle.
+Ancien : 
+
+dialogue_events_29F4E (109 octets)
+EN: !”
+[1C][1F][00].”
+“We saved her in
+ the Past:
+Elder.”
+“Alright. We must
+ be careful with
+ our children too:
+[1C][1F][00].”
+“Thanks, Elder:
+Elder.”
+“Oh, yes. Cronos
+ in Elan found
+ something. You
+ should go there:
+FR: !
+[1C][1F][00]
+Nous l'avons
+sauvee dans le
+passé.
+Ancien : Bien. Il
+faut protéger nos
+enfants, nous
+aussi.
+[1C][1F][00]
+Merci, Ancien.
+Ancien : Au fait,
+Cronos a trouve
+quelque chose a
+Elan. Allez le
+voir.
+
+dialogue_events_29FD1 (1 octets)
+EN: Granny
+FR: (non traduit / a verifier)
+
+dialogue_events_29FDC (7 octets)
+EN: .”
+“Hold on!”
+FR: Attends !
+
+dialogue_events_29FEF (5 octets)
+EN: [1C][1F][00].”
+“What?”
+
+FR: [1C][1F][00]
+Quoi ?
+
+dialogue_events_29FF6 (63 octets)
+EN: .”
+“I'm worried about
+ the city. I'll go
+ help Elder:
+[1C][1F][00].”
+“We'll miss you,
+ but the city's in
+ good hands now!”
+
+FR: La ville
+m'inquiète. Je
+vais aider
+l'Ancien.
+[1C][1F][00]
+Tu nous manqueras,
+mais la ville est
+entre de bonnes
+mains !
+
+dialogue_events_2A037 (15 octets)
+EN: .”
+“Good luck!”
+[1C][1F][00].”
+“You too!”
+
+FR: Bonne chance !
+[1C][1F][00]
+A toi aussi !
+
+dialogue_events_2A055 (1 octets)
+EN: You're a newcomer.
+
+FR: (non traduit / a verifier)
+
+dialogue_events_2A05E (2 octets)
+EN: i[1C][1F][00].”
+“
+FR: (non traduit / a verifier)
+
+dialogue_events_2A06D (14 octets)
+EN: .”
+“I can make equip.
+ from 
+FR: Je peux fabriquer
+de l'équipement
+avec 
+
+dialogue_events_2A07D (4 octets)
+EN:  and
+ 
+FR:  et 
+
+dialogue_events_2A083 (9 octets)
+EN: . Have them?”
+FR: . Les avez-vous ?
+
+dialogue_events_2A091 (14 octets)
+EN: .”
+“Found them? Wait:
+FR: Vous les avez ?
+Attendez.
+
+dialogue_events_2A0BB (1 octets)
+EN: Granny
+FR: (non traduit / a verifier)
+
+dialogue_events_2A0BF (5 octets)
+EN: .”
+“Done:
+
+FR: Voilà.
+
+dialogue_events_2A0EB (16 octets)
+EN: .”
+“Let me uncurse
+ your 
+FR: Je peux lever la
+malediction de
+votre 
+
+dialogue_events_2A10D (37 octets)
+EN: .”
+“Let me make a
+ Mystic Sword with
+ your three
+ treasures:
+FR: Vos trois trésors
+me permettent de
+forger une Epée
+mystique.
+
+dialogue_events_2A151 (1 octets)
+EN: Granny
+FR: (non traduit / a verifier)
+
+dialogue_events_2A155 (5 octets)
+EN: .”
+“Done:
+
+FR: Voilà.
+
+dialogue_events_2A160 (26 octets)
+EN: [1C][1F][00].”
+“Hmm? The ground's
+ different here:
+FR: [1C][1F][00]
+Tiens ? Ce sol est
+different.
+
+dialogue_events_2A17B (19 octets)
+EN: [1C][1F][00].”
+“This must be the
+ Ripesoil:
+
+FR: [1C][1F][00]
+Ce doit être le
+sol fertile.
+
+dialogue_events_2A191 (23 octets)
+EN:  sowed Ifram
+seed on Ripesoil.
+
+FR:  seme la graine
+d'Ifram dans le
+sol fertile.
+
+dialogue_events_2A1AF (41 octets)
+EN: [1C][1F][00].”
+“Doctor, Doctor
+ Pulcer, come in
+ please:
+Pulcer.”
+“Pulcer here! Did
+ You find 
+FR: [1C][1F][00]
+Docteur Pulcer,
+repondez !
+Pulcer : Ici
+Pulcer ! Avez-vous
+trouve 
+
+dialogue_events_2A1DA (3 octets)
+EN: 
+ and 
+FR: 
+ et 
+
+dialogue_events_2A1DF (25 octets)
+EN: ?”
+[1C][1F][00].”
+“No:
+Pulcer.”
+“We need both.
+ Good luck!”
+FR: ?
+[1C][1F][00]
+Non.
+Pulcer : Il nous
+faut les deux.
+Bonne chance !
+
+dialogue_events_2A1FA (8 octets)
+EN: [1C][1F][00].”
+“Not yet:
+FR: [1C][1F][00]
+Pas encore.
+
+dialogue_events_2A218 (6 octets)
+EN: Granny.”
+“Found 
+FR: Mamie : As-tu
+trouve 
+
+dialogue_events_2A220 (6 octets)
+EN:  yet?”
+FR:  ?
+
+dialogue_events_2A227 (112 octets)
+EN: Granny.”
+“Thank you:
+[1C][1F][00].”
+“Granny! We need
+ to take this girl
+ to our Elder:
+Granny.”
+“But he's on a
+ journey:
+[1C][1F][00].”
+“No, the Elder in
+ our era:
+Granny.”
+“I see then. Take
+ good care of her:
+[1C][1F][00].”
+“Of course!”
+Granny.”
+“And this is for
+ you:
+
+FR: Mamie : Merci.
+[1C][1F][00]
+Nous devons
+conduire cette
+fille a notre
+Ancien.
+Mamie : Mais il
+est en voyage.
+[1C][1F][00]
+Celui de notre
+epoque.
+Mamie : Je vois.
+Prenez soin
+d'elle.
+[1C][1F][00]
+Bien sur !
+Mamie : Et ceci
+est pour vous.
+
+dialogue_events_2A2A2 (2 octets)
+EN: hat
+FR: (non traduit / a verifier)
+
+dialogue_events_2A2A8 (13 octets)
+EN: [1C][1F][00].”
+“What's this?”
+Granny.”
+“It's 
+FR: [1C][1F][00]
+Qu'est-ce ?
+Mamie : C'est 
+
+dialogue_events_2A2B7 (32 octets)
+EN: . Use
+ it at a shore
+ facing the water
+ and you'll go in.
+FR: . Utilisez-le sur
+la rive, face a
+l'eau, pour
+plonger.
+
+dialogue_events_2A2D8 (14 octets)
+EN: 
+ Push A to dive:
+FR:  Appuie sur A pour
+plonger.
+
+dialogue_events_2A2E7 (19 octets)
+EN: Granny.”
+“Come back when
+ you have room:
+FR: Mamie : Reviens
+quand tu auras de
+la place.
+
+dialogue_events_2A2FB (24 octets)
+EN: Granny.”
+“Tired? Rest at
+ the hot springs:
+FR: Mamie : Fatigue ?
+Repose-toi aux
+sources chaudes.
+
+dialogue_events_2A314 (18 octets)
+EN: Cronos.”
+“Oh no, Granny
+ went to rescue
+ 
+FR: Cronos : Oh non !
+Mamie est partie
+sauver 
+
+dialogue_events_2A328 (8 octets)
+EN:  in the cave:
+FR:  dans la grotte.
+
+dialogue_events_2A331 (17 octets)
+EN: Cronos.”
+“Yea! Granny is
+ back now:
+FR: Cronos : Oui !
+Mamie est revenue
+!
+
+dialogue_events_2A343 (29 octets)
+EN: Guard.”
+“No one may pass
+ without the
+ password!”
+
+FR: Garde : Personne
+ne passé sans le
+mot de passé !
+
+dialogue_events_2A366 (12 octets)
+EN: “Everyone knows
+ 
+FR: Tout le monde
+connait 
+
+dialogue_events_2A374 (4 octets)
+EN:  here!”
+FR:  ici !
+
+dialogue_events_2A37A (142 octets)
+EN: [1C][1F][00].”
+“What the...?!”
+Ifram Tree.”
+“It's me, the
+ Ifram Tree:
+[1C][1F][00].”
+“You can talk?”
+Ifram Tree.”
+“I just did.
+ Ask me something:
+[1C][1F][00].”
+“Ok, then are
+ there Units
+ around here?”
+Ifram Tree.”
+“I saw Ashura
+ collecting them:
+[1C][1F][00].”
+“Thanks:
+FR: [1C][1F][00]
+Qu'est-ce que...
+?!
+Arbre Ifram :
+C'est moi, l'arbre
+Ifram.
+[1C][1F][00]
+Tu sais parler ?
+Arbre Ifram : Je
+viens de le faire.
+Pose une question.
+[1C][1F][00]
+Y a-t-il des
+unités ici ?
+Arbre Ifram : J'ai
+vu Ashura les
+ramasser.
+[1C][1F][00]
+Merci.
+
+dialogue_events_2A40D (22 octets)
+EN: Ifram tree.”
+“See you in the
+ Future:
+FR: Arbre Ifram : A
+bientôt dans le
+futur.
+
+dialogue_events_2A425 (40 octets)
+EN: Voice in my head!
+Someone known as
+Ashura beckons me!
+FR: Une voix dans ma
+tete ! Ashura
+m'appelle !
+
+dialogue_events_2A44F (151 octets)
+EN: Ifram Tree.”
+“You made it:
+[1C][1F][00].”
+“But the city's
+ already sunk……”
+Ifram Tree.”
+“Dharm's been
+ moved to the east
+ island. Check the
+ 2nd tomb from the
+ top and right:
+[1C][1F][00].”
+“How do you know?”
+Ifram Tree.”
+“My roots span a
+ very large area:
+[1C][1F][00].”
+“OK, thanks:
+FR: Arbre Ifram : Tu
+es revenu.
+[1C][1F][00]
+Mais la ville est
+engloutie...
+Arbre Ifram :
+Dharm a été
+déplacée sur l'ile
+a l'est. Examine
+la deuxième tombe
+en partant d'en
+haut et de la
+droite.
+[1C][1F][00]
+Comment le sais-tu
+?
+Arbre Ifram : Mes
+racines s'etendent
+très loin.
+[1C][1F][00]
+Merci.
+
+dialogue_events_2A4EC (38 octets)
+EN: Ifram Tree.”
+“Dharm's under the
+ 2nd tomb from the
+ top and right:
+FR: Arbre Ifram :
+Dharm est sous la
+deuxième tombe
+depuis le haut et
+la droite.
+
+dialogue_events_2A515 (16 octets)
+EN: Guard.”
+“Say the password:
+
+FR: Garde : Le mot de
+passé ?
+
+dialogue_events_2A53D (15 octets)
+EN: [1C][1F][00].”
+“That's why they
+ wanted 
+FR: [1C][1F][00]
+Voilà pourquoi ils
+voulaient 
+
+dialogue_events_2A567 (17 octets)
+EN: [1C][1F][00].”
+“Hey, this tomb
+ moves!”
+FR: [1C][1F][00]
+He ! Cette tombe
+bouge !
+
+dialogue_events_2A57B (14 octets)
+EN: [1C][1F][00].”
+“Everyone be safe:
+FR: [1C][1F][00]
+Restez prudents.
+
+dialogue_events_2A58D (5 octets)
+EN: [1C][1F][00].”
+“Hey!”
+
+FR: [1C][1F][00]
+He !
+
+dialogue_events_2A594 (8 octets)
+EN: .”
+“You guys?!”
+
+FR: Vous ici ?!
+
+dialogue_events_2A59F (8 octets)
+EN: .”
+“You've aged:
+
+FR: Tu as vieilli.
+
+dialogue_events_2A5A9 (84 octets)
+EN: .”
+“Fifteen years
+ have passed! The
+ City's sunk and
+ Elder has passed
+ away:
+[1C][1F][00].”
+“Sorry, but the
+ Talon can only go
+ to a specific
+ era:
+
+FR: Quinze ans ont
+passé ! La ville
+est engloutie et
+l'Ancien est mort.
+[1C][1F][00]
+Désolé, mais le
+Talon ne peut
+rejoindre que
+certaines epoques.
+
+dialogue_events_2A5FF (82 octets)
+EN: .”
+“You've already
+ achieved a lot.
+ Everytime you
+ defeat a monster,
+ history changes:
+[1C][1F][00].”
+“Then can we now
+ stop the Water
+ Entity?”
+
+FR: Vous avez déjà
+accompli beaucoup.
+Chaque monstre
+vaincu change
+l'histoire.
+[1C][1F][00]
+Pouvons-nous enfin
+arrêter l'Entité
+de l'Eau ?
+
+dialogue_events_2A653 (42 octets)
+EN: .”
+“No, there's still
+ Maitreya up in
+ Floatland. And
+ they took 
+FR: Non. Maitreya est
+encore a
+Floatland. Et ils
+ont enlevé 
+
+dialogue_events_2A67F (9 octets)
+EN: !
+ Go help 
+FR: ! Allez aider 
+
+dialogue_events_2A68A (25 octets)
+EN:  in
+ Viper. Password
+ is -ERAUQS-:
+
+FR:  a Viper. Le mot
+de passé est
+-ERAUQS-.
+
+dialogue_events_2A6A8 (28 octets)
+EN: .”
+“I'm too old now.
+ I'll stand guard
+ here with 
+FR: Je suis trop
+vieux. Je garderai
+cet endroit avec 
+
+dialogue_events_2A6C6 (21 octets)
+EN: .
+ Don't forget,
+ -ERAUQS-!”
+FR: . N'oubliez pas :
+-ERAUQS- !
+
+dialogue_events_2A6DC (16 octets)
+EN: You have to use
+Talon to go to
+Pureland.
+
+FR: Utilisez le Talon
+pour gagner
+Pureland.
+
+dialogue_events_2A6ED (28 octets)
+EN: Belski.”
+“Hurt? I can treat
+ any wound:
+FR: Belski : Blessés ?
+Je peux soigner
+toute blessure.
+
+dialogue_events_2A70A (23 octets)
+EN: Come back when you
+are injured again.
+FR: Revenez si vous
+êtes encore
+blessés.
+
+dialogue_events_2A722 (24 octets)
+EN: I'm not ill, I've
+just changed.
+FR: Je ne suis pas
+malade. J'ai juste
+change.
+
+dialogue_events_2A73B (26 octets)
+EN: Sometimes I can't
+control myself.
+FR: Parfois, je perds
+le controle de
+moi-meme.
+
+dialogue_events_2A756 (26 octets)
+EN: Pureland's in
+trouble too. They
+want to leave.
+FR: Pureland est aussi
+en danger. Ils
+veulent partir.
+
+dialogue_events_2A771 (35 octets)
+EN: Stop Xagor, maker
+of the Entity, or
+it'll never end.
+FR: Arrêtez Xagor,
+créateur de
+l'Entité, ou tout
+continuera.
+
+dialogue_events_2A795 (40 octets)
+EN: Beasts are taking
+children to get
+the Mystic Sword
+in Pureland.
+FR: Les bêtes enlevent
+des enfants pour
+obtenir l'Epée
+mystique de
+Pureland.
+
+dialogue_events_2A7BF (40 octets)
+EN: Xcalibr can only
+be taken by a
+special female:
+FR: Seule une jeune
+fille spéciale
+peut prendre
+Xcalibr.
+
+dialogue_events_2A7EF (43 octets)
+EN: A man in Pureland
+can combine
+Magical Stones to
+create Lost Magic.
+FR: Un homme de
+Pureland cree des
+magies perdues
+avec les pierres
+magiques.
+
+dialogue_events_2A81B (13 octets)
+EN: The clerk attacked
+
+FR: Le vendeur attaqué
+!
+
+dialogue_events_2A82A (1 octets)
+EN: onster
+FR: (non traduit / a verifier)
+
+dialogue_events_2A82F (34 octets)
+EN: Pulcer.”
+“Are you a Rebel?”
+[1C][1F][00].”
+“Yes, I came to
+ hear the plan:
+
+FR: Pulcer : Vous êtes
+rebelles ?
+[1C][1F][00]
+Oui. Je viens
+entendre votre
+plan.
+
+dialogue_events_2A85E (12 octets)
+EN: Pulcer.”
+“First take this:
+FR: Pulcer : Prenez
+d'abord ceci.
+
+dialogue_events_2A86F (5 octets)
+EN: Aroma from 
+FR: L'arome de 
+
+dialogue_events_2A876 (11 octets)
+EN: 
+filled the place.
+FR:  emplit la piece.
+
+dialogue_events_2A883 (1 octets)
+EN: Granny
+FR: (non traduit / a verifier)
+
+dialogue_events_2A88F (19 octets)
+EN: Pulcer.”
+“Come back when
+ you have room:
+FR: Pulcer : Revenez
+quand vous aurez
+de la place.
+
+dialogue_events_2A8A3 (13 octets)
+EN: Pulcer.”
+“Plan is this. Use
+ 
+FR: Pulcer : Voici le
+plan. Utilisez 
+
+dialogue_events_2A8B2 (34 octets)
+EN:  at a pier
+ near Palace to
+ get to Floatland.
+ Find 
+FR:  sur le quai pres
+du Palais pour
+gagner Floatland.
+Trouvez 
+
+dialogue_events_2A8D6 (4 octets)
+EN:  and
+ 
+FR:  et 
+
+dialogue_events_2A8DC (14 octets)
+EN:  then call
+ me using 
+FR:  puis appelez-moi
+avec 
+
+dialogue_events_2A8EC (39 octets)
+EN: .
+ Then I'll blow up
+ the Palace. Come
+ back by calling
+ the Talon with
+ 
+FR: . Je ferai alors
+sauter le Palais.
+Revenez en
+appelant le Talon
+avec 
+
+dialogue_events_2A915 (11 octets)
+EN: . Got it?”
+[1C][1F][00].”
+“Yes:
+
+FR: . Compris ?
+[1C][1F][00]
+Oui.
+
+dialogue_events_2A924 (21 octets)
+EN: Pulcer.”
+“Fate of group 1-
+ Jupiah, 
+FR: Pulcer : Le sort
+du premier groupe,
+Jupiah, 
+
+dialogue_events_2A93B (23 octets)
+EN: ,
+ and Quacer, lies
+ in your hands!”
+FR:  et Quacer, depend
+de vous !
+
+dialogue_events_2A953 (11 octets)
+EN: Pulcer.”
+“Hurry to
+ Pureland!”
+FR: Pulcer : Vite, a
+Pureland !
+
+dialogue_events_2A962 (5 octets)
+EN: [1C][1F][00].”
+“Now!!”
+FR: [1C][1F][00]
+Vite !
+
+dialogue_events_2A989 (39 octets)
+EN: [1C][1F][00].”
+“Doctor, Doctor
+ Pulcer, come in
+ please:
+Pulcer.”
+“Pulcer here!”
+[1C][1F][00].”
+“We found 
+FR: [1C][1F][00]
+Docteur Pulcer,
+repondez !
+Pulcer : Ici
+Pulcer !
+[1C][1F][00]
+Nous avons trouve 
+
+dialogue_events_2A9B2 (3 octets)
+EN: 
+ and 
+FR: 
+ et 
+
+dialogue_events_2A9B7 (27 octets)
+EN: :
+Pulcer.”
+“Good, I'll radio
+ when I'm done:
+FR: .
+Pulcer : Bien. Je
+vous appellerai
+quand j'aurai
+fini.
+
+dialogue_events_2A9F1 (8 octets)
+EN: Pulcer.”
+“Now use 
+FR: Pulcer : Utilisez 
+
+dialogue_events_2A9FB (13 octets)
+EN: 
+ to bring the
+ Talon there:
+FR:  pour faire venir
+le Talon ici.
+
+dialogue_events_2AA0A (13 octets)
+EN: [1C][1F][00].”
+“Let's go aground:
+FR: [1C][1F][00]
+Debarquons.
+
+dialogue_events_2AA2B (1 octets)
+EN: ight
+FR: (non traduit / a verifier)
+
+dialogue_events_2AA3B (21 octets)
+EN: [1C][1F][00].”
+“Dr.Belski! Please
+ help 
+FR: [1C][1F][00]
+Dr Belski ! Aidez 
+
+dialogue_events_2AA55 (1 octets)
+EN: onster
+FR: (non traduit / a verifier)
+
+dialogue_events_2AA59 (44 octets)
+EN: Belski.”
+“Hmm, has some
+ serious wounds,
+ huh?”
+[1C][1F][00].”
+“Will he be OK?”
+
+FR: Belski : Hmm, de
+graves blessures ?
+[1C][1F][00]
+Va-t-il guérir ?
+
+dialogue_events_2AA87 (65 octets)
+EN: Belski.”
+“Heh! With my bio-
+ tech, just a
+ piece of a tissue
+ cell is enough!
+ Wait there:
+FR: Belski : Avec ma
+biotechnologie, un
+fragment de
+cellule suffit !
+Attendez la.
+
+dialogue_events_2AAD8 (11 octets)
+EN: “Ow! Ouch!
+
+FR: Aie ! Ca fait mal
+!
+
+dialogue_events_2AAE6 (29 octets)
+EN: Hey! Can't you be
+ more gentle?!”
+Belski.”
+
+FR: He ! Un peu de
+douceur !
+Belski : 
+
+dialogue_events_2AB06 (10 octets)
+EN: Shut up and
+
+FR: Tais-toi et 
+
+dialogue_events_2AB12 (8 octets)
+EN:  stay put:
+
+FR:  reste la !
+
+dialogue_events_2AB36 (29 octets)
+EN: .”
+“Thank you. Now we
+ have to hurry to
+ Pureland………”
+[1C][1F][00].”
+“We have 
+FR: Merci. Vite, a
+Pureland...
+[1C][1F][00]
+Nous avons 
+
+dialogue_events_2AB55 (20 octets)
+EN: 
+ so we can leave
+ at anytime:
+
+FR: . Nous pouvons
+partir quand nous
+voulons.
+
+dialogue_events_2AB6B (75 octets)
+EN: .”
+“It's only usable
+ once, so the only
+ way back is
+ through Dr.Quacer
+ at Pureland. Will
+ you still join
+ me?”
+[1C][1F][00].”
+“Of course!”
+FR: Cet objet ne sert
+qu'une fois. Seul
+le Dr Quacer, a
+Pureland, peut
+nous ramener. Tu
+viens quand même ?
+[1C][1F][00]
+Bien sur !
+
+dialogue_events_2ABC6 (1 octets)
+EN: Granny
+FR: (non traduit / a verifier)
+
+dialogue_events_2ABCD (20 octets)
+EN: [1C][1F][00].”
+“Hmm? This wall's
+ a bit……”
+FR: [1C][1F][00]
+Hmm ? Ce mur
+est...
+
+dialogue_events_2ABEA (15 octets)
+EN: [1C][1F][00].”
+“Hidden door! OK:
+FR: [1C][1F][00]
+Une porte cachee !
+
+dialogue_events_2AC01 (7 octets)
+EN: .”
+“It took 
+FR: Il a pris 
+
+dialogue_events_2AC0A (17 octets)
+EN: ……
+ Defeat it and get
+ 
+FR: ... Battez-le et
+prenez 
+
+dialogue_events_2AC2C (27 octets)
+EN: ! I'll take
+ you to Belski,
+ don't give up!”
+FR: ! Je t'emmene chez
+Belski. Tiens bon
+!
+
+dialogue_events_2AC50 (34 octets)
+EN: [1C][1F][00].”
+“Whoa, sandstorm!
+ It's whipping us
+ outside!
+FR: [1C][1F][00]
+Une tempête de
+sable ! Elle nous
+chasse dehors !
+
+dialogue_events_2AC7B (12 octets)
+EN: [1C][1F][00].”
+“Storm's got us!
+FR: [1C][1F][00]
+La tempête nous
+emporte !
+
+dialogue_events_2ACA4 (53 octets)
+EN: [1C][1F][00].”
+“OK, you guys?”
+Buzi.”
+“Yea, but look!
+ The sandstorm
+ master,
+ Jorgandr!”
+[1C][1F][00].”
+“What?!”
+FR: [1C][1F][00]
+Tout le monde va
+bien ?
+Buzi : Oui, mais
+regarde !
+Jorgandr, maître
+de la tempête !
+[1C][1F][00]
+Quoi ?!
+
+dialogue_events_2ACEB (47 octets)
+EN: [1C][1F][00].”
+“Ship's in pieces:
+Buzi.”
+“Take what's left
+ and go to Talon-
+ burg. I'll be at
+ 
+FR: [1C][1F][00]
+Le navire est
+détruit.
+Buzi : Prenez les
+restes et allez a
+Talonburg. Je
+serai a 
+
+dialogue_events_2AD1C (6 octets)
+EN: 's place:
+FR:  sa place.
+
+dialogue_events_2AD40 (13 octets)
+EN: Talon.”
+“Status Report
+ 
+FR: Talon : Rapport : 
+
+dialogue_events_2AD52 (41 octets)
+EN: 
+ inoperable from
+ Warp usage:
+[1C][1F][00].”
+“Can only move on
+ land with 
+FR:  est hors service
+a cause du saut.
+[1C][1F][00]
+Nous ne pouvons
+avancer qu'au sol
+avec 
+
+dialogue_events_2AD7C (15 octets)
+EN: Rover.
+ Let's get out:
+FR: Rover. Sortons
+d'ici.
+
+dialogue_events_2AD9D (43 octets)
+EN: .”
+“Let's split up. I
+ will look for the
+ advance party,
+ and you look for
+ 
+FR: Separons-nous. Je
+cherche le premier
+groupe, et vous, 
+
+dialogue_events_2ADCA (31 octets)
+EN: . We'll find
+ Sol later!”
+[1C][1F][00].”
+“OK, good luck:
+FR: . Nous chercherons
+Sol ensuite !
+[1C][1F][00]
+D'accord. Bonne
+chance.
+
+dialogue_events_2ADEB (1 octets)
+EN: You're a newcomer.
+
+FR: (non traduit / a verifier)
+
+dialogue_events_2AE0F (1 octets)
+EN: her
+FR: (non traduit / a verifier)
+
+dialogue_events_2AE13 (1 octets)
+EN: ight
+FR: (non traduit / a verifier)
+
+dialogue_events_2AE33 (1 octets)
+EN: her
+FR: (non traduit / a verifier)
+
+dialogue_events_2AE39 (1 octets)
+EN: her
+FR: (non traduit / a verifier)
+
+dialogue_events_2AE48 (3 octets)
+EN: ha,ll
+FR: (non traduit / a verifier)
+
+dialogue_events_2AE4E (32 octets)
+EN: Ship to Knaya has
+to wait for the
+ocean to clear.
+FR: Le navire pour
+Knaya attend que
+la mer se calme.
+
+dialogue_events_2AE6F (26 octets)
+EN: Ship to Knaya is
+departing, get on.
+
+
+FR: Le navire pour
+Knaya part. Montez
+à bord.
+
+dialogue_events_2AE98 (1 octets)
+EN: for 
+FR: (non traduit / a verifier)
+
+dialogue_events_2AEC2 (1 octets)
+EN: her
+FR: (non traduit / a verifier)
+
+dialogue_events_2AEC8 (1 octets)
+EN: her
+FR: (non traduit / a verifier)
+
+dialogue_events_2AED3 (20 octets)
+EN: Units? Yeah, a guy
+named 
+FR: Les unités ? Oui,
+un certain 
+
+dialogue_events_2AEE9 (11 octets)
+EN:  was
+looking for them.
+FR:  les cherchait.
+
+dialogue_events_2AEF6 (15 octets)
+EN: [1C][1F][00].”
+“Let's tell Granny
+ about 
+FR: [1C][1F][00]
+Parlons a Mamie de 
+
+dialogue_events_2AF0F (20 octets)
+EN: You're a newcomer.
+[1C][1F][00].”
+“We're looking for
+ a friend, 
+FR: [1C][1F][00]
+Nous cherchons une
+amie, 
+
+dialogue_events_2AF25 (157 octets)
+EN: :
+Eitar.”
+“I see. I'm Eitar.
+ I saw her taken
+ to the North Maze
+ by Fenrir, but it
+ turned townsmen
+ into stone………
+ No one here can
+ oppose them:
+[1C][1F][00].”
+“We'll defeat it
+ then:
+Eitar.”
+“Really! Then take
+ Catnip from the
+ tree. Guards will
+ fall asleep:
+
+FR: .
+Eitar : Je suis
+Eitar. Fenrir l'a
+conduite au
+Labyrinthe Nord,
+puis a petrifie
+les habitants.
+Personne ne peut
+lui resister.
+[1C][1F][00]
+Nous le vaincrons.
+Eitar : Vraiment ?
+Prenez l'herbe a
+chat de l'arbre.
+Elle endormira les
+gardes.
+
+dialogue_events_2AFC4 (38 octets)
+EN: MummyCat.”
+“Zzzz:
+[1C][1F][00].”
+“Fast asleep. Now
+ is our chance………”
+FR: Chat momie :
+Zzzz...
+[1C][1F][00]
+Il dort
+profondement.
+C'est notre chance
+!
+
+dialogue_events_2B005 (1 octets)
+EN: her
+FR: (non traduit / a verifier)
+
+dialogue_events_2B027 (1 octets)
+EN: her
+FR: (non traduit / a verifier)
+
+dialogue_events_2B032 (20 octets)
+EN: [1C][1F][00].”
+“ERAUQS:
+Guard.”
+“Proceed!”
+FR: [1C][1F][00]
+ERAUQS.
+Garde : Passez !
+
+dialogue_events_2B04A (1 octets)
+EN: onster
+FR: (non traduit / a verifier)
+
+dialogue_events_2B052 (1 octets)
+EN: Granny
+FR: (non traduit / a verifier)
+
+dialogue_events_2B054 (31 octets)
+EN: Ship to Porle has
+to wait for the
+ocean to clear.
+FR: Le navire pour
+Porle attend que
+la mer se calme.
+
+dialogue_events_2B074 (25 octets)
+EN: Ship to Porle is
+departing, get on.
+
+
+FR: Le navire pour
+Porle part. Montez
+à bord.
+
+dialogue_events_2B0AA (1 octets)
+EN: her
+FR: (non traduit / a verifier)
+
+dialogue_events_2B0CA (1 octets)
+EN: ight
+FR: (non traduit / a verifier)
+
+dialogue_events_2B0E2 (8 octets)
+EN: [1C][1F][00].”
+“You must be 
+FR: [1C][1F][00]
+Vous devez être 
+
+dialogue_events_2B0EF (22 octets)
+EN: .”
+“Correct:
+[1C][1F][00].”
+“Please join us on
+ the Talon:
+
+FR:  : Exact.
+[1C][1F][00]
+Rejoignez le Talon
+!
+
+dialogue_events_2B107 (15 octets)
+EN: .”
+“Hmm. Then go get
+ the 
+FR:  : Hmm. Trouvez
+d'abord le 
+
+dialogue_events_2B118 (75 octets)
+EN:  from
+ the Ruins south-
+ west of here.
+ It holds a key to
+ why people here
+ must serve those
+ evil beings as
+ masters:
+FR:  dans les ruines
+au sud-ouest. Il
+explique pourquoi
+les habitants
+doivent servir
+ces etres
+maléfiques comme
+maîtres.
+
+dialogue_events_2B168 (7 octets)
+EN: .”
+“Got it?”
+FR: Compris ?
+
+dialogue_events_2B170 (6 octets)
+EN: [1C][1F][00].”
+“Got it:
+
+FR: [1C][1F][00]
+Compris.
+
+dialogue_events_2B178 (88 octets)
+EN: .”
+“Then I'll examine
+ it. You should go
+ to Talonburg due
+ north across the
+ Jorgandr-desert,
+ while I do so.
+ You'll need Talon
+ to get there………:
+
+FR:  : Je vais
+l'etudier. Allez
+a Talonburg, au
+nord du desert de
+Jorgandr. Il vous
+faudra le Talon
+pour vous y
+rendre.
+
+dialogue_events_2B1D8 (21 octets)
+EN: .”
+“I need more time
+ to examine it:
+
+FR:  : J'ai besoin de
+plus de temps
+pour l'etudier.
+
+dialogue_events_2B1F3 (8 octets)
+EN: .”
+“I'll join then:
+
+FR: Je viens, alors.
+
+dialogue_events_2B200 (19 octets)
+EN:  called the
+Talon using Remote
+
+FR:  appelle le Talon
+avec la
+telecommande.
+
+dialogue_events_2B221 (8 octets)
+EN:  boarded!
+
+FR:  monte à bord !
+
+dialogue_events_2B231 (16 octets)
+EN: acer.”
+“Jupiah?! No,
+ 
+FR: acer : Jupiah ?!
+Non, 
+
+dialogue_events_2B244 (154 octets)
+EN:  right?”
+[1C][1F][00].”
+“How'd you know……”
+Quacer.”
+“Um, never mind. I
+ see you walked
+ here. Where is
+ the Talon?!”
+[1C][1F][00].”
+“We ran into a
+ sandstorm……”
+Quacer.”
+“Jorgandr! So did
+ you retrieve any
+ Units?”
+[1C][1F][00].”
+“Yes, we have
+ them all:
+Quacer.”
+“Good, then I'll
+ attach them to
+ the Talon2:
+FR: ?
+[1C][1F][00]
+Comment le
+savez-vous... ?
+Quacer : Peu
+importe. Vous êtes
+venus a pied ? Où
+est le Talon ?!
+[1C][1F][00]
+Une tempête de
+sable...
+Quacer : Jorgandr
+! Avez-vous
+recupere des
+unités ?
+[1C][1F][00]
+Oui, toutes !
+Quacer : Bien. Je
+vais les installer
+sur Talon2.
+
+dialogue_events_2B312 (5 octets)
+EN: Quacer.”
+“
+FR: Quacer : 
+
+dialogue_events_2B319 (30 octets)
+EN:  and I have
+ some Units too.
+ Check the locker:
+FR:  et moi avons
+aussi des unités.
+Regardez dans le
+coffre.
+
+dialogue_events_2B338 (141 octets)
+EN: Clamin.”
+“So you want the
+ way to Goht?”
+[1C][1F][00].”
+“Yes:
+Clamin.”
+“Find your way
+ underground. Why
+ Goht?”
+[1C][1F][00].”
+“To stop the
+ invasion of the
+ masters:
+Clamin.”
+“You're from the
+ other world! I'm
+ from Elan myself:
+[1C][1F][00].”
+“Then all the more
+ reason to help!”
+
+FR: Clamin : Vous
+voulez gagner Goht
+?
+[1C][1F][00]
+Oui.
+Clamin : Passez
+sous terre.
+Pourquoi Goht ?
+[1C][1F][00]
+Pour arrêter
+l'invasion des
+maîtres.
+Clamin : Vous
+venez de l'autre
+monde ! Je suis
+d'Elan, moi aussi.
+[1C][1F][00]
+Raison de plus
+pour nous aider !
+
+dialogue_events_2B3CB (43 octets)
+EN: Clamin.”
+“Fight them after
+ you have Mystic
+ sword and Lost-
+ magic:
+FR: Clamin :
+Affrontez-les
+après avoir obtenu
+l'Epée mystique et
+les magies
+perdues.
+
+dialogue_events_2B3F9 (60 octets)
+EN: .”
+“You have Xcalibr?
+ What'll you do?”
+[1C][1F][00].”
+“Teach those that
+ call themselves
+ masters a lesson:
+
+FR: Vous avez Xcalibr
+? Que comptez-vous
+faire ?
+[1C][1F][00]
+Donner une lecon a
+ces soi-disant
+maîtres.
+
+dialogue_events_2B437 (82 octets)
+EN: .”
+“It's about time!
+ Take me along,
+ I'll be of some
+ help with the 4
+ Mystic Swords:
+[1C][1F][00].”
+“Then you're 1 of
+ the Talon' 4 crew
+ members?”
+
+FR: Il etait temps !
+Emmenez-moi. Je
+vous aiderai avec
+les quatre Epees
+mystiques.
+[1C][1F][00]
+Vous êtes donc un
+des quatre membres
+de l'équipage ?
+
+dialogue_events_2B48B (22 octets)
+EN: .”
+“Correct, I'll
+ wait outside:
+
+FR: Exact. Je vous
+attends dehors.
+
+dialogue_events_2B4B3 (8 octets)
+EN:  boarded!
+
+FR:  monte à bord !
+
+dialogue_events_2B4C3 (60 octets)
+EN: .”
+“Don't bother with
+ the Mystic Sword,
+ only a special
+ girl can get it:
+[1C][1F][00].”
+“She is the one:
+
+FR: Ne cherchez pas
+l'Epée mystique.
+Seule une jeune
+fille spéciale
+peut la prendre.
+[1C][1F][00]
+C'est elle.
+
+dialogue_events_2B501 (38 octets)
+EN: .”
+“I thought she was
+ taken by Fenrir.
+ You know her?”
+[1C][1F][00].”
+“Yes:
+
+FR: Je la croyais
+enlevée par
+Fenrir. Vous la
+connaissez ?
+[1C][1F][00]
+Oui.
+
+dialogue_events_2B529 (26 octets)
+EN: .”
+“Come back here if
+ you do indeed get
+ it:
+FR: Revenez si vous
+l'obtenez
+vraiment.
+
+dialogue_events_2B547 (23 octets)
+EN: You need Clamin's
+pass to proceed.
+FR: Le laissez-passer
+de Clamin est
+obligatoire.
+
+dialogue_events_2B567 (51 octets)
+EN: The Underworld is
+not a place for
+humans. But let me
+see your pass
+anyway.
+
+FR: Le Monde
+souterrain n'est
+pas pour les
+humains. Montrez
+quand même votre
+laissez-passer.
+
+dialogue_events_2B59C (17 octets)
+EN: Alright, you may
+proceed.
+FR: Bien. Vous pouvez
+passer.
+
+dialogue_events_2B5E0 (10 octets)
+EN: .”
+“They saved me……”
+
+FR: Ils m'ont
+sauvee...
+
+dialogue_events_2B5EC (13 octets)
+EN: .”
+“Stroke of luck!”
+FR: Quelle chance !
+
+dialogue_events_2B609 (53 octets)
+EN: .”
+“Sorry, but the
+ Mystic Sword and
+ Goht had me under
+ a spell. Thanks
+ for saving 
+FR: Désolé. L'Epée
+mystique et Goht
+m'avaient
+ensorcele. Merci
+d'avoir sauve 
+
+dialogue_events_2B640 (8 octets)
+EN: :
+[1C][1F][00].”
+“Now what?”
+
+FR: .
+[1C][1F][00]
+Et maintenant ?
+
+dialogue_events_2B64D (78 octets)
+EN:  will wait in
+ Talon with Dr.
+ Quacer. I'm off
+ to Goht for Sol.
+ The only way is
+ to go through
+ this whirlgate:
+[1C][1F][00].”
+“Let's go!”
+FR:  attendra au Talon
+avec le Dr
+Quacer. Je vais
+chercher Sol a
+Goht. Seul ce
+portail permet
+d'y aller.
+[1C][1F][00]
+Allons-y !
+
+dialogue_events_2B6BF (58 octets)
+EN: [1C][1F][00].”
+“Boss said humans
+ are at the
+ Crevass:
+Guard.”
+“Humans? Great,I'm
+ hungry. See you!”
+
+FR: [1C][1F][00]
+Le chef dit qu'il
+y a des humains a
+la Crevasse.
+Garde : Des
+humains ? J'ai
+faim ! A bientôt !
+
+dialogue_events_2B70B (8 octets)
+EN: [1C][1F][00].”
+“It worked:
+FR: [1C][1F][00]
+Ca a marche.
+
+dialogue_events_2B714 (30 octets)
+EN: Guard.”
+“This leads to
+ Goht. You may not
+ pass!”
+FR: Garde : Cette
+route mene a Goht.
+Interdiction de
+passer !
+
+dialogue_events_2B733 (24 octets)
+EN: Jorgandr went to
+Upperworld I hear.
+FR: Jorgandr serait
+alle au Monde
+supérieur.
+
+dialogue_events_2B74C (21 octets)
+EN: Find any tasty
+humans lately?
+FR: Avez-vous trouve
+des humains
+appetissants ?
+
+dialogue_events_2B762 (23 octets)
+EN: Is West Tower's
+treasure safe?
+FR: Le trésor de la
+Tour Ouest est-il
+en surete ?
+
+dialogue_events_2B77A (31 octets)
+EN: The West tower's
+button reverses
+gravity!
+FR: Le bouton de la
+Tour Ouest inverse
+la gravite !
+
+dialogue_events_2B79A (78 octets)
+EN: I heard this turns
+you back into a
+human,but it can't
+cure the illness.
+It's a Unit called
+Flushex. Please
+take it.
+FR: Cette unité, le
+Flushex, rend
+votre forme
+humaine, mais ne
+guérit pas la
+maladie.
+Prenez-la.
+
+dialogue_events_2B7F1 (23 octets)
+EN: Boss.”
+“Don't waste any
+ time, go!”
+FR: Chef : Ne perdez
+pas de temps.
+Allez !
+
+dialogue_events_2B809 (17 octets)
+EN: The Talon has a
+human mind.
+FR: Le Talon possede
+un esprit humain.
+
+dialogue_events_2B81C (8 octets)
+EN: [1C][1F][00].”
+“Dead end:
+
+FR: [1C][1F][00]
+Une impasse.
+
+dialogue_events_2B826 (5 octets)
+EN: .”
+“Wait!”
+
+FR: Attends !
+
+dialogue_events_2B82E (8 octets)
+EN: What's……?”
+
+FR: Qu'est-ce... ?
+
+dialogue_events_2B83A (19 octets)
+EN: .”
+“Watch out! Come
+ this way!”
+FR: Attention ! Par
+ici !
+
+dialogue_events_2B859 (1 octets)
+EN: her
+FR: (non traduit / a verifier)
+
+dialogue_events_2B85D (1 octets)
+EN: her
+FR: (non traduit / a verifier)
+
+dialogue_events_2B892 (16 octets)
+EN: [1C][1F][00].”
+“Talon is moving
+ by itself!”
+
+FR: [1C][1F][00]
+Le Talon bouge
+tout seul !
+
+dialogue_events_2B8A3 (1 octets)
+EN: You're a newcomer.
+
+FR: (non traduit / a verifier)
+
+dialogue_events_2B8A6 (78 octets)
+EN: .”
+“Yeah, it's a new
+ ship. I didn't
+ want to tell you
+ this, but your
+ father's brain
+ made it possible:
+[1C][1F][00].”
+“! My dad?!”
+
+FR: Oui, c'est un
+nouveau vaisseau.
+Je ne voulais pas
+te le dire, mais
+c'est le cerveau
+de ton pere qui
+l'a rendu
+possible.
+[1C][1F][00]
+Mon pere ?!
+
+dialogue_events_2B8F6 (36 octets)
+EN: .”
+“We're all risking
+ our lives for the
+ Future,let's go!”
+FR: Nous risquons tous
+notre vie pour le
+futur. Allons-y !
+
+dialogue_events_2B923 (5 octets)
+EN: 's 
+ 's !”
+'s 
+FR: (non traduit / a verifier)
+
+dialogue_events_2B92F (1 octets)
+EN: the
+ 
+FR: (non traduit / a verifier)
+
+dialogue_events_2B936 (2 octets)
+EN: from x
+FR: (non traduit / a verifier)
+
+dialogue_events_2B93D (5 octets)
+EN: Talonfrom ,llTalon
+FR: (non traduit / a verifier)
+
+dialogue_events_2B953 (10 octets)
+EN: 
+“Go ahead, 
+FR: Vas-y, 
+
+dialogue_events_2B96C (7 octets)
+EN: 
+“Okay:
+FR: D'accord.
+
+dialogue_events_2B985 (4 octets)
+EN: ,llJ.
+FR: (non traduit / a verifier)
+
+dialogue_events_2B98B (6 octets)
+EN: “Ouch!”
+FR: Aie !
+
+dialogue_events_2B9A6 (8 octets)
+EN: to, 
+ake .9H9
+FR: (non traduit / a verifier)
+
+dialogue_events_2B9B0 (3 octets)
+EN: Used 
+FR: Utilisé 
+
+dialogue_events_2B9C2 (9 octets)
+EN: It's locked.
+FR: C'est ferme.
+
+dialogue_events_2B9D4 (20 octets)
+EN: Battle Simulator!
+Train?
+
+FR: Simulateur !
+S'entraîner ?
+
+dialogue_events_2B9E9 (2 octets)
+EN:  for 
+FR: (non traduit / a verifier)
+
+dialogue_events_2B9EF (3 octets)
+EN: ake ○9
+FR: (non traduit / a verifier)
+
+dialogue_events_2B9F8 (1 octets)
+EN: ake 
+FR: (non traduit / a verifier)
+
+dialogue_events_2B9FA (1 octets)
+EN: ake 
+FR: (non traduit / a verifier)
+
+dialogue_events_2B9FD (8 octets)
+EN: ake ve 
+Ave ake ake ake 
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA0B (1 octets)
+EN: ake 
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA1C (1 octets)
+EN: ake 
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA23 (1 octets)
+EN: ake 
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA26 (1 octets)
+EN: Sacred Sword
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA2B (3 octets)
+EN: ake ○…
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA31 (2 octets)
+EN: [1C][1F][00]e 
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA43 (1 octets)
+EN: ake 
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA45 (1 octets)
+EN: ake 
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA47 (1 octets)
+EN: ake 
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA4D (5 octets)
+EN: ake ouAH9
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA54 (3 octets)
+EN: Used 
+FR: Utilisé 
+
+dialogue_events_2BA6E (3 octets)
+EN: Pureland,ll
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA76 (3 octets)
+EN: ,llO
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA8A (5 octets)
+EN: llTalon,
+ ,
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA95 (4 octets)
+EN: ,llnv
+FR: (non traduit / a verifier)
+
+dialogue_events_2BA9C (20 octets)
+EN: haMonster
+“You can't go
+ any farther!”
+FR: Monstre : Vous
+n'irez pas plus
+loin !
+
+dialogue_events_2BB08 (1 octets)
+EN: You're a newcomer.
+
+FR: (non traduit / a verifier)
+
+dialogue_events_2BB44 (5 octets)
+EN: “What?”
+
+FR: Quoi ?
+
+dialogue_events_2BB52 (9 octets)
+EN: 
+“What is this?”
+
+FR: Qu'est-ce ?
+
+dialogue_events_2BB74 (18 octets)
+EN: .”
+“You……!”
+Maitreya.”
+“Hello, 
+FR: Toi... !
+Maitreya :
+Bonjour, 
+
+dialogue_events_2BB8B (5 octets)
+EN: .”
+“Where is 
+FR: Où est 
+
+dialogue_events_2BB92 (33 octets)
+EN: ?”
+Maitreya.”
+“Sol and the girl
+ are already in
+ the Pureland:
+
+FR: ?
+Maitreya : Sol et
+la fille sont déjà
+a Pureland.
+
+dialogue_events_2BBB5 (34 octets)
+EN: .”
+“No……:
+Maitreya.”
+“And you'll never
+ see her again!”
+ 
+FR: Non...
+Maitreya : Tu ne
+la reverras jamais
+!
+
+dialogue_events_2BBD9 (1 octets)
+EN: onster
+FR: (non traduit / a verifier)
+
+dialogue_events_2BBEB (7 octets)
+EN: [1C][1F][00].”
+“OUCH!
+
+FR: [1C][1F][00]
+AIE !
+
+dialogue_events_2BBFC (5 octets)
+EN:  Where's 
+FR:  Où est 
+
+dialogue_events_2BC0C (5 octets)
+EN: q.
+?”
+,ll
+FR: (non traduit / a verifier)
+
+dialogue_events_2BC15 (5 octets)
+EN: r.
+?”
+,ll
+FR: (non traduit / a verifier)
+
+dialogue_events_2BC1E (5 octets)
+EN: s.
+?”
+,ll
+FR: (non traduit / a verifier)
+
+dialogue_events_2BC25 (8 octets)
+EN: A2,ll[1C][1F][00].”
+“5ed 5
+FR: (non traduit / a verifier)
+
+dialogue_events_2BC31 (5 octets)
+EN: K,llxz
+FR: (non traduit / a verifier)
+
+dialogue_events_2BC40 (3 octets)
+EN: M,ll
+FR: (non traduit / a verifier)
+
+dialogue_events_2BC49 (1 octets)
+EN: her
+FR: (non traduit / a verifier)
+
+dialogue_events_2BC4B (98 octets)
+EN: [1C][1F][00].”
+“Are you Sol?!”
+Sol.”
+“I'll hold Xagor's
+ soul for you.
+ Do it now!”
+[1C][1F][00].”
+“But you……”
+Sol.”
+“You must hurry.
+ I won't be able
+ to hold him for
+ long:
+[1C][1F][00].”
+“……Okay. Now!”
+FR: [1C][1F][00]
+Vous êtes Sol ?!
+Sol : Je retiens
+l'ame de Xagor.
+Frappez !
+[1C][1F][00]
+Mais vous...
+Sol : Vite ! Je ne
+tiendrai pas
+longtemps.
+[1C][1F][00]
+... D'accord.
+Maintenant !
+
+dialogue_events_2BCB7 (9 octets)
+EN: Xagor.”
+“GRRR……”
+
+FR: Xagor : GRRR...
+
+dialogue_events_2BCC9 (2 octets)
+EN: ake 1
+FR: (non traduit / a verifier)
+
+dialogue_events_2BCCD (3 octets)
+EN: ake ZC
+FR: (non traduit / a verifier)
+
+dialogue_events_2BCD4 (3 octets)
+EN: ve gC
+FR: (non traduit / a verifier)
+
+dialogue_events_2BCD8 (1 octets)
+EN: ake 
+FR: (non traduit / a verifier)
+
+dialogue_events_2BCDF (1 octets)
+EN: ake 
+FR: (non traduit / a verifier)
+
+dialogue_events_2BCF5 (23 octets)
+EN: [1C][1F][00].”
+“The water
+ stopped!
+ Let's go now!”
+
+FR: [1C][1F][00]
+L'eau s'est
+arrêtée ! Partons
+!
+
+dialogue_events_2BD15 (6 octets)
+EN: [1C][1F][00].”
+“Look!”
+FR: [1C][1F][00]
+Regardez !
+
+dialogue_events_2BD23 (3 octets)
+EN: ow,ll
+FR: (non traduit / a verifier)
+
+dialogue_events_2BD31 (3 octets)
+EN: Used 
+FR: Utilisé 
+
+dialogue_events_2BD49 (5 octets)
+EN: K,llouD
+FR: (non traduit / a verifier)
+
+dialogue_events_2BD5E (18 octets)
+EN: There is a button.
+Push?
+
+
+FR: Il y a un bouton.
+Appuyer ?
+
+dialogue_events_2BD71 (2 octets)
+EN: omD
+FR: (non traduit / a verifier)
+
+dialogue_events_2BD7F (1 octets)
+EN: You're a newcomer.
+
+FR: (non traduit / a verifier)
+
+credits_3BB4E (7 octets)
+EN: …Staff…
+FR: …Equipé…
+
+credits_3BB58 (27 octets)
+EN: …Producer…
+ CHIHIRO FUJIOKA
+FR: …Production…
+ CHIHIRO FUJIOKA
+
+credits_3BB76 (11 octets)
+EN: …Director…
+
+FR: …Direction…
+
+
+credits_3BB83 (9 octets)
+EN: KOUZI IDE
+FR: (non traduit / a verifier)
+
+credits_3BB8D (49 octets)
+EN:   …Game Design…
+ MASANORI MORITA
+ HIDESHI KYOHNEN
+FR:  …Conception…
+ MASANORI MORITA
+ HIDESHI KYOHNEN
+
+credits_3BBBF (18 octets)
+EN:  …System Program…
+
+FR:  …Programme…
+
+
+credits_3BBD3 (12 octets)
+EN: TAKEO FUJII
+
+FR: (non traduit / a verifier)
+
+credits_3BBE1 (7 octets)
+EN: Itikiti
+FR: (non traduit / a verifier)
+
+credits_3BBE9 (50 octets)
+EN:  …Battle Program…
+ KATSUHIRO KONDO
+  KIYOTAKA GOTO
+FR:  …Combats…
+ KATSUHIRO KONDO
+ KIYOTAKA GOTO
+
+credits_3BC1E (40 octets)
+EN: …Graphic…
+  MASAHIRO KABE
+  YUKI YASU-DA
+FR: …Graphismes…
+ MASAHIRO KABE
+ YUKI YASU-DA
+
+credits_3BC47 (51 octets)
+EN:  …Develop Staff…
+  MIWAKO SHIMOJI
+ TOSHIYUKI MOMOSE
+FR:  …Developpement…
+ MIWAKO SHIMOJI
+ TOSHIYUKI MOMOSE
+
+credits_3BC7D (8 octets)
+EN: …Sound…
+
+FR: …Son…
+
+
+credits_3BC87 (12 octets)
+EN: RYUUJI SASAI
+FR: (non traduit / a verifier)
+
+credits_3BC94 (55 octets)
+EN:     ©1991,1993.
+  SQUARE CO., LTD.
+ALL RIGHTS RESERVED.
+FR:  ©1991,1993.
+ SQUARE CO., LTD.
+Tous droits
+reserves.
+
+credits_3BCCC (50 octets)
+EN:   …Translation…
+  Kaoru Moriyama
+Yoshihiko Maekawa
+FR:  …Traduction…
+ Kaoru Moriyama
+ Yoshihiko Maekawa
+
+credits_3BD01 (30 octets)
+EN: Kei Okahisa
+Katsumi A. Tayama
+
+FR: (non traduit / a verifier)
+
+credits_3BD21 (11 octets)
+EN: Kyle D. Ono
+FR: (non traduit / a verifier)
+
+credits_3BD2D (53 octets)
+EN: Special Thanks to
+Ted, Val, Nathan,
+Dennis, and Rich.
+FR: Remerciements a
+Ted, Val, Nathan,
+Dennis et Rich.
+
+credits_3BD68 (2 octets)
+EN: Thha
+FR: (non traduit / a verifier)

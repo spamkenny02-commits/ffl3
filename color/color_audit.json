@@ -1,0 +1,9847 @@
+{
+  "chunks": [
+    {
+      "frame": 94,
+      "bank": 9,
+      "cpu": 29205,
+      "offset": 160277,
+      "raw": "c7e2e8e9d8d4e8",
+      "text": "Nouveau"
+    },
+    {
+      "frame": 94,
+      "bank": 9,
+      "cpu": 29213,
+      "offset": 160285,
+      "raw": "cbd8e3e5d8e1d7e5d8",
+      "text": "Reprendre"
+    },
+    {
+      "frame": 95,
+      "bank": 9,
+      "cpu": 29223,
+      "offset": 160295,
+      "raw": "fffdb1b9b9b3ffcccacebacbbeffbcc8af",
+      "text": " ©1993 SQUARE CO."
+    },
+    {
+      "frame": 96,
+      "bank": 9,
+      "cpu": 29241,
+      "offset": 160313,
+      "raw": "c5dcd6d8e1d6d8ffc7dce1e7d8e1d7e2ffffffff",
+      "text": "Licence Nintendo    "
+    },
+    {
+      "frame": 637,
+      "bank": 18,
+      "cpu": 16384,
+      "offset": 294912,
+      "raw": "c5adbee1e7",
+      "text": "L'Ent"
+    },
+    {
+      "frame": 686,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce7",
+      "text": "it"
+    },
+    {
+      "frame": 707,
+      "bank": 18,
+      "cpu": 16390,
+      "offset": 294918,
+      "raw": "abffd7",
+      "text": "é d"
+    },
+    {
+      "frame": 737,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 759,
+      "bank": 18,
+      "cpu": 16394,
+      "offset": 294922,
+      "raw": "dfadbed4e8",
+      "text": "l'Eau"
+    },
+    {
+      "frame": 812,
+      "bank": 18,
+      "cpu": 16400,
+      "offset": 294928,
+      "raw": "e9",
+      "text": "v"
+    },
+    {
+      "frame": 823,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 844,
+      "bank": 18,
+      "cpu": 16402,
+      "offset": 294930,
+      "raw": "e8",
+      "text": "u"
+    },
+    {
+      "frame": 855,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 874,
+      "bank": 18,
+      "cpu": 16404,
+      "offset": 294932,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 885,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 908,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "c9e8e5d8dfd4e1d7",
+      "text": "Pureland"
+    },
+    {
+      "frame": 993,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce1",
+      "text": "in"
+    },
+    {
+      "frame": 1016,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 1033,
+      "bank": 18,
+      "cpu": 16410,
+      "offset": 294938,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 1045,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4ff",
+      "text": "a "
+    },
+    {
+      "frame": 1067,
+      "bank": 18,
+      "cpu": 16412,
+      "offset": 294940,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 1078,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 1097,
+      "bank": 18,
+      "cpu": 16414,
+      "offset": 294942,
+      "raw": "e0",
+      "text": "m"
+    },
+    {
+      "frame": 1109,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 1130,
+      "bank": 18,
+      "cpu": 16416,
+      "offset": 294944,
+      "raw": "d7d8ac",
+      "text": "de,"
+    },
+    {
+      "frame": 1161,
+      "bank": 31,
+      "cpu": 53207,
+      "offset": 53207,
+      "raw": "81",
+      "text": "à"
+    },
+    {
+      "frame": 1184,
+      "bank": 18,
+      "cpu": 16423,
+      "offset": 294951,
+      "raw": "ffe7",
+      "text": " t"
+    },
+    {
+      "frame": 1203,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 1225,
+      "bank": 18,
+      "cpu": 16426,
+      "offset": 294954,
+      "raw": "e7d8",
+      "text": "te"
+    },
+    {
+      "frame": 1245,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 1268,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dfd8",
+      "text": "le"
+    },
+    {
+      "frame": 1290,
+      "bank": 18,
+      "cpu": 16430,
+      "offset": 294958,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 1298,
+      "bank": 18,
+      "cpu": 52558,
+      "offset": 52558,
+      "raw": "ff",
+      "text": " "
+    },
+    {
+      "frame": 1321,
+      "bank": 18,
+      "cpu": 16432,
+      "offset": 294960,
+      "raw": "abe3e2e4e8d8e6",
+      "text": "époques"
+    },
+    {
+      "frame": 1397,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 1416,
+      "bank": 18,
+      "cpu": 16441,
+      "offset": 294969,
+      "raw": "bdd8",
+      "text": "De"
+    },
+    {
+      "frame": 1450,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 1468,
+      "bank": 18,
+      "cpu": 16444,
+      "offset": 294972,
+      "raw": "e0",
+      "text": "m"
+    },
+    {
+      "frame": 1480,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 1502,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6e7",
+      "text": "st"
+    },
+    {
+      "frame": 1523,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 1544,
+      "bank": 18,
+      "cpu": 16448,
+      "offset": 294976,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 1555,
+      "bank": 18,
+      "cpu": 16450,
+      "offset": 294978,
+      "raw": "e6e8e5dadce5",
+      "text": "surgir"
+    },
+    {
+      "frame": 1629,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 1652,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 1669,
+      "bank": 18,
+      "cpu": 16458,
+      "offset": 294986,
+      "raw": "d7d8",
+      "text": "de"
+    },
+    {
+      "frame": 1691,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 1713,
+      "bank": 18,
+      "cpu": 16461,
+      "offset": 294989,
+      "raw": "d8d4e8eb",
+      "text": "eaux"
+    },
+    {
+      "frame": 1755,
+      "bank": 18,
+      "cpu": 16466,
+      "offset": 294994,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 1776,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 1797,
+      "bank": 18,
+      "cpu": 16468,
+      "offset": 294996,
+      "raw": "e7e5d4e4e8",
+      "text": "traqu"
+    },
+    {
+      "frame": 1850,
+      "bank": 31,
+      "cpu": 53207,
+      "offset": 53207,
+      "raw": "80",
+      "text": "è"
+    },
+    {
+      "frame": 1861,
+      "bank": 18,
+      "cpu": 16476,
+      "offset": 295004,
+      "raw": "e5",
+      "text": "r"
+    },
+    {
+      "frame": 1874,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 1894,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 1916,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dfd8",
+      "text": "le"
+    },
+    {
+      "frame": 1934,
+      "bank": 18,
+      "cpu": 16480,
+      "offset": 295008,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 1945,
+      "bank": 18,
+      "cpu": 16482,
+      "offset": 295010,
+      "raw": "db",
+      "text": "h"
+    },
+    {
+      "frame": 1970,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e0",
+      "text": "om"
+    },
+    {
+      "frame": 1988,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e0d8",
+      "text": "me"
+    },
+    {
+      "frame": 2011,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 2032,
+      "bank": 18,
+      "cpu": 16486,
+      "offset": 295014,
+      "raw": "dd",
+      "text": "j"
+    },
+    {
+      "frame": 2040,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 2062,
+      "bank": 18,
+      "cpu": 16488,
+      "offset": 295016,
+      "raw": "e5ffd8e7",
+      "text": "r et"
+    },
+    {
+      "frame": 2104,
+      "bank": 18,
+      "cpu": 16493,
+      "offset": 295021,
+      "raw": "e1e8",
+      "text": "nu"
+    },
+    {
+      "frame": 2140,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce7",
+      "text": "it"
+    },
+    {
+      "frame": 2158,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 2169,
+      "bank": 18,
+      "cpu": 16497,
+      "offset": 295025,
+      "raw": "c5d8",
+      "text": "Le"
+    },
+    {
+      "frame": 2199,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 2221,
+      "bank": 18,
+      "cpu": 16500,
+      "offset": 295028,
+      "raw": "d6",
+      "text": "c"
+    },
+    {
+      "frame": 2234,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce7",
+      "text": "it"
+    },
+    {
+      "frame": 2252,
+      "bank": 18,
+      "cpu": 16502,
+      "offset": 295030,
+      "raw": "ab",
+      "text": "é"
+    },
+    {
+      "frame": 2263,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 2285,
+      "bank": 18,
+      "cpu": 16504,
+      "offset": 295032,
+      "raw": "d9e8e5",
+      "text": "fur"
+    },
+    {
+      "frame": 2318,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 2339,
+      "bank": 18,
+      "cpu": 16508,
+      "offset": 295036,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 2351,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 2381,
+      "bank": 18,
+      "cpu": 16511,
+      "offset": 295039,
+      "raw": "dadf",
+      "text": "gl"
+    },
+    {
+      "frame": 2403,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 2422,
+      "bank": 18,
+      "cpu": 16514,
+      "offset": 295042,
+      "raw": "e7dcd8e6",
+      "text": "ties"
+    },
+    {
+      "frame": 2466,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 2488,
+      "bank": 18,
+      "cpu": 16520,
+      "offset": 295048,
+      "raw": "cae8d8dfe4e8d8",
+      "text": "Quelque"
+    },
+    {
+      "frame": 2570,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 2592,
+      "bank": 18,
+      "cpu": 16528,
+      "offset": 295056,
+      "raw": "e3",
+      "text": "p"
+    },
+    {
+      "frame": 2603,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 2623,
+      "bank": 18,
+      "cpu": 16530,
+      "offset": 295058,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 2635,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 2656,
+      "bank": 18,
+      "cpu": 16532,
+      "offset": 295060,
+      "raw": "e1d8e6",
+      "text": "nes"
+    },
+    {
+      "frame": 2687,
+      "bank": 18,
+      "cpu": 16536,
+      "offset": 295064,
+      "raw": "e3e5abe3",
+      "text": "prép"
+    },
+    {
+      "frame": 2741,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e5",
+      "text": "ar"
+    },
+    {
+      "frame": 2764,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 2784,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 2805,
+      "bank": 18,
+      "cpu": 16543,
+      "offset": 295071,
+      "raw": "e8e1ffdf",
+      "text": "un l"
+    },
+    {
+      "frame": 2847,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 2868,
+      "bank": 18,
+      "cpu": 16548,
+      "offset": 295076,
+      "raw": "da",
+      "text": "g"
+    },
+    {
+      "frame": 2879,
+      "bank": 18,
+      "cpu": 16550,
+      "offset": 295078,
+      "raw": "e9e2ec",
+      "text": "voy"
+    },
+    {
+      "frame": 2923,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4da",
+      "text": "ag"
+    },
+    {
+      "frame": 2942,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 2963,
+      "bank": 18,
+      "cpu": 16555,
+      "offset": 295083,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 2975,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 2996,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 3017,
+      "bank": 18,
+      "cpu": 16558,
+      "offset": 295086,
+      "raw": "d7abe3",
+      "text": "dép"
+    },
+    {
+      "frame": 3049,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 3070,
+      "bank": 18,
+      "cpu": 16562,
+      "offset": 295090,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 3081,
+      "bank": 18,
+      "cpu": 16564,
+      "offset": 295092,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 3100,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 3122,
+      "bank": 18,
+      "cpu": 16566,
+      "offset": 295094,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 3134,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e5",
+      "text": "or"
+    },
+    {
+      "frame": 3155,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 3176,
+      "bank": 18,
+      "cpu": 16569,
+      "offset": 295097,
+      "raw": "d7e8ffe0",
+      "text": "du m"
+    },
+    {
+      "frame": 3218,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 3239,
+      "bank": 18,
+      "cpu": 16574,
+      "offset": 295102,
+      "raw": "d7d8",
+      "text": "de"
+    },
+    {
+      "frame": 3261,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 3307,
+      "bank": 18,
+      "cpu": 16580,
+      "offset": 295108,
+      "raw": "f2f2f2f2f2f2f2f2f2f2f2f2f2f2f2f2f2f2",
+      "text": "------------------"
+    },
+    {
+      "frame": 3504,
+      "bank": 18,
+      "cpu": 16599,
+      "offset": 295127,
+      "raw": "cfe2dcd6dcffbddb",
+      "text": "Voici Dh"
+    },
+    {
+      "frame": 3600,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e5",
+      "text": "ar"
+    },
+    {
+      "frame": 3621,
+      "bank": 18,
+      "cpu": 16608,
+      "offset": 295136,
+      "raw": "e0",
+      "text": "m"
+    },
+    {
+      "frame": 3632,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "acff",
+      "text": ", "
+    },
+    {
+      "frame": 3653,
+      "bank": 18,
+      "cpu": 16610,
+      "offset": 295138,
+      "raw": "e8e1",
+      "text": "un"
+    },
+    {
+      "frame": 3676,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 3683,
+      "bank": 18,
+      "cpu": 16613,
+      "offset": 295141,
+      "raw": "d6",
+      "text": "c"
+    },
+    {
+      "frame": 3708,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce7",
+      "text": "it"
+    },
+    {
+      "frame": 3729,
+      "bank": 18,
+      "cpu": 16615,
+      "offset": 295143,
+      "raw": "abffd9",
+      "text": "é f"
+    },
+    {
+      "frame": 3758,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 3780,
+      "bank": 18,
+      "cpu": 16619,
+      "offset": 295147,
+      "raw": "e0abd8",
+      "text": "mée"
+    },
+    {
+      "frame": 3813,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "afff",
+      "text": ". "
+    },
+    {
+      "frame": 3834,
+      "bank": 18,
+      "cpu": 16623,
+      "offset": 295151,
+      "raw": "cde5e2",
+      "text": "Tro"
+    },
+    {
+      "frame": 3866,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 3887,
+      "bank": 18,
+      "cpu": 16628,
+      "offset": 295156,
+      "raw": "ddd8e8e1d8",
+      "text": "jeune"
+    },
+    {
+      "frame": 3948,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 3970,
+      "bank": 18,
+      "cpu": 16634,
+      "offset": 295162,
+      "raw": "d7e8ffd9e8e7e8e5",
+      "text": "du futur"
+    },
+    {
+      "frame": 4056,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "ecff",
+      "text": "y "
+    },
+    {
+      "frame": 4089,
+      "bank": 18,
+      "cpu": 16644,
+      "offset": 295172,
+      "raw": "e9dce9",
+      "text": "viv"
+    },
+    {
+      "frame": 4120,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 4143,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 4160,
+      "bank": 18,
+      "cpu": 16649,
+      "offset": 295177,
+      "raw": "d4e9d8d6",
+      "text": "avec"
+    },
+    {
+      "frame": 4204,
+      "bank": 18,
+      "cpu": 16654,
+      "offset": 295182,
+      "raw": "dfad",
+      "text": "l'"
+    },
+    {
+      "frame": 4238,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 4301,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "afff",
+      "text": ". "
+    },
+    {
+      "frame": 4319,
+      "bank": 18,
+      "cpu": 16658,
+      "offset": 295186,
+      "raw": "bee1e9e2ecabe6",
+      "text": "Envoyés"
+    },
+    {
+      "frame": 4394,
+      "bank": 18,
+      "cpu": 16666,
+      "offset": 295194,
+      "raw": "dcd6dcff",
+      "text": "ici "
+    },
+    {
+      "frame": 4449,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 4470,
+      "bank": 18,
+      "cpu": 16671,
+      "offset": 295199,
+      "raw": "d9",
+      "text": "f"
+    },
+    {
+      "frame": 4479,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 4500,
+      "bank": 18,
+      "cpu": 16673,
+      "offset": 295201,
+      "raw": "e7e6",
+      "text": "ts"
+    },
+    {
+      "frame": 4524,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "acff",
+      "text": ", "
+    },
+    {
+      "frame": 4542,
+      "bank": 18,
+      "cpu": 16676,
+      "offset": 295204,
+      "raw": "dcdfe6",
+      "text": "ils"
+    },
+    {
+      "frame": 4577,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 4609,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 4630,
+      "bank": 18,
+      "cpu": 16682,
+      "offset": 295210,
+      "raw": "dae5",
+      "text": "gr"
+    },
+    {
+      "frame": 4649,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 4670,
+      "bank": 18,
+      "cpu": 16685,
+      "offset": 295213,
+      "raw": "d7dcffd4e9d8d6",
+      "text": "di avec"
+    },
+    {
+      "frame": 4743,
+      "bank": 18,
+      "cpu": 16693,
+      "offset": 295221,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 4767,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4ff",
+      "text": "a "
+    },
+    {
+      "frame": 4789,
+      "bank": 18,
+      "cpu": 16695,
+      "offset": 295223,
+      "raw": "e3d8e7",
+      "text": "pet"
+    },
+    {
+      "frame": 4820,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce7",
+      "text": "it"
+    },
+    {
+      "frame": 4841,
+      "bank": 18,
+      "cpu": 16699,
+      "offset": 295227,
+      "raw": "d8f2d9dcdf",
+      "text": "e-fil"
+    },
+    {
+      "frame": 4894,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dfd8",
+      "text": "le"
+    },
+    {
+      "frame": 4914,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 5008,
+      "bank": 15,
+      "cpu": 12641,
+      "offset": 12641,
+      "raw": "ffffffffffff",
+      "text": "      "
+    },
+    {
+      "frame": 5009,
+      "bank": 15,
+      "cpu": 52550,
+      "offset": 52550,
+      "raw": "ba",
+      "text": "A"
+    },
+    {
+      "frame": 5061,
+      "bank": 15,
+      "cpu": 52550,
+      "offset": 52550,
+      "raw": "ba",
+      "text": "A"
+    },
+    {
+      "frame": 5114,
+      "bank": 15,
+      "cpu": 52550,
+      "offset": 52550,
+      "raw": "ba",
+      "text": "A"
+    },
+    {
+      "frame": 5167,
+      "bank": 15,
+      "cpu": 52550,
+      "offset": 52550,
+      "raw": "ba",
+      "text": "A"
+    },
+    {
+      "frame": 5220,
+      "bank": 15,
+      "cpu": 52550,
+      "offset": 52550,
+      "raw": "ba",
+      "text": "A"
+    },
+    {
+      "frame": 5273,
+      "bank": 15,
+      "cpu": 52550,
+      "offset": 52550,
+      "raw": "ba",
+      "text": "A"
+    },
+    {
+      "frame": 10176,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "c6ece5e2e1",
+      "text": "Myron"
+    },
+    {
+      "frame": 10220,
+      "bank": 18,
+      "cpu": 19192,
+      "offset": 297720,
+      "raw": "ffe8e7dcdf",
+      "text": " util"
+    },
+    {
+      "frame": 10274,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 10297,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 10305,
+      "bank": 14,
+      "cpu": 28523,
+      "offset": 241515,
+      "raw": "94c0e8d8e5e5d8",
+      "text": "[94]Guerre"
+    },
+    {
+      "frame": 10379,
+      "bank": 18,
+      "cpu": 19200,
+      "offset": 297728,
+      "raw": "ffd6",
+      "text": " c"
+    },
+    {
+      "frame": 10403,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 10421,
+      "bank": 18,
+      "cpu": 19203,
+      "offset": 297731,
+      "raw": "e7e5",
+      "text": "tr"
+    },
+    {
+      "frame": 10444,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 10457,
+      "bank": 9,
+      "cpu": 53893,
+      "offset": 53893,
+      "raw": "bdd8e9dce1",
+      "text": "Devin"
+    },
+    {
+      "frame": 10517,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 10640,
+      "bank": 9,
+      "cpu": 53893,
+      "offset": 53893,
+      "raw": "bdd8e9dce1",
+      "text": "Devin"
+    },
+    {
+      "frame": 10697,
+      "bank": 18,
+      "cpu": 18902,
+      "offset": 297430,
+      "raw": "ffe7",
+      "text": " t"
+    },
+    {
+      "frame": 10720,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e0",
+      "text": "om"
+    },
+    {
+      "frame": 10739,
+      "bank": 18,
+      "cpu": 18905,
+      "offset": 297433,
+      "raw": "d5d8",
+      "text": "be"
+    },
+    {
+      "frame": 10762,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 10826,
+      "bank": 9,
+      "cpu": 54149,
+      "offset": 54149,
+      "raw": "bee6e3e5dce7",
+      "text": "Esprit"
+    },
+    {
+      "frame": 10898,
+      "bank": 18,
+      "cpu": 19192,
+      "offset": 297720,
+      "raw": "ffe8e7dcdf",
+      "text": " util"
+    },
+    {
+      "frame": 10952,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 10975,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 10987,
+      "bank": 9,
+      "cpu": 26823,
+      "offset": 157895,
+      "raw": "c9dfe2e1dad8e2e1",
+      "text": "Plongeon"
+    },
+    {
+      "frame": 11079,
+      "bank": 18,
+      "cpu": 19200,
+      "offset": 297728,
+      "raw": "ffd6",
+      "text": " c"
+    },
+    {
+      "frame": 11100,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 11122,
+      "bank": 18,
+      "cpu": 19203,
+      "offset": 297731,
+      "raw": "e7e5",
+      "text": "tr"
+    },
+    {
+      "frame": 11145,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 11154,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "c6ece5e2e1",
+      "text": "Myron"
+    },
+    {
+      "frame": 11217,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 11336,
+      "bank": 9,
+      "cpu": 54277,
+      "offset": 54277,
+      "raw": "bee6e3e5dce7",
+      "text": "Esprit"
+    },
+    {
+      "frame": 11408,
+      "bank": 18,
+      "cpu": 19192,
+      "offset": 297720,
+      "raw": "ffe8e7dcdf",
+      "text": " util"
+    },
+    {
+      "frame": 11462,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 11482,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 11494,
+      "bank": 9,
+      "cpu": 26823,
+      "offset": 157895,
+      "raw": "c9dfe2e1dad8e2e1",
+      "text": "Plongeon"
+    },
+    {
+      "frame": 11587,
+      "bank": 18,
+      "cpu": 19200,
+      "offset": 297728,
+      "raw": "ffd6",
+      "text": " c"
+    },
+    {
+      "frame": 11610,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 11629,
+      "bank": 18,
+      "cpu": 19203,
+      "offset": 297731,
+      "raw": "e7e5",
+      "text": "tr"
+    },
+    {
+      "frame": 11652,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 11665,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "c6ece5e2e1",
+      "text": "Myron"
+    },
+    {
+      "frame": 11727,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 11830,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "bce8e5e7dce6",
+      "text": "Curtis"
+    },
+    {
+      "frame": 11905,
+      "bank": 18,
+      "cpu": 19192,
+      "offset": 297720,
+      "raw": "ffe8e7dcdf",
+      "text": " util"
+    },
+    {
+      "frame": 11959,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 11982,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 11994,
+      "bank": 14,
+      "cpu": 28563,
+      "offset": 241555,
+      "raw": "96c0e8d8e5e5d8",
+      "text": "[96]Guerre"
+    },
+    {
+      "frame": 12075,
+      "bank": 18,
+      "cpu": 19200,
+      "offset": 297728,
+      "raw": "ffd6",
+      "text": " c"
+    },
+    {
+      "frame": 12098,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 12117,
+      "bank": 18,
+      "cpu": 19203,
+      "offset": 297731,
+      "raw": "e7e5",
+      "text": "tr"
+    },
+    {
+      "frame": 12140,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 12153,
+      "bank": 9,
+      "cpu": 54021,
+      "offset": 54021,
+      "raw": "bdd8e9dce1",
+      "text": "Devin"
+    },
+    {
+      "frame": 12213,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 12341,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "c0dfe2e5dcd4",
+      "text": "Gloria"
+    },
+    {
+      "frame": 12415,
+      "bank": 18,
+      "cpu": 19192,
+      "offset": 297720,
+      "raw": "ffe8e7dcdf",
+      "text": " util"
+    },
+    {
+      "frame": 12469,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 12489,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 12501,
+      "bank": 14,
+      "cpu": 28611,
+      "offset": 241603,
+      "raw": "98bbe5e2e1edd8",
+      "text": "[98]Bronze"
+    },
+    {
+      "frame": 12583,
+      "bank": 18,
+      "cpu": 19200,
+      "offset": 297728,
+      "raw": "ffd6",
+      "text": " c"
+    },
+    {
+      "frame": 12606,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 12628,
+      "bank": 18,
+      "cpu": 19203,
+      "offset": 297731,
+      "raw": "e7e5",
+      "text": "tr"
+    },
+    {
+      "frame": 12648,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 12661,
+      "bank": 9,
+      "cpu": 54021,
+      "offset": 54021,
+      "raw": "bdd8e9dce1",
+      "text": "Devin"
+    },
+    {
+      "frame": 12723,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 12861,
+      "bank": 9,
+      "cpu": 54021,
+      "offset": 54021,
+      "raw": "bdd8e9dce1",
+      "text": "Devin"
+    },
+    {
+      "frame": 12923,
+      "bank": 18,
+      "cpu": 19478,
+      "offset": 298006,
+      "raw": "ffe6",
+      "text": " s"
+    },
+    {
+      "frame": 12946,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 12965,
+      "bank": 18,
+      "cpu": 19481,
+      "offset": 298009,
+      "raw": "d7abd9",
+      "text": "déf"
+    },
+    {
+      "frame": 12999,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 13018,
+      "bank": 18,
+      "cpu": 19485,
+      "offset": 298013,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 13030,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 13049,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 13124,
+      "bank": 18,
+      "cpu": 19192,
+      "offset": 297720,
+      "raw": "ffe8e7dcdf",
+      "text": " util"
+    },
+    {
+      "frame": 13178,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 13201,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 13213,
+      "bank": 14,
+      "cpu": 28347,
+      "offset": 241339,
+      "raw": "90c5e2e1dae8d8",
+      "text": "[90]Longue"
+    },
+    {
+      "frame": 13294,
+      "bank": 18,
+      "cpu": 19200,
+      "offset": 297728,
+      "raw": "ffd6",
+      "text": " c"
+    },
+    {
+      "frame": 13317,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 13336,
+      "bank": 18,
+      "cpu": 19203,
+      "offset": 297731,
+      "raw": "e7e5",
+      "text": "tr"
+    },
+    {
+      "frame": 13359,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 13372,
+      "bank": 9,
+      "cpu": 54021,
+      "offset": 54021,
+      "raw": "bdd8e9dce1",
+      "text": "Devin"
+    },
+    {
+      "frame": 13432,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 13563,
+      "bank": 9,
+      "cpu": 54021,
+      "offset": 54021,
+      "raw": "bdd8e9dce1",
+      "text": "Devin"
+    },
+    {
+      "frame": 13623,
+      "bank": 18,
+      "cpu": 18902,
+      "offset": 297430,
+      "raw": "ffe7",
+      "text": " t"
+    },
+    {
+      "frame": 13644,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e0",
+      "text": "om"
+    },
+    {
+      "frame": 13666,
+      "bank": 18,
+      "cpu": 18905,
+      "offset": 297433,
+      "raw": "d5d8",
+      "text": "be"
+    },
+    {
+      "frame": 13689,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 14253,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "c6ece5e2e1",
+      "text": "Myron"
+    },
+    {
+      "frame": 14301,
+      "bank": 18,
+      "cpu": 19192,
+      "offset": 297720,
+      "raw": "ffe8e7dcdf",
+      "text": " util"
+    },
+    {
+      "frame": 14355,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 14378,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 14386,
+      "bank": 14,
+      "cpu": 28523,
+      "offset": 241515,
+      "raw": "94c0e8d8e5e5d8",
+      "text": "[94]Guerre"
+    },
+    {
+      "frame": 14460,
+      "bank": 18,
+      "cpu": 19200,
+      "offset": 297728,
+      "raw": "ffd6",
+      "text": " c"
+    },
+    {
+      "frame": 14483,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 14502,
+      "bank": 18,
+      "cpu": 19203,
+      "offset": 297731,
+      "raw": "e7e5",
+      "text": "tr"
+    },
+    {
+      "frame": 14525,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 14538,
+      "bank": 9,
+      "cpu": 54149,
+      "offset": 54149,
+      "raw": "bee6e3e5dce7",
+      "text": "Esprit"
+    },
+    {
+      "frame": 14609,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 14732,
+      "bank": 9,
+      "cpu": 54149,
+      "offset": 54149,
+      "raw": "bee6e3e5dce7",
+      "text": "Esprit"
+    },
+    {
+      "frame": 14800,
+      "bank": 18,
+      "cpu": 18902,
+      "offset": 297430,
+      "raw": "ffe7",
+      "text": " t"
+    },
+    {
+      "frame": 14821,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e0",
+      "text": "om"
+    },
+    {
+      "frame": 14843,
+      "bank": 18,
+      "cpu": 18905,
+      "offset": 297433,
+      "raw": "d5d8",
+      "text": "be"
+    },
+    {
+      "frame": 14863,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 14928,
+      "bank": 9,
+      "cpu": 54277,
+      "offset": 54277,
+      "raw": "bee6e3e5dce7",
+      "text": "Esprit"
+    },
+    {
+      "frame": 15001,
+      "bank": 18,
+      "cpu": 19192,
+      "offset": 297720,
+      "raw": "ffe8e7dcdf",
+      "text": " util"
+    },
+    {
+      "frame": 15055,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 15075,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 15087,
+      "bank": 9,
+      "cpu": 26823,
+      "offset": 157895,
+      "raw": "c9dfe2e1dad8e2e1",
+      "text": "Plongeon"
+    },
+    {
+      "frame": 15180,
+      "bank": 18,
+      "cpu": 19200,
+      "offset": 297728,
+      "raw": "ffd6",
+      "text": " c"
+    },
+    {
+      "frame": 15203,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 15225,
+      "bank": 18,
+      "cpu": 19203,
+      "offset": 297731,
+      "raw": "e7e5",
+      "text": "tr"
+    },
+    {
+      "frame": 15245,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 15258,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "c0dfe2e5dcd4",
+      "text": "Gloria"
+    },
+    {
+      "frame": 15331,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 15414,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "bce8e5e7dce6",
+      "text": "Curtis"
+    },
+    {
+      "frame": 15489,
+      "bank": 18,
+      "cpu": 19192,
+      "offset": 297720,
+      "raw": "ffe8e7dcdf",
+      "text": " util"
+    },
+    {
+      "frame": 15543,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 15563,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 15575,
+      "bank": 14,
+      "cpu": 28563,
+      "offset": 241555,
+      "raw": "96c0e8d8e5e5d8",
+      "text": "[96]Guerre"
+    },
+    {
+      "frame": 15657,
+      "bank": 18,
+      "cpu": 19200,
+      "offset": 297728,
+      "raw": "ffd6",
+      "text": " c"
+    },
+    {
+      "frame": 15680,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 15702,
+      "bank": 18,
+      "cpu": 19203,
+      "offset": 297731,
+      "raw": "e7e5",
+      "text": "tr"
+    },
+    {
+      "frame": 15722,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 15735,
+      "bank": 9,
+      "cpu": 54277,
+      "offset": 54277,
+      "raw": "bee6e3e5dce7",
+      "text": "Esprit"
+    },
+    {
+      "frame": 15808,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 15934,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "c0dfe2e5dcd4",
+      "text": "Gloria"
+    },
+    {
+      "frame": 16008,
+      "bank": 18,
+      "cpu": 19192,
+      "offset": 297720,
+      "raw": "ffe8e7dcdf",
+      "text": " util"
+    },
+    {
+      "frame": 16062,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 16082,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 16094,
+      "bank": 14,
+      "cpu": 28611,
+      "offset": 241603,
+      "raw": "98bbe5e2e1edd8",
+      "text": "[98]Bronze"
+    },
+    {
+      "frame": 16178,
+      "bank": 18,
+      "cpu": 19200,
+      "offset": 297728,
+      "raw": "ffd6",
+      "text": " c"
+    },
+    {
+      "frame": 16199,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 16221,
+      "bank": 18,
+      "cpu": 19203,
+      "offset": 297731,
+      "raw": "e7e5",
+      "text": "tr"
+    },
+    {
+      "frame": 16241,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 16254,
+      "bank": 9,
+      "cpu": 54277,
+      "offset": 54277,
+      "raw": "bee6e3e5dce7",
+      "text": "Esprit"
+    },
+    {
+      "frame": 16327,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 16456,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 16527,
+      "bank": 18,
+      "cpu": 19192,
+      "offset": 297720,
+      "raw": "ffe8e7dcdf",
+      "text": " util"
+    },
+    {
+      "frame": 16581,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 16604,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 16612,
+      "bank": 14,
+      "cpu": 28347,
+      "offset": 241339,
+      "raw": "90c5e2e1dae8d8",
+      "text": "[90]Longue"
+    },
+    {
+      "frame": 16697,
+      "bank": 18,
+      "cpu": 19200,
+      "offset": 297728,
+      "raw": "ffd6",
+      "text": " c"
+    },
+    {
+      "frame": 16718,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 16740,
+      "bank": 18,
+      "cpu": 19203,
+      "offset": 297731,
+      "raw": "e7e5",
+      "text": "tr"
+    },
+    {
+      "frame": 16763,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 16772,
+      "bank": 9,
+      "cpu": 54277,
+      "offset": 54277,
+      "raw": "bee6e3e5dce7",
+      "text": "Esprit"
+    },
+    {
+      "frame": 16846,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 16977,
+      "bank": 9,
+      "cpu": 54277,
+      "offset": 54277,
+      "raw": "bee6e3e5dce7",
+      "text": "Esprit"
+    },
+    {
+      "frame": 17046,
+      "bank": 18,
+      "cpu": 18902,
+      "offset": 297430,
+      "raw": "ffe7",
+      "text": " t"
+    },
+    {
+      "frame": 17069,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e0",
+      "text": "om"
+    },
+    {
+      "frame": 17088,
+      "bank": 18,
+      "cpu": 18905,
+      "offset": 297433,
+      "raw": "d5d8",
+      "text": "be"
+    },
+    {
+      "frame": 17111,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 17170,
+      "bank": 18,
+      "cpu": 19357,
+      "offset": 297885,
+      "raw": "c0",
+      "text": "G"
+    },
+    {
+      "frame": 17194,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4da",
+      "text": "ag"
+    },
+    {
+      "frame": 17216,
+      "bank": 18,
+      "cpu": 19359,
+      "offset": 297887,
+      "raw": "e1abfff3",
+      "text": "né !"
+    },
+    {
+      "frame": 17304,
+      "bank": 9,
+      "cpu": 52528,
+      "offset": 52528,
+      "raw": "b1b4",
+      "text": "14"
+    },
+    {
+      "frame": 17338,
+      "bank": 18,
+      "cpu": 18751,
+      "offset": 297279,
+      "raw": "ffbed1c9ffd4e8dae0",
+      "text": " EXP augm"
+    },
+    {
+      "frame": 17429,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 17451,
+      "bank": 18,
+      "cpu": 18761,
+      "offset": 297289,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 17460,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 17481,
+      "bank": 18,
+      "cpu": 18763,
+      "offset": 297291,
+      "raw": "f3",
+      "text": "!"
+    },
+    {
+      "frame": 17496,
+      "bank": 18,
+      "cpu": 18766,
+      "offset": 297294,
+      "raw": "cbd8",
+      "text": "Re"
+    },
+    {
+      "frame": 17523,
+      "bank": 31,
+      "cpu": 53153,
+      "offset": 53153,
+      "raw": "87",
+      "text": "ç"
+    },
+    {
+      "frame": 17534,
+      "bank": 18,
+      "cpu": 18771,
+      "offset": 297299,
+      "raw": "e8fffeff",
+      "text": "u : "
+    },
+    {
+      "frame": 17577,
+      "bank": 9,
+      "cpu": 52527,
+      "offset": 52527,
+      "raw": "b5b6b0",
+      "text": "560"
+    },
+    {
+      "frame": 17609,
+      "bank": 9,
+      "cpu": 31294,
+      "offset": 162366,
+      "raw": "c0c9",
+      "text": "GP"
+    },
+    {
+      "frame": 17630,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 17804,
+      "bank": 7,
+      "cpu": 31752,
+      "offset": 130056,
+      "raw": "c6ece5e2e1",
+      "text": "Myron"
+    },
+    {
+      "frame": 17852,
+      "bank": 18,
+      "cpu": 16707,
+      "offset": 295235,
+      "raw": "c3",
+      "text": "J"
+    },
+    {
+      "frame": 17863,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 17883,
+      "bank": 18,
+      "cpu": 16709,
+      "offset": 295237,
+      "raw": "d6e5e2",
+      "text": "cro"
+    },
+    {
+      "frame": 17917,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6ff",
+      "text": "is "
+    },
+    {
+      "frame": 17947,
+      "bank": 18,
+      "cpu": 16713,
+      "offset": 295241,
+      "raw": "e4e8",
+      "text": "qu"
+    },
+    {
+      "frame": 17969,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 17989,
+      "bank": 18,
+      "cpu": 16716,
+      "offset": 295244,
+      "raw": "d6add8",
+      "text": "c'e"
+    },
+    {
+      "frame": 18023,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6e7",
+      "text": "st"
+    },
+    {
+      "frame": 18042,
+      "bank": 18,
+      "cpu": 16721,
+      "offset": 295249,
+      "raw": "e1e2e7e5",
+      "text": "notr"
+    },
+    {
+      "frame": 18086,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 18106,
+      "bank": 18,
+      "cpu": 16726,
+      "offset": 295254,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 18117,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 18139,
+      "bank": 18,
+      "cpu": 16728,
+      "offset": 295256,
+      "raw": "e1dc",
+      "text": "ni"
+    },
+    {
+      "frame": 18159,
+      "bank": 31,
+      "cpu": 53209,
+      "offset": 53209,
+      "raw": "80",
+      "text": "è"
+    },
+    {
+      "frame": 18170,
+      "bank": 18,
+      "cpu": 16733,
+      "offset": 295261,
+      "raw": "e5",
+      "text": "r"
+    },
+    {
+      "frame": 18182,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 18193,
+      "bank": 18,
+      "cpu": 16735,
+      "offset": 295263,
+      "raw": "e6ab",
+      "text": "sé"
+    },
+    {
+      "frame": 18213,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 18234,
+      "bank": 18,
+      "cpu": 16738,
+      "offset": 295266,
+      "raw": "d6",
+      "text": "c"
+    },
+    {
+      "frame": 18245,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 18265,
+      "bank": 18,
+      "cpu": 16740,
+      "offset": 295268,
+      "raw": "d4e8",
+      "text": "au"
+    },
+    {
+      "frame": 18287,
+      "bank": 18,
+      "cpu": 16743,
+      "offset": 295271,
+      "raw": "e6dce0e8df",
+      "text": "simul"
+    },
+    {
+      "frame": 18353,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e7",
+      "text": "at"
+    },
+    {
+      "frame": 18371,
+      "bank": 18,
+      "cpu": 16749,
+      "offset": 295277,
+      "raw": "d8e8e5",
+      "text": "eur"
+    },
+    {
+      "frame": 18406,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "afff",
+      "text": ". "
+    },
+    {
+      "frame": 18424,
+      "bank": 18,
+      "cpu": 16753,
+      "offset": 295281,
+      "raw": "c3",
+      "text": "J"
+    },
+    {
+      "frame": 18436,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 18447,
+      "bank": 18,
+      "cpu": 16755,
+      "offset": 295283,
+      "raw": "e9",
+      "text": "v"
+    },
+    {
+      "frame": 18466,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 18489,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 18510,
+      "bank": 18,
+      "cpu": 16758,
+      "offset": 295286,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 18520,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6ff",
+      "text": "is "
+    },
+    {
+      "frame": 18553,
+      "bank": 18,
+      "cpu": 16760,
+      "offset": 295288,
+      "raw": "d4e8",
+      "text": "au"
+    },
+    {
+      "frame": 18574,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 18607,
+      "bank": 18,
+      "cpu": 16764,
+      "offset": 295292,
+      "raw": "e9e2dce5",
+      "text": "voir"
+    },
+    {
+      "frame": 18649,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 18661,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 18731,
+      "bank": 18,
+      "cpu": 16771,
+      "offset": 295299,
+      "raw": "bdad",
+      "text": "D'"
+    },
+    {
+      "frame": 18767,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4d6",
+      "text": "ac"
+    },
+    {
+      "frame": 18784,
+      "bank": 18,
+      "cpu": 16774,
+      "offset": 295302,
+      "raw": "d6",
+      "text": "c"
+    },
+    {
+      "frame": 18796,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e5",
+      "text": "or"
+    },
+    {
+      "frame": 18817,
+      "bank": 18,
+      "cpu": 16776,
+      "offset": 295304,
+      "raw": "d7afaf",
+      "text": "d.."
+    },
+    {
+      "frame": 18850,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "afff",
+      "text": ". "
+    },
+    {
+      "frame": 18871,
+      "bank": 18,
+      "cpu": 16780,
+      "offset": 295308,
+      "raw": "ba",
+      "text": "A"
+    },
+    {
+      "frame": 18882,
+      "bank": 18,
+      "cpu": 16782,
+      "offset": 295310,
+      "raw": "d5dc",
+      "text": "bi"
+    },
+    {
+      "frame": 18915,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 18936,
+      "bank": 18,
+      "cpu": 16785,
+      "offset": 295313,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 18943,
+      "bank": 31,
+      "cpu": 53209,
+      "offset": 53209,
+      "raw": "85",
+      "text": "ô"
+    },
+    {
+      "frame": 18954,
+      "bank": 18,
+      "cpu": 16789,
+      "offset": 295317,
+      "raw": "e7af",
+      "text": "t."
+    },
+    {
+      "frame": 19430,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 19495,
+      "bank": 9,
+      "cpu": 52560,
+      "offset": 52560,
+      "raw": "f0",
+      "text": ".”"
+    },
+    {
+      "frame": 19506,
+      "bank": 9,
+      "cpu": 52562,
+      "offset": 52562,
+      "raw": "ef",
+      "text": "“"
+    },
+    {
+      "frame": 19517,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "ccdbd4e5e2e1",
+      "text": "Sharon"
+    },
+    {
+      "frame": 19581,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "f3ee",
+      "text": "!”"
+    },
+    {
+      "frame": 19602,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "ccdbd4e5e2e1",
+      "text": "Sharon"
+    },
+    {
+      "frame": 19665,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "f0",
+      "text": ".”"
+    },
+    {
+      "frame": 19676,
+      "bank": 9,
+      "cpu": 52559,
+      "offset": 52559,
+      "raw": "ef",
+      "text": "“"
+    },
+    {
+      "frame": 19697,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 19760,
+      "bank": 18,
+      "cpu": 16792,
+      "offset": 295320,
+      "raw": "f3ffcde8ffe3",
+      "text": "! Tu p"
+    },
+    {
+      "frame": 19825,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e5",
+      "text": "ar"
+    },
+    {
+      "frame": 19845,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 19866,
+      "bank": 18,
+      "cpu": 16800,
+      "offset": 295328,
+      "raw": "e9e5d4dce0",
+      "text": "vraim"
+    },
+    {
+      "frame": 19921,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 19942,
+      "bank": 18,
+      "cpu": 16806,
+      "offset": 295334,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 19950,
+      "bank": 18,
+      "cpu": 16808,
+      "offset": 295336,
+      "raw": "f4",
+      "text": "?"
+    },
+    {
+      "frame": 19975,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 20047,
+      "bank": 18,
+      "cpu": 16812,
+      "offset": 295340,
+      "raw": "c8e8dc",
+      "text": "Oui"
+    },
+    {
+      "frame": 20092,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "acff",
+      "text": ", "
+    },
+    {
+      "frame": 20109,
+      "bank": 18,
+      "cpu": 16816,
+      "offset": 295344,
+      "raw": "e0d4",
+      "text": "ma"
+    },
+    {
+      "frame": 20132,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6ff",
+      "text": "is "
+    },
+    {
+      "frame": 20162,
+      "bank": 18,
+      "cpu": 16819,
+      "offset": 295347,
+      "raw": "dd",
+      "text": "j"
+    },
+    {
+      "frame": 20174,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 20187,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 20215,
+      "bank": 18,
+      "cpu": 16822,
+      "offset": 295350,
+      "raw": "e9dc",
+      "text": "vi"
+    },
+    {
+      "frame": 20239,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 20260,
+      "bank": 18,
+      "cpu": 16825,
+      "offset": 295353,
+      "raw": "d7e5d4dcaf",
+      "text": "drai."
+    },
+    {
+      "frame": 20313,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "ccdbd4e5e2e1",
+      "text": "Sharon"
+    },
+    {
+      "frame": 20374,
+      "bank": 18,
+      "cpu": 16831,
+      "offset": 295359,
+      "raw": "afaf",
+      "text": ".."
+    },
+    {
+      "frame": 20398,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 20410,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 20480,
+      "bank": 18,
+      "cpu": 16836,
+      "offset": 295364,
+      "raw": "c7",
+      "text": "N"
+    },
+    {
+      "frame": 20503,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 20525,
+      "bank": 18,
+      "cpu": 16838,
+      "offset": 295366,
+      "raw": "e7ad",
+      "text": "t'"
+    },
+    {
+      "frame": 20546,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 20567,
+      "bank": 18,
+      "cpu": 16841,
+      "offset": 295369,
+      "raw": "ffd9d4",
+      "text": " fa"
+    },
+    {
+      "frame": 20598,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6ff",
+      "text": "is "
+    },
+    {
+      "frame": 20631,
+      "bank": 18,
+      "cpu": 16845,
+      "offset": 295373,
+      "raw": "e3",
+      "text": "p"
+    },
+    {
+      "frame": 20641,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e6",
+      "text": "as"
+    },
+    {
+      "frame": 20663,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 20674,
+      "bank": 18,
+      "cpu": 16848,
+      "offset": 295376,
+      "raw": "cde8ffe9dc",
+      "text": "Tu vi"
+    },
+    {
+      "frame": 20738,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 20757,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 20778,
+      "bank": 18,
+      "cpu": 16855,
+      "offset": 295383,
+      "raw": "e0",
+      "text": "m"
+    },
+    {
+      "frame": 20789,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 20809,
+      "bank": 18,
+      "cpu": 16857,
+      "offset": 295385,
+      "raw": "d7dce5",
+      "text": "dir"
+    },
+    {
+      "frame": 20843,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 20851,
+      "bank": 18,
+      "cpu": 16861,
+      "offset": 295389,
+      "raw": "d4e8ff",
+      "text": "au "
+    },
+    {
+      "frame": 20898,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 20915,
+      "bank": 18,
+      "cpu": 16865,
+      "offset": 295393,
+      "raw": "e9e2dce5ffd7d8e0d4",
+      "text": "voir dema"
+    },
+    {
+      "frame": 21010,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce1",
+      "text": "in"
+    },
+    {
+      "frame": 21032,
+      "bank": 18,
+      "cpu": 16875,
+      "offset": 295403,
+      "raw": "ac",
+      "text": ","
+    },
+    {
+      "frame": 21043,
+      "bank": 18,
+      "cpu": 16877,
+      "offset": 295405,
+      "raw": "dbd8",
+      "text": "he"
+    },
+    {
+      "frame": 21075,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce1ff",
+      "text": "in "
+    },
+    {
+      "frame": 21108,
+      "bank": 18,
+      "cpu": 16880,
+      "offset": 295408,
+      "raw": "f4",
+      "text": "?"
+    },
+    {
+      "frame": 21117,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "ccdbd4e5e2e1",
+      "text": "Sharon"
+    },
+    {
+      "frame": 21180,
+      "bank": 18,
+      "cpu": 16882,
+      "offset": 295410,
+      "raw": "afaf",
+      "text": ".."
+    },
+    {
+      "frame": 21204,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 21216,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 21286,
+      "bank": 18,
+      "cpu": 16887,
+      "offset": 295415,
+      "raw": "c3",
+      "text": "J"
+    },
+    {
+      "frame": 21309,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 21328,
+      "bank": 18,
+      "cpu": 16889,
+      "offset": 295417,
+      "raw": "d7e2",
+      "text": "do"
+    },
+    {
+      "frame": 21351,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6ff",
+      "text": "is "
+    },
+    {
+      "frame": 21381,
+      "bank": 18,
+      "cpu": 16892,
+      "offset": 295420,
+      "raw": "e3",
+      "text": "p"
+    },
+    {
+      "frame": 21393,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e5",
+      "text": "ar"
+    },
+    {
+      "frame": 21414,
+      "bank": 18,
+      "cpu": 16894,
+      "offset": 295422,
+      "raw": "e7dce5af",
+      "text": "tir."
+    },
+    {
+      "frame": 21696,
+      "bank": 18,
+      "cpu": 16899,
+      "offset": 295427,
+      "raw": "cde8ffe0",
+      "text": "Tu m"
+    },
+    {
+      "frame": 21732,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 21752,
+      "bank": 18,
+      "cpu": 16904,
+      "offset": 295432,
+      "raw": "e0",
+      "text": "m"
+    },
+    {
+      "frame": 21764,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 21785,
+      "bank": 18,
+      "cpu": 16906,
+      "offset": 295434,
+      "raw": "e4e8",
+      "text": "qu"
+    },
+    {
+      "frame": 21805,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 21829,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e6",
+      "text": "as"
+    },
+    {
+      "frame": 21850,
+      "bank": 18,
+      "cpu": 16910,
+      "offset": 295438,
+      "raw": "afafaf",
+      "text": "..."
+    },
+    {
+      "frame": 21981,
+      "bank": 18,
+      "cpu": 16915,
+      "offset": 295443,
+      "raw": "f2f2ffc5",
+      "text": "-- L"
+    },
+    {
+      "frame": 22017,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 22039,
+      "bank": 18,
+      "cpu": 16920,
+      "offset": 295448,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 22052,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 22070,
+      "bank": 18,
+      "cpu": 16922,
+      "offset": 295450,
+      "raw": "d7d8e0d4",
+      "text": "dema"
+    },
+    {
+      "frame": 22115,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce1ff",
+      "text": "in "
+    },
+    {
+      "frame": 22145,
+      "bank": 18,
+      "cpu": 16927,
+      "offset": 295455,
+      "raw": "f2f2",
+      "text": "--"
+    },
+    {
+      "frame": 22261,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 22326,
+      "bank": 18,
+      "cpu": 16932,
+      "offset": 295460,
+      "raw": "c7",
+      "text": "N"
+    },
+    {
+      "frame": 22335,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 22358,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 22379,
+      "bank": 18,
+      "cpu": 16935,
+      "offset": 295463,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 22390,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e0",
+      "text": "om"
+    },
+    {
+      "frame": 22412,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e0d8",
+      "text": "me"
+    },
+    {
+      "frame": 22435,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 22452,
+      "bank": 18,
+      "cpu": 16939,
+      "offset": 295467,
+      "raw": "e3e5",
+      "text": "pr"
+    },
+    {
+      "frame": 22474,
+      "bank": 31,
+      "cpu": 53209,
+      "offset": 53209,
+      "raw": "82",
+      "text": "ê"
+    },
+    {
+      "frame": 22485,
+      "bank": 18,
+      "cpu": 16944,
+      "offset": 295472,
+      "raw": "e7e6",
+      "text": "ts"
+    },
+    {
+      "frame": 22507,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 22518,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 22580,
+      "bank": 18,
+      "cpu": 16948,
+      "offset": 295476,
+      "raw": "fffeffbbdc",
+      "text": " : Bi"
+    },
+    {
+      "frame": 22635,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 22654,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 22667,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 22739,
+      "bank": 18,
+      "cpu": 16957,
+      "offset": 295485,
+      "raw": "c8",
+      "text": "O"
+    },
+    {
+      "frame": 22759,
+      "bank": 31,
+      "cpu": 53209,
+      "offset": 53209,
+      "raw": "86",
+      "text": "ù"
+    },
+    {
+      "frame": 22770,
+      "bank": 18,
+      "cpu": 16961,
+      "offset": 295489,
+      "raw": "ffd8e6",
+      "text": " es"
+    },
+    {
+      "frame": 22804,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 22824,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "ccdbd4e5e2e1",
+      "text": "Sharon"
+    },
+    {
+      "frame": 22887,
+      "bank": 18,
+      "cpu": 16966,
+      "offset": 295494,
+      "raw": "f4",
+      "text": "?"
+    },
+    {
+      "frame": 22899,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 22971,
+      "bank": 18,
+      "cpu": 16969,
+      "offset": 295497,
+      "raw": "fffeffcd",
+      "text": " : T"
+    },
+    {
+      "frame": 23015,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 23035,
+      "bank": 18,
+      "cpu": 16974,
+      "offset": 295502,
+      "raw": "d7dce5",
+      "text": "dir"
+    },
+    {
+      "frame": 23069,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 23077,
+      "bank": 18,
+      "cpu": 16978,
+      "offset": 295506,
+      "raw": "d4e8ff",
+      "text": "au "
+    },
+    {
+      "frame": 23124,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 23141,
+      "bank": 18,
+      "cpu": 16982,
+      "offset": 295510,
+      "raw": "e9e2dce5ffdfe8dcffd9d4",
+      "text": "voir lui fa"
+    },
+    {
+      "frame": 23260,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce7",
+      "text": "it"
+    },
+    {
+      "frame": 23281,
+      "bank": 18,
+      "cpu": 16995,
+      "offset": 295523,
+      "raw": "e7e5e2e3ffd7",
+      "text": "trop d"
+    },
+    {
+      "frame": 23353,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 23375,
+      "bank": 18,
+      "cpu": 17002,
+      "offset": 295530,
+      "raw": "e3d8",
+      "text": "pe"
+    },
+    {
+      "frame": 23395,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce1",
+      "text": "in"
+    },
+    {
+      "frame": 23417,
+      "bank": 18,
+      "cpu": 17005,
+      "offset": 295533,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 23430,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 23442,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 23512,
+      "bank": 18,
+      "cpu": 17009,
+      "offset": 295537,
+      "raw": "be",
+      "text": "E"
+    },
+    {
+      "frame": 23536,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dfdf",
+      "text": "ll"
+    },
+    {
+      "frame": 23555,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 23576,
+      "bank": 18,
+      "cpu": 17012,
+      "offset": 295540,
+      "raw": "e0",
+      "text": "m"
+    },
+    {
+      "frame": 23588,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 23599,
+      "bank": 18,
+      "cpu": 17014,
+      "offset": 295542,
+      "raw": "e0",
+      "text": "m"
+    },
+    {
+      "frame": 23620,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 23641,
+      "bank": 18,
+      "cpu": 17016,
+      "offset": 295544,
+      "raw": "e4e8",
+      "text": "qu"
+    },
+    {
+      "frame": 23660,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 23682,
+      "bank": 18,
+      "cpu": 17019,
+      "offset": 295547,
+      "raw": "d4afaf",
+      "text": "a.."
+    },
+    {
+      "frame": 23715,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 23726,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 23799,
+      "bank": 18,
+      "cpu": 17024,
+      "offset": 295552,
+      "raw": "fffeffc9",
+      "text": " : P"
+    },
+    {
+      "frame": 23842,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e5",
+      "text": "ar"
+    },
+    {
+      "frame": 23863,
+      "bank": 18,
+      "cpu": 17029,
+      "offset": 295557,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 23873,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 23894,
+      "bank": 18,
+      "cpu": 17031,
+      "offset": 295559,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 23905,
+      "bank": 18,
+      "cpu": 17033,
+      "offset": 295561,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 23925,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 23948,
+      "bank": 7,
+      "cpu": 32232,
+      "offset": 130536,
+      "raw": "bbe2e5dadce1",
+      "text": "Borgin"
+    },
+    {
+      "frame": 24013,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "acff",
+      "text": ", "
+    },
+    {
+      "frame": 24031,
+      "bank": 18,
+      "cpu": 17037,
+      "offset": 295565,
+      "raw": "dfaddb",
+      "text": "l'h"
+    },
+    {
+      "frame": 24066,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e0",
+      "text": "om"
+    },
+    {
+      "frame": 24084,
+      "bank": 18,
+      "cpu": 17041,
+      "offset": 295569,
+      "raw": "e0",
+      "text": "m"
+    },
+    {
+      "frame": 24095,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 24117,
+      "bank": 18,
+      "cpu": 17043,
+      "offset": 295571,
+      "raw": "e4e8dcffe9",
+      "text": "qui v"
+    },
+    {
+      "frame": 24170,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 24190,
+      "bank": 18,
+      "cpu": 17049,
+      "offset": 295577,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 24202,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4ff",
+      "text": "a "
+    },
+    {
+      "frame": 24238,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 24254,
+      "bank": 18,
+      "cpu": 17053,
+      "offset": 295581,
+      "raw": "e9e2ecd8",
+      "text": "voye"
+    },
+    {
+      "frame": 24296,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 24318,
+      "bank": 18,
+      "cpu": 17058,
+      "offset": 295586,
+      "raw": "dcd6dcaf",
+      "text": "ici."
+    },
+    {
+      "frame": 24680,
+      "bank": 7,
+      "cpu": 31944,
+      "offset": 130248,
+      "raw": "bddce2e1",
+      "text": "Dion"
+    },
+    {
+      "frame": 24720,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "f0",
+      "text": ".”"
+    },
+    {
+      "frame": 24731,
+      "bank": 9,
+      "cpu": 52559,
+      "offset": 52559,
+      "raw": "ef",
+      "text": "“"
+    },
+    {
+      "frame": 24742,
+      "bank": 7,
+      "cpu": 32232,
+      "offset": 130536,
+      "raw": "bbe2e5dadce1",
+      "text": "Borgin"
+    },
+    {
+      "frame": 24806,
+      "bank": 18,
+      "cpu": 17063,
+      "offset": 295591,
+      "raw": "f3ffc8",
+      "text": "! O"
+    },
+    {
+      "frame": 24837,
+      "bank": 31,
+      "cpu": 53209,
+      "offset": 53209,
+      "raw": "86",
+      "text": "ù"
+    },
+    {
+      "frame": 24848,
+      "bank": 18,
+      "cpu": 17069,
+      "offset": 295597,
+      "raw": "ffe9",
+      "text": " v"
+    },
+    {
+      "frame": 24871,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 24892,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 24914,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dfd8",
+      "text": "le"
+    },
+    {
+      "frame": 24932,
+      "bank": 18,
+      "cpu": 17074,
+      "offset": 295602,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 24944,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 24966,
+      "bank": 18,
+      "cpu": 17077,
+      "offset": 295605,
+      "raw": "d9",
+      "text": "f"
+    },
+    {
+      "frame": 24978,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 24996,
+      "bank": 18,
+      "cpu": 17079,
+      "offset": 295607,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 25007,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 25029,
+      "bank": 18,
+      "cpu": 17081,
+      "offset": 295609,
+      "raw": "f4",
+      "text": "?"
+    },
+    {
+      "frame": 25039,
+      "bank": 7,
+      "cpu": 32232,
+      "offset": 130536,
+      "raw": "bbe2e5dadce1",
+      "text": "Borgin"
+    },
+    {
+      "frame": 25102,
+      "bank": 18,
+      "cpu": 17083,
+      "offset": 295611,
+      "raw": "bd",
+      "text": "D"
+    },
+    {
+      "frame": 25114,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 25136,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 25155,
+      "bank": 18,
+      "cpu": 17086,
+      "offset": 295614,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 25166,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 25188,
+      "bank": 18,
+      "cpu": 17088,
+      "offset": 295616,
+      "raw": "e3",
+      "text": "p"
+    },
+    {
+      "frame": 25199,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e6",
+      "text": "as"
+    },
+    {
+      "frame": 25220,
+      "bank": 18,
+      "cpu": 17090,
+      "offset": 295618,
+      "raw": "e6abaf",
+      "text": "sé."
+    },
+    {
+      "frame": 25250,
+      "bank": 7,
+      "cpu": 31944,
+      "offset": 130248,
+      "raw": "bddce2e1",
+      "text": "Dion"
+    },
+    {
+      "frame": 25294,
+      "bank": 18,
+      "cpu": 17094,
+      "offset": 295622,
+      "raw": "c5",
+      "text": "L"
+    },
+    {
+      "frame": 25303,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 25325,
+      "bank": 18,
+      "cpu": 17096,
+      "offset": 295624,
+      "raw": "e3",
+      "text": "p"
+    },
+    {
+      "frame": 25338,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e6",
+      "text": "as"
+    },
+    {
+      "frame": 25356,
+      "bank": 18,
+      "cpu": 17098,
+      "offset": 295626,
+      "raw": "e6abfff4f3ffc5",
+      "text": "sé ?! L"
+    },
+    {
+      "frame": 25432,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4ff",
+      "text": "a "
+    },
+    {
+      "frame": 25455,
+      "bank": 9,
+      "cpu": 52558,
+      "offset": 52558,
+      "raw": "ff",
+      "text": " "
+    },
+    {
+      "frame": 25462,
+      "bank": 18,
+      "cpu": 17107,
+      "offset": 295635,
+      "raw": "e0",
+      "text": "m"
+    },
+    {
+      "frame": 25475,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4d6",
+      "text": "ac"
+    },
+    {
+      "frame": 25496,
+      "bank": 18,
+      "cpu": 17109,
+      "offset": 295637,
+      "raw": "db",
+      "text": "h"
+    },
+    {
+      "frame": 25507,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce1",
+      "text": "in"
+    },
+    {
+      "frame": 25527,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 25549,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4ff",
+      "text": "a "
+    },
+    {
+      "frame": 25568,
+      "bank": 18,
+      "cpu": 17113,
+      "offset": 295641,
+      "raw": "e9e2ec",
+      "text": "voy"
+    },
+    {
+      "frame": 25602,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4da",
+      "text": "ag"
+    },
+    {
+      "frame": 25622,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 25643,
+      "bank": 18,
+      "cpu": 17119,
+      "offset": 295647,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 25655,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 25675,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 25696,
+      "bank": 18,
+      "cpu": 17122,
+      "offset": 295650,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 25707,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 25727,
+      "bank": 18,
+      "cpu": 17124,
+      "offset": 295652,
+      "raw": "e7d8e0e3",
+      "text": "temp"
+    },
+    {
+      "frame": 25771,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 25791,
+      "bank": 18,
+      "cpu": 17129,
+      "offset": 295657,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 25803,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 25814,
+      "bank": 18,
+      "cpu": 17131,
+      "offset": 295659,
+      "raw": "cae8",
+      "text": "Qu"
+    },
+    {
+      "frame": 25835,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4d6",
+      "text": "ac"
+    },
+    {
+      "frame": 25857,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 25878,
+      "bank": 18,
+      "cpu": 17135,
+      "offset": 295663,
+      "raw": "ffe1add8",
+      "text": " n'e"
+    },
+    {
+      "frame": 25920,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6e7",
+      "text": "st"
+    },
+    {
+      "frame": 25940,
+      "bank": 18,
+      "cpu": 17141,
+      "offset": 295669,
+      "raw": "ffe3d4",
+      "text": " pa"
+    },
+    {
+      "frame": 25972,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 25993,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 26015,
+      "bank": 18,
+      "cpu": 17146,
+      "offset": 295674,
+      "raw": "d6",
+      "text": "c"
+    },
+    {
+      "frame": 26027,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e5",
+      "text": "or"
+    },
+    {
+      "frame": 26046,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 26067,
+      "bank": 18,
+      "cpu": 17149,
+      "offset": 295677,
+      "raw": "d9",
+      "text": "f"
+    },
+    {
+      "frame": 26078,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce1",
+      "text": "in"
+    },
+    {
+      "frame": 26098,
+      "bank": 18,
+      "cpu": 17151,
+      "offset": 295679,
+      "raw": "dc",
+      "text": "i"
+    },
+    {
+      "frame": 26110,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 26121,
+      "bank": 18,
+      "cpu": 17153,
+      "offset": 295681,
+      "raw": "f3",
+      "text": "!"
+    },
+    {
+      "frame": 26133,
+      "bank": 7,
+      "cpu": 32232,
+      "offset": 130536,
+      "raw": "bbe2e5dadce1",
+      "text": "Borgin"
+    },
+    {
+      "frame": 26195,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "f0",
+      "text": ".”"
+    },
+    {
+      "frame": 26204,
+      "bank": 9,
+      "cpu": 52559,
+      "offset": 52559,
+      "raw": "ef",
+      "text": "“"
+    },
+    {
+      "frame": 26216,
+      "bank": 18,
+      "cpu": 17155,
+      "offset": 295683,
+      "raw": "c3",
+      "text": "J"
+    },
+    {
+      "frame": 26226,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 26248,
+      "bank": 18,
+      "cpu": 17157,
+      "offset": 295685,
+      "raw": "e1add4dcffe3d4",
+      "text": "n'ai pa"
+    },
+    {
+      "frame": 26321,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 26343,
+      "bank": 18,
+      "cpu": 17165,
+      "offset": 295693,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 26355,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 26363,
+      "bank": 18,
+      "cpu": 17167,
+      "offset": 295695,
+      "raw": "d6dbe2dcebfff3ffbcdb",
+      "text": "choix ! Ch"
+    },
+    {
+      "frame": 26470,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 26491,
+      "bank": 18,
+      "cpu": 17178,
+      "offset": 295706,
+      "raw": "da",
+      "text": "g"
+    },
+    {
+      "frame": 26502,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 26522,
+      "bank": 18,
+      "cpu": 17180,
+      "offset": 295708,
+      "raw": "ffdf",
+      "text": " l"
+    },
+    {
+      "frame": 26545,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 26556,
+      "bank": 18,
+      "cpu": 17183,
+      "offset": 295711,
+      "raw": "e3",
+      "text": "p"
+    },
+    {
+      "frame": 26569,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e6",
+      "text": "as"
+    },
+    {
+      "frame": 26586,
+      "bank": 18,
+      "cpu": 17185,
+      "offset": 295713,
+      "raw": "e6ab",
+      "text": "sé"
+    },
+    {
+      "frame": 26609,
+      "bank": 9,
+      "cpu": 52558,
+      "offset": 52558,
+      "raw": "ff",
+      "text": " "
+    },
+    {
+      "frame": 26620,
+      "bank": 18,
+      "cpu": 17188,
+      "offset": 295716,
+      "raw": "d8e6",
+      "text": "es"
+    },
+    {
+      "frame": 26640,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 26661,
+      "bank": 18,
+      "cpu": 17191,
+      "offset": 295719,
+      "raw": "e1e2e7e5",
+      "text": "notr"
+    },
+    {
+      "frame": 26703,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 26726,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6d8",
+      "text": "se"
+    },
+    {
+      "frame": 26745,
+      "bank": 18,
+      "cpu": 17197,
+      "offset": 295725,
+      "raw": "e8df",
+      "text": "ul"
+    },
+    {
+      "frame": 26767,
+      "bank": 18,
+      "cpu": 17200,
+      "offset": 295728,
+      "raw": "e0e2ec",
+      "text": "moy"
+    },
+    {
+      "frame": 26800,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 26821,
+      "bank": 18,
+      "cpu": 17204,
+      "offset": 295732,
+      "raw": "ffd7",
+      "text": " d"
+    },
+    {
+      "frame": 26840,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 26862,
+      "bank": 18,
+      "cpu": 17207,
+      "offset": 295735,
+      "raw": "e6d4e8e9",
+      "text": "sauv"
+    },
+    {
+      "frame": 26904,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 26926,
+      "bank": 18,
+      "cpu": 17212,
+      "offset": 295740,
+      "raw": "ffdf",
+      "text": " l"
+    },
+    {
+      "frame": 26947,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 26958,
+      "bank": 18,
+      "cpu": 17215,
+      "offset": 295743,
+      "raw": "e0",
+      "text": "m"
+    },
+    {
+      "frame": 26970,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 26991,
+      "bank": 18,
+      "cpu": 17217,
+      "offset": 295745,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 26999,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 27021,
+      "bank": 18,
+      "cpu": 17219,
+      "offset": 295747,
+      "raw": "d7d8",
+      "text": "de"
+    },
+    {
+      "frame": 27044,
+      "bank": 9,
+      "cpu": 25137,
+      "offset": 156209,
+      "raw": "ff",
+      "text": " "
+    },
+    {
+      "frame": 27052,
+      "bank": 18,
+      "cpu": 17222,
+      "offset": 295750,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 27064,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4ff",
+      "text": "a "
+    },
+    {
+      "frame": 27086,
+      "bank": 18,
+      "cpu": 17224,
+      "offset": 295752,
+      "raw": "e1e2ecd4d7d8af",
+      "text": "noyade."
+    },
+    {
+      "frame": 27158,
+      "bank": 7,
+      "cpu": 31944,
+      "offset": 130248,
+      "raw": "bddce2e1",
+      "text": "Dion"
+    },
+    {
+      "frame": 27202,
+      "bank": 18,
+      "cpu": 17232,
+      "offset": 295760,
+      "raw": "cde8ffd8",
+      "text": "Tu e"
+    },
+    {
+      "frame": 27244,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 27264,
+      "bank": 18,
+      "cpu": 17237,
+      "offset": 295765,
+      "raw": "d9",
+      "text": "f"
+    },
+    {
+      "frame": 27275,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 27297,
+      "bank": 18,
+      "cpu": 17239,
+      "offset": 295767,
+      "raw": "fff3",
+      "text": " !"
+    },
+    {
+      "frame": 27591,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 27657,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "f0",
+      "text": ".”"
+    },
+    {
+      "frame": 27668,
+      "bank": 9,
+      "cpu": 52559,
+      "offset": 52559,
+      "raw": "ef",
+      "text": "“"
+    },
+    {
+      "frame": 27679,
+      "bank": 7,
+      "cpu": 32232,
+      "offset": 130536,
+      "raw": "bbe2e5dadce1",
+      "text": "Borgin"
+    },
+    {
+      "frame": 27741,
+      "bank": 18,
+      "cpu": 17242,
+      "offset": 295770,
+      "raw": "ffe1",
+      "text": " n"
+    },
+    {
+      "frame": 27763,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 27785,
+      "bank": 18,
+      "cpu": 17245,
+      "offset": 295773,
+      "raw": "e3d8e8",
+      "text": "peu"
+    },
+    {
+      "frame": 27817,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 27838,
+      "bank": 18,
+      "cpu": 17249,
+      "offset": 295777,
+      "raw": "e3",
+      "text": "p"
+    },
+    {
+      "frame": 27849,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e6",
+      "text": "as"
+    },
+    {
+      "frame": 27870,
+      "bank": 18,
+      "cpu": 17252,
+      "offset": 295780,
+      "raw": "e5abe8e6e6dce5ffe6dcffdf",
+      "text": "réussir si l"
+    },
+    {
+      "frame": 27998,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 28006,
+      "bank": 18,
+      "cpu": 17265,
+      "offset": 295793,
+      "raw": "d9e8e7e8e5ffd8e6",
+      "text": "futur es"
+    },
+    {
+      "frame": 28104,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 28123,
+      "bank": 18,
+      "cpu": 17274,
+      "offset": 295802,
+      "raw": "d7abdd",
+      "text": "déj"
+    },
+    {
+      "frame": 28156,
+      "bank": 31,
+      "cpu": 53209,
+      "offset": 53209,
+      "raw": "81",
+      "text": "à"
+    },
+    {
+      "frame": 28165,
+      "bank": 18,
+      "cpu": 17281,
+      "offset": 295809,
+      "raw": "d7abe7e5e8",
+      "text": "détru"
+    },
+    {
+      "frame": 28231,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce7",
+      "text": "it"
+    },
+    {
+      "frame": 28253,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 28264,
+      "bank": 18,
+      "cpu": 17288,
+      "offset": 295816,
+      "raw": "cf",
+      "text": "V"
+    },
+    {
+      "frame": 28283,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 28306,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dfd8",
+      "text": "le"
+    },
+    {
+      "frame": 28324,
+      "bank": 18,
+      "cpu": 17291,
+      "offset": 295819,
+      "raw": "edf2e9",
+      "text": "z-v"
+    },
+    {
+      "frame": 28357,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 28377,
+      "bank": 18,
+      "cpu": 17295,
+      "offset": 295823,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 28388,
+      "bank": 18,
+      "cpu": 17297,
+      "offset": 295825,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 28411,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 28430,
+      "bank": 18,
+      "cpu": 17299,
+      "offset": 295827,
+      "raw": "dd",
+      "text": "j"
+    },
+    {
+      "frame": 28441,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 28463,
+      "bank": 18,
+      "cpu": 17301,
+      "offset": 295829,
+      "raw": "e5",
+      "text": "r"
+    },
+    {
+      "frame": 28474,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 28494,
+      "bank": 18,
+      "cpu": 17303,
+      "offset": 295831,
+      "raw": "e3",
+      "text": "p"
+    },
+    {
+      "frame": 28506,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e5",
+      "text": "ar"
+    },
+    {
+      "frame": 28527,
+      "bank": 18,
+      "cpu": 17305,
+      "offset": 295833,
+      "raw": "e7dce5fff4",
+      "text": "tir ?"
+    },
+    {
+      "frame": 28582,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 28653,
+      "bank": 18,
+      "cpu": 17313,
+      "offset": 295841,
+      "raw": "c8e8dc",
+      "text": "Oui"
+    },
+    {
+      "frame": 28697,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "afff",
+      "text": ". "
+    },
+    {
+      "frame": 28718,
+      "bank": 18,
+      "cpu": 17317,
+      "offset": 295845,
+      "raw": "c7",
+      "text": "N"
+    },
+    {
+      "frame": 28729,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 28749,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 28770,
+      "bank": 18,
+      "cpu": 17320,
+      "offset": 295848,
+      "raw": "d4e9",
+      "text": "av"
+    },
+    {
+      "frame": 28793,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 28812,
+      "bank": 18,
+      "cpu": 17323,
+      "offset": 295851,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 28823,
+      "bank": 18,
+      "cpu": 17325,
+      "offset": 295853,
+      "raw": "d7abd6dcd7abffe7",
+      "text": "décidé t"
+    },
+    {
+      "frame": 28918,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 28941,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 28961,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dfd8",
+      "text": "le"
+    },
+    {
+      "frame": 28983,
+      "bank": 18,
+      "cpu": 17336,
+      "offset": 295864,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 28994,
+      "bank": 18,
+      "cpu": 17338,
+      "offset": 295866,
+      "raw": "e7e5e2",
+      "text": "tro"
+    },
+    {
+      "frame": 29036,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6ff",
+      "text": "is "
+    },
+    {
+      "frame": 29066,
+      "bank": 18,
+      "cpu": 17342,
+      "offset": 295870,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 29077,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 29099,
+      "bank": 18,
+      "cpu": 17344,
+      "offset": 295872,
+      "raw": "d9d4dce5",
+      "text": "fair"
+    },
+    {
+      "frame": 29142,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 29153,
+      "bank": 18,
+      "cpu": 17349,
+      "offset": 295877,
+      "raw": "d9",
+      "text": "f"
+    },
+    {
+      "frame": 29174,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4d6",
+      "text": "ac"
+    },
+    {
+      "frame": 29196,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 29217,
+      "bank": 31,
+      "cpu": 53209,
+      "offset": 53209,
+      "raw": "81",
+      "text": "à"
+    },
+    {
+      "frame": 29225,
+      "bank": 18,
+      "cpu": 17355,
+      "offset": 295883,
+      "raw": "ffe1e2e7e5",
+      "text": " notr"
+    },
+    {
+      "frame": 29279,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 29290,
+      "bank": 18,
+      "cpu": 17361,
+      "offset": 295889,
+      "raw": "d4e9",
+      "text": "av"
+    },
+    {
+      "frame": 29326,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 29342,
+      "bank": 18,
+      "cpu": 17364,
+      "offset": 295892,
+      "raw": "dce5af",
+      "text": "ir."
+    },
+    {
+      "frame": 29385,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 29448,
+      "bank": 18,
+      "cpu": 17369,
+      "offset": 295897,
+      "raw": "fffeffbbdc",
+      "text": " : Bi"
+    },
+    {
+      "frame": 29503,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 29524,
+      "bank": 18,
+      "cpu": 17375,
+      "offset": 295903,
+      "raw": "ffd7",
+      "text": " d"
+    },
+    {
+      "frame": 29545,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce7",
+      "text": "it"
+    },
+    {
+      "frame": 29566,
+      "bank": 18,
+      "cpu": 17379,
+      "offset": 295907,
+      "raw": "f3ffcf",
+      "text": "! V"
+    },
+    {
+      "frame": 29609,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 29630,
+      "bank": 18,
+      "cpu": 17383,
+      "offset": 295911,
+      "raw": "d8edffe9e2dce5ffd6d8d6dc",
+      "text": "ez voir ceci"
+    },
+    {
+      "frame": 29755,
+      "bank": 18,
+      "cpu": 17396,
+      "offset": 295924,
+      "raw": "f3",
+      "text": "!"
+    },
+    {
+      "frame": 30220,
+      "bank": 7,
+      "cpu": 32040,
+      "offset": 130344,
+      "raw": "bfd4ecd8",
+      "text": "Faye"
+    },
+    {
+      "frame": 30254,
+      "bank": 18,
+      "cpu": 17398,
+      "offset": 295926,
+      "raw": "c7",
+      "text": "N"
+    },
+    {
+      "frame": 30265,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 30285,
+      "bank": 18,
+      "cpu": 17400,
+      "offset": 295928,
+      "raw": "e3",
+      "text": "p"
+    },
+    {
+      "frame": 30297,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e5",
+      "text": "ar"
+    },
+    {
+      "frame": 30319,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 30338,
+      "bank": 18,
+      "cpu": 17403,
+      "offset": 295931,
+      "raw": "e3d4",
+      "text": "pa"
+    },
+    {
+      "frame": 30360,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 30382,
+      "bank": 18,
+      "cpu": 17406,
+      "offset": 295934,
+      "raw": "f3",
+      "text": "!"
+    },
+    {
+      "frame": 30600,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 30656,
+      "bank": 9,
+      "cpu": 52560,
+      "offset": 52560,
+      "raw": "f0",
+      "text": ".”"
+    },
+    {
+      "frame": 30667,
+      "bank": 9,
+      "cpu": 52562,
+      "offset": 52562,
+      "raw": "ef",
+      "text": "“"
+    },
+    {
+      "frame": 30678,
+      "bank": 7,
+      "cpu": 32040,
+      "offset": 130344,
+      "raw": "bfd4ecd8",
+      "text": "Faye"
+    },
+    {
+      "frame": 30720,
+      "bank": 9,
+      "cpu": 25370,
+      "offset": 156442,
+      "raw": "f3",
+      "text": "!"
+    },
+    {
+      "frame": 30732,
+      "bank": 9,
+      "cpu": 25373,
+      "offset": 156445,
+      "raw": "ff",
+      "text": " "
+    },
+    {
+      "frame": 30742,
+      "bank": 7,
+      "cpu": 31944,
+      "offset": 130248,
+      "raw": "bddce2e1",
+      "text": "Dion"
+    },
+    {
+      "frame": 30785,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "f3ee",
+      "text": "!”"
+    },
+    {
+      "frame": 30807,
+      "bank": 7,
+      "cpu": 31944,
+      "offset": 130248,
+      "raw": "bddce2e1",
+      "text": "Dion"
+    },
+    {
+      "frame": 30848,
+      "bank": 18,
+      "cpu": 17408,
+      "offset": 295936,
+      "raw": "c5d8",
+      "text": "Le"
+    },
+    {
+      "frame": 30868,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 30890,
+      "bank": 18,
+      "cpu": 17411,
+      "offset": 295939,
+      "raw": "e0",
+      "text": "m"
+    },
+    {
+      "frame": 30902,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 30922,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6e7",
+      "text": "st"
+    },
+    {
+      "frame": 30946,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 30968,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 30985,
+      "bank": 18,
+      "cpu": 17416,
+      "offset": 295944,
+      "raw": "e9",
+      "text": "v"
+    },
+    {
+      "frame": 30997,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 31018,
+      "bank": 18,
+      "cpu": 17418,
+      "offset": 295946,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 31027,
+      "bank": 18,
+      "cpu": 17420,
+      "offset": 295948,
+      "raw": "e9",
+      "text": "v"
+    },
+    {
+      "frame": 31050,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 31073,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 31093,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e7",
+      "text": "at"
+    },
+    {
+      "frame": 31114,
+      "bank": 18,
+      "cpu": 17424,
+      "offset": 295952,
+      "raw": "e7e5d4e3",
+      "text": "trap"
+    },
+    {
+      "frame": 31155,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 31177,
+      "bank": 18,
+      "cpu": 17430,
+      "offset": 295958,
+      "raw": "d7d8db",
+      "text": "deh"
+    },
+    {
+      "frame": 31221,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e5",
+      "text": "or"
+    },
+    {
+      "frame": 31240,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 31261,
+      "bank": 18,
+      "cpu": 17435,
+      "offset": 295963,
+      "raw": "f3",
+      "text": "!"
+    },
+    {
+      "frame": 31274,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 31345,
+      "bank": 18,
+      "cpu": 17439,
+      "offset": 295967,
+      "raw": "cd",
+      "text": "T"
+    },
+    {
+      "frame": 31368,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 31392,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 31409,
+      "bank": 18,
+      "cpu": 17442,
+      "offset": 295970,
+      "raw": "dce5",
+      "text": "ir"
+    },
+    {
+      "frame": 31432,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4ff",
+      "text": "a "
+    },
+    {
+      "frame": 31451,
+      "bank": 18,
+      "cpu": 17445,
+      "offset": 295973,
+      "raw": "d5dc",
+      "text": "bi"
+    },
+    {
+      "frame": 31475,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 31497,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 31504,
+      "bank": 18,
+      "cpu": 17449,
+      "offset": 295977,
+      "raw": "c7",
+      "text": "N"
+    },
+    {
+      "frame": 31527,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 31550,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 31568,
+      "bank": 18,
+      "cpu": 17452,
+      "offset": 295980,
+      "raw": "e5",
+      "text": "r"
+    },
+    {
+      "frame": 31581,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 31602,
+      "bank": 18,
+      "cpu": 17454,
+      "offset": 295982,
+      "raw": "d7e5",
+      "text": "dr"
+    },
+    {
+      "frame": 31622,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 31644,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 31663,
+      "bank": 18,
+      "cpu": 17458,
+      "offset": 295986,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 31675,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 31686,
+      "bank": 18,
+      "cpu": 17460,
+      "offset": 295988,
+      "raw": "e0",
+      "text": "m"
+    },
+    {
+      "frame": 31710,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 31727,
+      "bank": 18,
+      "cpu": 17462,
+      "offset": 295990,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 31738,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 31760,
+      "bank": 18,
+      "cpu": 17464,
+      "offset": 295992,
+      "raw": "e6e8e5ffe3",
+      "text": "sur p"
+    },
+    {
+      "frame": 31813,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 31833,
+      "bank": 18,
+      "cpu": 17470,
+      "offset": 295998,
+      "raw": "e5ffe4e8",
+      "text": "r qu"
+    },
+    {
+      "frame": 31876,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 31887,
+      "bank": 18,
+      "cpu": 17475,
+      "offset": 296003,
+      "raw": "e7e8ffe3e8",
+      "text": "tu pu"
+    },
+    {
+      "frame": 31952,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 31974,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6d8",
+      "text": "se"
+    },
+    {
+      "frame": 31993,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 32014,
+      "bank": 18,
+      "cpu": 17483,
+      "offset": 296011,
+      "raw": "ec",
+      "text": "y"
+    },
+    {
+      "frame": 32025,
+      "bank": 18,
+      "cpu": 17485,
+      "offset": 296013,
+      "raw": "dd",
+      "text": "j"
+    },
+    {
+      "frame": 32046,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 32069,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 32089,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "afff",
+      "text": ". "
+    },
+    {
+      "frame": 32110,
+      "bank": 18,
+      "cpu": 17489,
+      "offset": 296017,
+      "raw": "cce2",
+      "text": "So"
+    },
+    {
+      "frame": 32133,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6ff",
+      "text": "is "
+    },
+    {
+      "frame": 32162,
+      "bank": 18,
+      "cpu": 17492,
+      "offset": 296020,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 32174,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4da",
+      "text": "ag"
+    },
+    {
+      "frame": 32193,
+      "bank": 18,
+      "cpu": 17494,
+      "offset": 296022,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 32206,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 32216,
+      "bank": 18,
+      "cpu": 17496,
+      "offset": 296024,
+      "raw": "baffd5dc",
+      "text": "A bi"
+    },
+    {
+      "frame": 32270,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 32291,
+      "bank": 18,
+      "cpu": 17501,
+      "offset": 296029,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 32299,
+      "bank": 31,
+      "cpu": 53209,
+      "offset": 53209,
+      "raw": "85",
+      "text": "ô"
+    },
+    {
+      "frame": 32310,
+      "bank": 18,
+      "cpu": 17505,
+      "offset": 296033,
+      "raw": "e7af",
+      "text": "t."
+    },
+    {
+      "frame": 32333,
+      "bank": 7,
+      "cpu": 32040,
+      "offset": 130344,
+      "raw": "bfd4ecd8",
+      "text": "Faye"
+    },
+    {
+      "frame": 32374,
+      "bank": 18,
+      "cpu": 17508,
+      "offset": 296036,
+      "raw": "cfe5d4dce0",
+      "text": "Vraim"
+    },
+    {
+      "frame": 32429,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 32452,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 32469,
+      "bank": 18,
+      "cpu": 17515,
+      "offset": 296043,
+      "raw": "f4",
+      "text": "?"
+    },
+    {
+      "frame": 32482,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 32555,
+      "bank": 18,
+      "cpu": 17519,
+      "offset": 296047,
+      "raw": "c9e5",
+      "text": "Pr"
+    },
+    {
+      "frame": 32589,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e0",
+      "text": "om"
+    },
+    {
+      "frame": 32611,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6ff",
+      "text": "is "
+    },
+    {
+      "frame": 32639,
+      "bank": 18,
+      "cpu": 17523,
+      "offset": 296051,
+      "raw": "f3",
+      "text": "!"
+    },
+    {
+      "frame": 32752,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 32809,
+      "bank": 18,
+      "cpu": 17526,
+      "offset": 296054,
+      "raw": "fffeffc9e5",
+      "text": " : Pr"
+    },
+    {
+      "frame": 32862,
+      "bank": 31,
+      "cpu": 53209,
+      "offset": 53209,
+      "raw": "82",
+      "text": "ê"
+    },
+    {
+      "frame": 32873,
+      "bank": 18,
+      "cpu": 17534,
+      "offset": 296062,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 32882,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 32904,
+      "bank": 18,
+      "cpu": 17536,
+      "offset": 296064,
+      "raw": "f4",
+      "text": "?"
+    },
+    {
+      "frame": 32917,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 32979,
+      "bank": 18,
+      "cpu": 17540,
+      "offset": 296068,
+      "raw": "c8e8dcfff3ffba",
+      "text": "Oui ! A"
+    },
+    {
+      "frame": 33053,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dfdf",
+      "text": "ll"
+    },
+    {
+      "frame": 33076,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 33094,
+      "bank": 18,
+      "cpu": 17549,
+      "offset": 296077,
+      "raw": "e6f2",
+      "text": "s-"
+    },
+    {
+      "frame": 33118,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "ecff",
+      "text": "y "
+    },
+    {
+      "frame": 33139,
+      "bank": 18,
+      "cpu": 17552,
+      "offset": 296080,
+      "raw": "f3",
+      "text": "!"
+    },
+    {
+      "frame": 34033,
+      "bank": 7,
+      "cpu": 31752,
+      "offset": 130056,
+      "raw": "c6ece5e2e1",
+      "text": "Myron"
+    },
+    {
+      "frame": 34083,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 34145,
+      "bank": 18,
+      "cpu": 17555,
+      "offset": 296083,
+      "raw": "fff3ffbae7e7",
+      "text": " ! Att"
+    },
+    {
+      "frame": 34209,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 34230,
+      "bank": 18,
+      "cpu": 17562,
+      "offset": 296090,
+      "raw": "d7d8ed",
+      "text": "dez"
+    },
+    {
+      "frame": 34260,
+      "bank": 18,
+      "cpu": 17566,
+      "offset": 296094,
+      "raw": "f3",
+      "text": "!"
+    },
+    {
+      "frame": 34272,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 34335,
+      "bank": 18,
+      "cpu": 17569,
+      "offset": 296097,
+      "raw": "fffeff",
+      "text": " : "
+    },
+    {
+      "frame": 34367,
+      "bank": 7,
+      "cpu": 31752,
+      "offset": 130056,
+      "raw": "c6ece5e2e1",
+      "text": "Myron"
+    },
+    {
+      "frame": 34420,
+      "bank": 9,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "acff",
+      "text": ", "
+    },
+    {
+      "frame": 34441,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "ccdbd4e5e2e1",
+      "text": "Sharon"
+    },
+    {
+      "frame": 34507,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "acff",
+      "text": ", "
+    },
+    {
+      "frame": 34525,
+      "bank": 18,
+      "cpu": 17574,
+      "offset": 296102,
+      "raw": "dd",
+      "text": "j"
+    },
+    {
+      "frame": 34536,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 34558,
+      "bank": 18,
+      "cpu": 17576,
+      "offset": 296104,
+      "raw": "e7add4e9d4",
+      "text": "t'ava"
+    },
+    {
+      "frame": 34612,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6ff",
+      "text": "is "
+    },
+    {
+      "frame": 34642,
+      "bank": 18,
+      "cpu": 17582,
+      "offset": 296110,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 34655,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce7",
+      "text": "it"
+    },
+    {
+      "frame": 34676,
+      "bank": 18,
+      "cpu": 17585,
+      "offset": 296113,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 34684,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 34708,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 34730,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6e7",
+      "text": "st"
+    },
+    {
+      "frame": 34749,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 34770,
+      "bank": 18,
+      "cpu": 17590,
+      "offset": 296118,
+      "raw": "ff",
+      "text": " "
+    },
+    {
+      "frame": 34783,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 34801,
+      "bank": 18,
+      "cpu": 17593,
+      "offset": 296121,
+      "raw": "e9dcdf",
+      "text": "vil"
+    },
+    {
+      "frame": 34835,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dfd8",
+      "text": "le"
+    },
+    {
+      "frame": 34854,
+      "bank": 18,
+      "cpu": 17597,
+      "offset": 296125,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 34866,
+      "bank": 7,
+      "cpu": 31752,
+      "offset": 130056,
+      "raw": "c6ece5e2e1",
+      "text": "Myron"
+    },
+    {
+      "frame": 34918,
+      "bank": 18,
+      "cpu": 17599,
+      "offset": 296127,
+      "raw": "c3",
+      "text": "J"
+    },
+    {
+      "frame": 34929,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 34949,
+      "bank": 18,
+      "cpu": 17601,
+      "offset": 296129,
+      "raw": "e6d4",
+      "text": "sa"
+    },
+    {
+      "frame": 34973,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 34996,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "acff",
+      "text": ", "
+    },
+    {
+      "frame": 35013,
+      "bank": 18,
+      "cpu": 17605,
+      "offset": 296133,
+      "raw": "e0d4",
+      "text": "ma"
+    },
+    {
+      "frame": 35036,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6ff",
+      "text": "is "
+    },
+    {
+      "frame": 35066,
+      "bank": 18,
+      "cpu": 17608,
+      "offset": 296136,
+      "raw": "e1",
+      "text": "n"
+    },
+    {
+      "frame": 35077,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 35099,
+      "bank": 18,
+      "cpu": 17610,
+      "offset": 296138,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 35108,
+      "bank": 18,
+      "cpu": 17612,
+      "offset": 296140,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 35121,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e0",
+      "text": "om"
+    },
+    {
+      "frame": 35143,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e0d8",
+      "text": "me"
+    },
+    {
+      "frame": 35162,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 35185,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce1",
+      "text": "in"
+    },
+    {
+      "frame": 35206,
+      "bank": 18,
+      "cpu": 17617,
+      "offset": 296145,
+      "raw": "e4e8dcd8e7e6",
+      "text": "quiets"
+    },
+    {
+      "frame": 35269,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 35279,
+      "bank": 18,
+      "cpu": 17624,
+      "offset": 296152,
+      "raw": "c7",
+      "text": "N"
+    },
+    {
+      "frame": 35290,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 35313,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 35331,
+      "bank": 18,
+      "cpu": 17627,
+      "offset": 296155,
+      "raw": "d4e9",
+      "text": "av"
+    },
+    {
+      "frame": 35354,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 35374,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 35395,
+      "bank": 18,
+      "cpu": 17631,
+      "offset": 296159,
+      "raw": "dae5",
+      "text": "gr"
+    },
+    {
+      "frame": 35418,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 35437,
+      "bank": 18,
+      "cpu": 17634,
+      "offset": 296162,
+      "raw": "d7dc",
+      "text": "di"
+    },
+    {
+      "frame": 35460,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 35480,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6d8",
+      "text": "se"
+    },
+    {
+      "frame": 35502,
+      "bank": 18,
+      "cpu": 17639,
+      "offset": 296167,
+      "raw": "e0d5df",
+      "text": "mbl"
+    },
+    {
+      "frame": 35532,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 35554,
+      "bank": 18,
+      "cpu": 17643,
+      "offset": 296171,
+      "raw": "f3ffbe",
+      "text": "! E"
+    },
+    {
+      "frame": 35586,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 35608,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "ccdbd4e5e2e1",
+      "text": "Sharon"
+    },
+    {
+      "frame": 35671,
+      "bank": 18,
+      "cpu": 17648,
+      "offset": 296176,
+      "raw": "afaf",
+      "text": ".."
+    },
+    {
+      "frame": 35693,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 35704,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "ccdbd4e5e2e1",
+      "text": "Sharon"
+    },
+    {
+      "frame": 35766,
+      "bank": 18,
+      "cpu": 17652,
+      "offset": 296180,
+      "raw": "bae5e5",
+      "text": "Arr"
+    },
+    {
+      "frame": 35797,
+      "bank": 31,
+      "cpu": 53209,
+      "offset": 53209,
+      "raw": "82",
+      "text": "ê"
+    },
+    {
+      "frame": 35808,
+      "bank": 18,
+      "cpu": 17658,
+      "offset": 296186,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 35819,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 35841,
+      "bank": 18,
+      "cpu": 17660,
+      "offset": 296188,
+      "raw": "f3ffc5ad",
+      "text": "! L'"
+    },
+    {
+      "frame": 35885,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 35947,
+      "bank": 18,
+      "cpu": 17666,
+      "offset": 296194,
+      "raw": "e6d4dc",
+      "text": "sai"
+    },
+    {
+      "frame": 35979,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 36000,
+      "bank": 18,
+      "cpu": 17670,
+      "offset": 296198,
+      "raw": "d6",
+      "text": "c"
+    },
+    {
+      "frame": 36009,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 36031,
+      "bank": 18,
+      "cpu": 17672,
+      "offset": 296200,
+      "raw": "e4e8addcdf",
+      "text": "qu'il"
+    },
+    {
+      "frame": 36084,
+      "bank": 18,
+      "cpu": 17678,
+      "offset": 296206,
+      "raw": "d9d4",
+      "text": "fa"
+    },
+    {
+      "frame": 36108,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce7",
+      "text": "it"
+    },
+    {
+      "frame": 36126,
+      "bank": 18,
+      "cpu": 17681,
+      "offset": 296209,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 36138,
+      "bank": 7,
+      "cpu": 31752,
+      "offset": 130056,
+      "raw": "c6ece5e2e1",
+      "text": "Myron"
+    },
+    {
+      "frame": 36190,
+      "bank": 18,
+      "cpu": 17683,
+      "offset": 296211,
+      "raw": "c6d4",
+      "text": "Ma"
+    },
+    {
+      "frame": 36213,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6ff",
+      "text": "is "
+    },
+    {
+      "frame": 36243,
+      "bank": 18,
+      "cpu": 17686,
+      "offset": 296214,
+      "raw": "f3",
+      "text": "!"
+    },
+    {
+      "frame": 36255,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 36318,
+      "bank": 18,
+      "cpu": 17689,
+      "offset": 296217,
+      "raw": "fffeffafafaf",
+      "text": " : ..."
+    },
+    {
+      "frame": 36381,
+      "bank": 7,
+      "cpu": 31752,
+      "offset": 130056,
+      "raw": "c6ece5e2e1",
+      "text": "Myron"
+    },
+    {
+      "frame": 36433,
+      "bank": 18,
+      "cpu": 17696,
+      "offset": 296224,
+      "raw": "c3",
+      "text": "J"
+    },
+    {
+      "frame": 36444,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 36466,
+      "bank": 18,
+      "cpu": 17698,
+      "offset": 296226,
+      "raw": "da",
+      "text": "g"
+    },
+    {
+      "frame": 36478,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e5",
+      "text": "ar"
+    },
+    {
+      "frame": 36497,
+      "bank": 18,
+      "cpu": 17700,
+      "offset": 296228,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 36508,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 36530,
+      "bank": 18,
+      "cpu": 17702,
+      "offset": 296230,
+      "raw": "d4dcffdfd4",
+      "text": "ai la"
+    },
+    {
+      "frame": 36583,
+      "bank": 18,
+      "cpu": 17708,
+      "offset": 296236,
+      "raw": "e9dc",
+      "text": "vi"
+    },
+    {
+      "frame": 36604,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dfdf",
+      "text": "ll"
+    },
+    {
+      "frame": 36626,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 36645,
+      "bank": 18,
+      "cpu": 17712,
+      "offset": 296240,
+      "raw": "f3ffc5d4",
+      "text": "! La"
+    },
+    {
+      "frame": 36691,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 36710,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6d8",
+      "text": "se"
+    },
+    {
+      "frame": 36732,
+      "bank": 18,
+      "cpu": 17718,
+      "offset": 296246,
+      "raw": "edf2dfd4",
+      "text": "z-la"
+    },
+    {
+      "frame": 36773,
+      "bank": 18,
+      "cpu": 17723,
+      "offset": 296251,
+      "raw": "d4e8ffe0e2",
+      "text": "au mo"
+    },
+    {
+      "frame": 36826,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce1",
+      "text": "in"
+    },
+    {
+      "frame": 36849,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 36868,
+      "bank": 18,
+      "cpu": 17730,
+      "offset": 296258,
+      "raw": "e3",
+      "text": "p"
+    },
+    {
+      "frame": 36880,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e5",
+      "text": "ar"
+    },
+    {
+      "frame": 36901,
+      "bank": 18,
+      "cpu": 17732,
+      "offset": 296260,
+      "raw": "e7dce5",
+      "text": "tir"
+    },
+    {
+      "frame": 36934,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 36945,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 37007,
+      "bank": 18,
+      "cpu": 17737,
+      "offset": 296265,
+      "raw": "fffeffc1e0e0ac",
+      "text": " : Hmm,"
+    },
+    {
+      "frame": 37080,
+      "bank": 18,
+      "cpu": 17745,
+      "offset": 296273,
+      "raw": "d7ad",
+      "text": "d'"
+    },
+    {
+      "frame": 37104,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4d6",
+      "text": "ac"
+    },
+    {
+      "frame": 37122,
+      "bank": 18,
+      "cpu": 17748,
+      "offset": 296276,
+      "raw": "d6",
+      "text": "c"
+    },
+    {
+      "frame": 37134,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e5",
+      "text": "or"
+    },
+    {
+      "frame": 37155,
+      "bank": 18,
+      "cpu": 17750,
+      "offset": 296278,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 37168,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "afff",
+      "text": ". "
+    },
+    {
+      "frame": 37186,
+      "bank": 18,
+      "cpu": 17752,
+      "offset": 296280,
+      "raw": "c9",
+      "text": "P"
+    },
+    {
+      "frame": 37198,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e5",
+      "text": "ar"
+    },
+    {
+      "frame": 37219,
+      "bank": 18,
+      "cpu": 17754,
+      "offset": 296282,
+      "raw": "e7d8ed",
+      "text": "tez"
+    },
+    {
+      "frame": 37250,
+      "bank": 18,
+      "cpu": 17758,
+      "offset": 296286,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 37261,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 37282,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 37304,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dfd8",
+      "text": "le"
+    },
+    {
+      "frame": 37327,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 37345,
+      "bank": 18,
+      "cpu": 17763,
+      "offset": 296291,
+      "raw": "d7d8e8ebaf",
+      "text": "deux."
+    },
+    {
+      "frame": 37399,
+      "bank": 7,
+      "cpu": 31752,
+      "offset": 130056,
+      "raw": "c6ece5e2e1",
+      "text": "Myron"
+    },
+    {
+      "frame": 37451,
+      "bank": 18,
+      "cpu": 17769,
+      "offset": 296297,
+      "raw": "cf",
+      "text": "V"
+    },
+    {
+      "frame": 37462,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 37485,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 37504,
+      "bank": 18,
+      "cpu": 17772,
+      "offset": 296300,
+      "raw": "e1",
+      "text": "n"
+    },
+    {
+      "frame": 37515,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 37537,
+      "bank": 18,
+      "cpu": 17774,
+      "offset": 296302,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 37547,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 37560,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 37581,
+      "bank": 18,
+      "cpu": 17777,
+      "offset": 296305,
+      "raw": "da",
+      "text": "g"
+    },
+    {
+      "frame": 37594,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 37610,
+      "bank": 18,
+      "cpu": 17779,
+      "offset": 296307,
+      "raw": "e7e7d8",
+      "text": "tte"
+    },
+    {
+      "frame": 37645,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 37663,
+      "bank": 18,
+      "cpu": 17783,
+      "offset": 296311,
+      "raw": "edffe3d4",
+      "text": "z pa"
+    },
+    {
+      "frame": 37705,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 37727,
+      "bank": 18,
+      "cpu": 17788,
+      "offset": 296316,
+      "raw": "f3",
+      "text": "!"
+    },
+    {
+      "frame": 37805,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "ccdbd4e5e2e1",
+      "text": "Sharon"
+    },
+    {
+      "frame": 37864,
+      "bank": 18,
+      "cpu": 17790,
+      "offset": 296318,
+      "raw": "c6",
+      "text": "M"
+    },
+    {
+      "frame": 37875,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 37897,
+      "bank": 18,
+      "cpu": 17792,
+      "offset": 296320,
+      "raw": "d6dc",
+      "text": "ci"
+    },
+    {
+      "frame": 37919,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "acff",
+      "text": ", "
+    },
+    {
+      "frame": 37942,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 38003,
+      "bank": 18,
+      "cpu": 17796,
+      "offset": 296324,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 38154,
+      "bank": 9,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "ccdbd4e5e2e1",
+      "text": "Sharon"
+    },
+    {
+      "frame": 38215,
+      "bank": 18,
+      "cpu": 17798,
+      "offset": 296326,
+      "raw": "ffe1",
+      "text": " n"
+    },
+    {
+      "frame": 38235,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 38258,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 38281,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 38299,
+      "bank": 18,
+      "cpu": 17803,
+      "offset": 296331,
+      "raw": "dde2",
+      "text": "jo"
+    },
+    {
+      "frame": 38321,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce1",
+      "text": "in"
+    },
+    {
+      "frame": 38341,
+      "bank": 18,
+      "cpu": 17806,
+      "offset": 296334,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 38354,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 38365,
+      "bank": 7,
+      "cpu": 31752,
+      "offset": 130056,
+      "raw": "c6ece5e2e1",
+      "text": "Myron"
+    },
+    {
+      "frame": 38416,
+      "bank": 18,
+      "cpu": 17809,
+      "offset": 296337,
+      "raw": "ffe1",
+      "text": " n"
+    },
+    {
+      "frame": 38438,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 38459,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 38482,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 38500,
+      "bank": 18,
+      "cpu": 17814,
+      "offset": 296342,
+      "raw": "dde2",
+      "text": "jo"
+    },
+    {
+      "frame": 38522,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce1",
+      "text": "in"
+    },
+    {
+      "frame": 38544,
+      "bank": 18,
+      "cpu": 17817,
+      "offset": 296345,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 38555,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 38566,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 38628,
+      "bank": 18,
+      "cpu": 17821,
+      "offset": 296349,
+      "raw": "fffeffc9e5",
+      "text": " : Pr"
+    },
+    {
+      "frame": 38681,
+      "bank": 31,
+      "cpu": 53209,
+      "offset": 53209,
+      "raw": "82",
+      "text": "ê"
+    },
+    {
+      "frame": 38692,
+      "bank": 18,
+      "cpu": 17829,
+      "offset": 296357,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 38703,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 38723,
+      "bank": 18,
+      "cpu": 17831,
+      "offset": 296359,
+      "raw": "f4",
+      "text": "?"
+    },
+    {
+      "frame": 38734,
+      "bank": 18,
+      "cpu": 17833,
+      "offset": 296361,
+      "raw": "cbd8e7",
+      "text": "Ret"
+    },
+    {
+      "frame": 38776,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 38798,
+      "bank": 18,
+      "cpu": 17837,
+      "offset": 296365,
+      "raw": "e5e1",
+      "text": "rn"
+    },
+    {
+      "frame": 38819,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 38841,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 38862,
+      "bank": 18,
+      "cpu": 17841,
+      "offset": 296369,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 38871,
+      "bank": 31,
+      "cpu": 53209,
+      "offset": 53209,
+      "raw": "81",
+      "text": "à"
+    },
+    {
+      "frame": 38882,
+      "bank": 18,
+      "cpu": 17845,
+      "offset": 296373,
+      "raw": "f2d5",
+      "text": "-b"
+    },
+    {
+      "frame": 38906,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e6",
+      "text": "as"
+    },
+    {
+      "frame": 38924,
+      "bank": 18,
+      "cpu": 17848,
+      "offset": 296376,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 39412,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 39476,
+      "bank": 18,
+      "cpu": 17852,
+      "offset": 296380,
+      "raw": "c6d4",
+      "text": "Ma"
+    },
+    {
+      "frame": 39499,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6ff",
+      "text": "is "
+    },
+    {
+      "frame": 39529,
+      "bank": 18,
+      "cpu": 17855,
+      "offset": 296383,
+      "raw": "e4e8add8",
+      "text": "qu'e"
+    },
+    {
+      "frame": 39572,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6e7",
+      "text": "st"
+    },
+    {
+      "frame": 39594,
+      "bank": 18,
+      "cpu": 17860,
+      "offset": 296388,
+      "raw": "f2d6d8afaf",
+      "text": "-ce.."
+    },
+    {
+      "frame": 39648,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 39658,
+      "bank": 18,
+      "cpu": 17866,
+      "offset": 296394,
+      "raw": "f4",
+      "text": "?"
+    },
+    {
+      "frame": 39667,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 39730,
+      "bank": 18,
+      "cpu": 17869,
+      "offset": 296397,
+      "raw": "fffeffbcadd8e6",
+      "text": " : C'es"
+    },
+    {
+      "frame": 39806,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 39825,
+      "bank": 18,
+      "cpu": 17877,
+      "offset": 296405,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 39837,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 39849,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "cdd4dfe2e1",
+      "text": "Talon"
+    },
+    {
+      "frame": 39913,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "acff",
+      "text": ", "
+    },
+    {
+      "frame": 39931,
+      "bank": 18,
+      "cpu": 17881,
+      "offset": 296409,
+      "raw": "e8e1ffe9d4",
+      "text": "un va"
+    },
+    {
+      "frame": 39986,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6",
+      "text": "is"
+    },
+    {
+      "frame": 40008,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6d8",
+      "text": "se"
+    },
+    {
+      "frame": 40030,
+      "bank": 18,
+      "cpu": 17888,
+      "offset": 296416,
+      "raw": "d4e8",
+      "text": "au"
+    },
+    {
+      "frame": 40048,
+      "bank": 18,
+      "cpu": 17891,
+      "offset": 296419,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 40071,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 40090,
+      "bank": 18,
+      "cpu": 17893,
+      "offset": 296421,
+      "raw": "d6",
+      "text": "c"
+    },
+    {
+      "frame": 40103,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e0",
+      "text": "om"
+    },
+    {
+      "frame": 40124,
+      "bank": 18,
+      "cpu": 17895,
+      "offset": 296423,
+      "raw": "d5d4",
+      "text": "ba"
+    },
+    {
+      "frame": 40144,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 40165,
+      "bank": 18,
+      "cpu": 17898,
+      "offset": 296426,
+      "raw": "d6d4e3d4d5df",
+      "text": "capabl"
+    },
+    {
+      "frame": 40230,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 40241,
+      "bank": 18,
+      "cpu": 17905,
+      "offset": 296433,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 40261,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 40283,
+      "bank": 18,
+      "cpu": 17907,
+      "offset": 296435,
+      "raw": "e9e2ec",
+      "text": "voy"
+    },
+    {
+      "frame": 40314,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4da",
+      "text": "ag"
+    },
+    {
+      "frame": 40337,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 40355,
+      "bank": 18,
+      "cpu": 17912,
+      "offset": 296440,
+      "raw": "ffd7",
+      "text": " d"
+    },
+    {
+      "frame": 40378,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 40400,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 40419,
+      "bank": 18,
+      "cpu": 17916,
+      "offset": 296444,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 40431,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 40442,
+      "bank": 18,
+      "cpu": 17918,
+      "offset": 296446,
+      "raw": "e7d8e0e3e6af",
+      "text": "temps."
+    },
+    {
+      "frame": 40515,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 40578,
+      "bank": 18,
+      "cpu": 17927,
+      "offset": 296455,
+      "raw": "c7",
+      "text": "N"
+    },
+    {
+      "frame": 40601,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 40621,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 40642,
+      "bank": 18,
+      "cpu": 17930,
+      "offset": 296458,
+      "raw": "e3",
+      "text": "p"
+    },
+    {
+      "frame": 40654,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e5",
+      "text": "ar"
+    },
+    {
+      "frame": 40673,
+      "bank": 18,
+      "cpu": 17932,
+      "offset": 296460,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 40685,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 40707,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 40726,
+      "bank": 18,
+      "cpu": 17935,
+      "offset": 296463,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 40738,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 40759,
+      "bank": 18,
+      "cpu": 17937,
+      "offset": 296465,
+      "raw": "d6",
+      "text": "c"
+    },
+    {
+      "frame": 40770,
+      "bank": 18,
+      "cpu": 17939,
+      "offset": 296467,
+      "raw": "e9",
+      "text": "v"
+    },
+    {
+      "frame": 40791,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 40814,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 40832,
+      "bank": 18,
+      "cpu": 17942,
+      "offset": 296470,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 40843,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 40865,
+      "bank": 18,
+      "cpu": 17944,
+      "offset": 296472,
+      "raw": "d9e8e7e8e5fff4",
+      "text": "futur ?"
+    },
+    {
+      "frame": 40939,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 41013,
+      "bank": 18,
+      "cpu": 17953,
+      "offset": 296481,
+      "raw": "fffeffc7",
+      "text": " : N"
+    },
+    {
+      "frame": 41056,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 41079,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "acff",
+      "text": ", "
+    },
+    {
+      "frame": 41097,
+      "bank": 18,
+      "cpu": 17959,
+      "offset": 296487,
+      "raw": "d6",
+      "text": "c"
+    },
+    {
+      "frame": 41109,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 41120,
+      "bank": 18,
+      "cpu": 17961,
+      "offset": 296489,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 41143,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 41161,
+      "bank": 18,
+      "cpu": 17963,
+      "offset": 296491,
+      "raw": "d4dc",
+      "text": "ai"
+    },
+    {
+      "frame": 41184,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 41205,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce1",
+      "text": "in"
+    },
+    {
+      "frame": 41226,
+      "bank": 18,
+      "cpu": 17967,
+      "offset": 296495,
+      "raw": "e8e7dcdf",
+      "text": "util"
+    },
+    {
+      "frame": 41268,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 41279,
+      "bank": 18,
+      "cpu": 17972,
+      "offset": 296500,
+      "raw": "e3",
+      "text": "p"
+    },
+    {
+      "frame": 41302,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 41320,
+      "bank": 18,
+      "cpu": 17974,
+      "offset": 296502,
+      "raw": "e5ffdf",
+      "text": "r l"
+    },
+    {
+      "frame": 41353,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 41373,
+      "bank": 18,
+      "cpu": 17978,
+      "offset": 296506,
+      "raw": "e0",
+      "text": "m"
+    },
+    {
+      "frame": 41386,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e0",
+      "text": "om"
+    },
+    {
+      "frame": 41409,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 41426,
+      "bank": 18,
+      "cpu": 17981,
+      "offset": 296509,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 41439,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 41449,
+      "bank": 18,
+      "cpu": 17983,
+      "offset": 296511,
+      "raw": "c9",
+      "text": "P"
+    },
+    {
+      "frame": 41469,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e5",
+      "text": "or"
+    },
+    {
+      "frame": 41490,
+      "bank": 18,
+      "cpu": 17985,
+      "offset": 296513,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 41501,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 41521,
+      "bank": 18,
+      "cpu": 17987,
+      "offset": 296515,
+      "raw": "d6d8d6dcffd4",
+      "text": "ceci a"
+    },
+    {
+      "frame": 41585,
+      "bank": 18,
+      "cpu": 17994,
+      "offset": 296522,
+      "raw": "bce5",
+      "text": "Cr"
+    },
+    {
+      "frame": 41620,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 41638,
+      "bank": 18,
+      "cpu": 17997,
+      "offset": 296525,
+      "raw": "e2e6",
+      "text": "os"
+    },
+    {
+      "frame": 41662,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "acff",
+      "text": ", "
+    },
+    {
+      "frame": 41680,
+      "bank": 31,
+      "cpu": 53209,
+      "offset": 53209,
+      "raw": "81",
+      "text": "à"
+    },
+    {
+      "frame": 41691,
+      "bank": 18,
+      "cpu": 18003,
+      "offset": 296531,
+      "raw": "ffbedf",
+      "text": " El"
+    },
+    {
+      "frame": 41725,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 41746,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "afff",
+      "text": ". "
+    },
+    {
+      "frame": 41767,
+      "bank": 18,
+      "cpu": 18008,
+      "offset": 296536,
+      "raw": "c2df",
+      "text": "Il"
+    },
+    {
+      "frame": 41786,
+      "bank": 18,
+      "cpu": 18011,
+      "offset": 296539,
+      "raw": "d6",
+      "text": "c"
+    },
+    {
+      "frame": 41810,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 41831,
+      "bank": 18,
+      "cpu": 18013,
+      "offset": 296541,
+      "raw": "e1d4dc",
+      "text": "nai"
+    },
+    {
+      "frame": 41862,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 41883,
+      "bank": 18,
+      "cpu": 18017,
+      "offset": 296545,
+      "raw": "d5dc",
+      "text": "bi"
+    },
+    {
+      "frame": 41905,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 41926,
+      "bank": 18,
+      "cpu": 18020,
+      "offset": 296548,
+      "raw": "ffdf",
+      "text": " l"
+    },
+    {
+      "frame": 41946,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 41958,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "cdd4dfe2e1",
+      "text": "Talon"
+    },
+    {
+      "frame": 42020,
+      "bank": 18,
+      "cpu": 18024,
+      "offset": 296552,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 42054,
+      "bank": 9,
+      "cpu": 29263,
+      "offset": 160335,
+      "raw": "c8d5e7d8e1e8fffeff",
+      "text": "Obtenu : "
+    },
+    {
+      "frame": 42148,
+      "bank": 14,
+      "cpu": 29803,
+      "offset": 242795,
+      "raw": "8ecbd4d7d4e5",
+      "text": "[8E]Radar"
+    },
+    {
+      "frame": 42210,
+      "bank": 9,
+      "cpu": 29275,
+      "offset": 160347,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 42265,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 42327,
+      "bank": 18,
+      "cpu": 18029,
+      "offset": 296557,
+      "raw": "cae8add8",
+      "text": "Qu'e"
+    },
+    {
+      "frame": 42381,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6e7",
+      "text": "st"
+    },
+    {
+      "frame": 42403,
+      "bank": 18,
+      "cpu": 18034,
+      "offset": 296562,
+      "raw": "f2d6",
+      "text": "-c"
+    },
+    {
+      "frame": 42422,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 42444,
+      "bank": 18,
+      "cpu": 18037,
+      "offset": 296565,
+      "raw": "e4e8",
+      "text": "qu"
+    },
+    {
+      "frame": 42467,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 42475,
+      "bank": 18,
+      "cpu": 18040,
+      "offset": 296568,
+      "raw": "d6add8e6",
+      "text": "c'es"
+    },
+    {
+      "frame": 42529,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e7ff",
+      "text": "t "
+    },
+    {
+      "frame": 42550,
+      "bank": 18,
+      "cpu": 18045,
+      "offset": 296573,
+      "raw": "f4",
+      "text": "?"
+    },
+    {
+      "frame": 42562,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 42634,
+      "bank": 18,
+      "cpu": 18048,
+      "offset": 296576,
+      "raw": "fffeff",
+      "text": " : "
+    },
+    {
+      "frame": 42668,
+      "bank": 7,
+      "cpu": 32232,
+      "offset": 130536,
+      "raw": "bbe2e5dadce1",
+      "text": "Borgin"
+    },
+    {
+      "frame": 42731,
+      "bank": 18,
+      "cpu": 18052,
+      "offset": 296580,
+      "raw": "ffdfadd4e9d4",
+      "text": " l'ava"
+    },
+    {
+      "frame": 42795,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce7",
+      "text": "it"
+    },
+    {
+      "frame": 42818,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "afff",
+      "text": ". "
+    },
+    {
+      "frame": 42839,
+      "bank": 18,
+      "cpu": 18060,
+      "offset": 296588,
+      "raw": "bcadd8",
+      "text": "C'e"
+    },
+    {
+      "frame": 42869,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6e7",
+      "text": "st"
+    },
+    {
+      "frame": 42891,
+      "bank": 18,
+      "cpu": 18065,
+      "offset": 296593,
+      "raw": "e3d8e8e7f2",
+      "text": "peut-"
+    },
+    {
+      "frame": 42952,
+      "bank": 31,
+      "cpu": 53209,
+      "offset": 53209,
+      "raw": "82",
+      "text": "ê"
+    },
+    {
+      "frame": 42963,
+      "bank": 18,
+      "cpu": 18073,
+      "offset": 296601,
+      "raw": "e7e5",
+      "text": "tr"
+    },
+    {
+      "frame": 42985,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 43005,
+      "bank": 18,
+      "cpu": 18076,
+      "offset": 296604,
+      "raw": "e8e1",
+      "text": "un"
+    },
+    {
+      "frame": 43028,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8",
+      "text": "e"
+    },
+    {
+      "frame": 43039,
+      "bank": 18,
+      "cpu": 18079,
+      "offset": 296607,
+      "raw": "e8e1",
+      "text": "un"
+    },
+    {
+      "frame": 43071,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce7",
+      "text": "it"
+    },
+    {
+      "frame": 43092,
+      "bank": 18,
+      "cpu": 18082,
+      "offset": 296610,
+      "raw": "abffe0",
+      "text": "é m"
+    },
+    {
+      "frame": 43123,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 43144,
+      "bank": 18,
+      "cpu": 18086,
+      "offset": 296614,
+      "raw": "e4e8",
+      "text": "qu"
+    },
+    {
+      "frame": 43165,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 43186,
+      "bank": 18,
+      "cpu": 18089,
+      "offset": 296617,
+      "raw": "e7d8",
+      "text": "te"
+    },
+    {
+      "frame": 43210,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 43217,
+      "bank": 18,
+      "cpu": 18092,
+      "offset": 296620,
+      "raw": "c6",
+      "text": "M"
+    },
+    {
+      "frame": 43241,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 43262,
+      "bank": 18,
+      "cpu": 18094,
+      "offset": 296622,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 43272,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 43293,
+      "bank": 18,
+      "cpu": 18096,
+      "offset": 296624,
+      "raw": "f2df",
+      "text": "-l"
+    },
+    {
+      "frame": 43316,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4ff",
+      "text": "a "
+    },
+    {
+      "frame": 43334,
+      "bank": 18,
+      "cpu": 18099,
+      "offset": 296627,
+      "raw": "d4",
+      "text": "a"
+    },
+    {
+      "frame": 43345,
+      "bank": 18,
+      "cpu": 18101,
+      "offset": 296629,
+      "raw": "bce5",
+      "text": "Cr"
+    },
+    {
+      "frame": 43377,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 43398,
+      "bank": 18,
+      "cpu": 18104,
+      "offset": 296632,
+      "raw": "e2e6",
+      "text": "os"
+    },
+    {
+      "frame": 43422,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 43431,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 43504,
+      "bank": 18,
+      "cpu": 18109,
+      "offset": 296637,
+      "raw": "bbdc",
+      "text": "Bi"
+    },
+    {
+      "frame": 43537,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 43558,
+      "bank": 18,
+      "cpu": 18112,
+      "offset": 296640,
+      "raw": "fff3",
+      "text": " !"
+    },
+    {
+      "frame": 43581,
+      "bank": 7,
+      "cpu": 31752,
+      "offset": 130056,
+      "raw": "c6ece5e2e1",
+      "text": "Myron"
+    },
+    {
+      "frame": 43632,
+      "bank": 18,
+      "cpu": 18115,
+      "offset": 296643,
+      "raw": "c6d4",
+      "text": "Ma"
+    },
+    {
+      "frame": 43653,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "dce6ff",
+      "text": "is "
+    },
+    {
+      "frame": 43686,
+      "bank": 18,
+      "cpu": 18118,
+      "offset": 296646,
+      "raw": "dfade2d6ab",
+      "text": "l'océ"
+    },
+    {
+      "frame": 43739,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 43758,
+      "bank": 18,
+      "cpu": 18124,
+      "offset": 296652,
+      "raw": "ffe1",
+      "text": " n"
+    },
+    {
+      "frame": 43780,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 43800,
+      "bank": 18,
+      "cpu": 18127,
+      "offset": 296655,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 43812,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6d8",
+      "text": "se"
+    },
+    {
+      "frame": 43846,
+      "bank": 18,
+      "cpu": 18130,
+      "offset": 296658,
+      "raw": "e3",
+      "text": "p"
+    },
+    {
+      "frame": 43854,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e5",
+      "text": "ar"
+    },
+    {
+      "frame": 43876,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8ff",
+      "text": "e "
+    },
+    {
+      "frame": 43897,
+      "bank": 18,
+      "cpu": 18133,
+      "offset": 296661,
+      "raw": "d7adbedf",
+      "text": "d'El"
+    },
+    {
+      "frame": 43940,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 43959,
+      "bank": 18,
+      "cpu": 18138,
+      "offset": 296666,
+      "raw": "fff3",
+      "text": " !"
+    },
+    {
+      "frame": 43982,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "bae1d6dcd8e1",
+      "text": "Ancien"
+    },
+    {
+      "frame": 44056,
+      "bank": 18,
+      "cpu": 18142,
+      "offset": 296670,
+      "raw": "fffeffcde5",
+      "text": " : Tr"
+    },
+    {
+      "frame": 44109,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 44129,
+      "bank": 18,
+      "cpu": 18148,
+      "offset": 296676,
+      "raw": "e9d8edff",
+      "text": "vez "
+    },
+    {
+      "frame": 44172,
+      "bank": 14,
+      "cpu": 28257,
+      "offset": 241249,
+      "raw": "a9bfdfe2e7e7",
+      "text": "[A9]Flott"
+    },
+    {
+      "frame": 44235,
+      "bank": 18,
+      "cpu": 18153,
+      "offset": 296681,
+      "raw": "ffd7",
+      "text": " d"
+    },
+    {
+      "frame": 44258,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4e1",
+      "text": "an"
+    },
+    {
+      "frame": 44278,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 44299,
+      "bank": 18,
+      "cpu": 18157,
+      "offset": 296685,
+      "raw": "df",
+      "text": "l"
+    },
+    {
+      "frame": 44311,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4ff",
+      "text": "a "
+    },
+    {
+      "frame": 44330,
+      "bank": 18,
+      "cpu": 18159,
+      "offset": 296687,
+      "raw": "cd",
+      "text": "T"
+    },
+    {
+      "frame": 44341,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 44363,
+      "bank": 18,
+      "cpu": 18161,
+      "offset": 296689,
+      "raw": "e5",
+      "text": "r"
+    },
+    {
+      "frame": 44374,
+      "bank": 18,
+      "cpu": 18163,
+      "offset": 296691,
+      "raw": "c7",
+      "text": "N"
+    },
+    {
+      "frame": 44384,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e5",
+      "text": "or"
+    },
+    {
+      "frame": 44405,
+      "bank": 18,
+      "cpu": 18165,
+      "offset": 296693,
+      "raw": "d7",
+      "text": "d"
+    },
+    {
+      "frame": 44418,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "afff",
+      "text": ". "
+    },
+    {
+      "frame": 44436,
+      "bank": 18,
+      "cpu": 18167,
+      "offset": 296695,
+      "raw": "cf",
+      "text": "V"
+    },
+    {
+      "frame": 44447,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 44469,
+      "bank": 18,
+      "cpu": 18169,
+      "offset": 296697,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 44480,
+      "bank": 18,
+      "cpu": 18171,
+      "offset": 296699,
+      "raw": "e3",
+      "text": "p"
+    },
+    {
+      "frame": 44489,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e8",
+      "text": "ou"
+    },
+    {
+      "frame": 44511,
+      "bank": 18,
+      "cpu": 18173,
+      "offset": 296701,
+      "raw": "e5",
+      "text": "r"
+    },
+    {
+      "frame": 44524,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 44542,
+      "bank": 18,
+      "cpu": 18175,
+      "offset": 296703,
+      "raw": "edffd4df",
+      "text": "z al"
+    },
+    {
+      "frame": 44587,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e5",
+      "text": "or"
+    },
+    {
+      "frame": 44606,
+      "bank": 18,
+      "cpu": 18180,
+      "offset": 296708,
+      "raw": "e6",
+      "text": "s"
+    },
+    {
+      "frame": 44617,
+      "bank": 18,
+      "cpu": 18182,
+      "offset": 296710,
+      "raw": "e9e2df",
+      "text": "vol"
+    },
+    {
+      "frame": 44648,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e5",
+      "text": "er"
+    },
+    {
+      "frame": 44670,
+      "bank": 18,
+      "cpu": 18186,
+      "offset": 296714,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 44701,
+      "bank": 18,
+      "cpu": 18188,
+      "offset": 296716,
+      "raw": "ffbdd8",
+      "text": " De"
+    },
+    {
+      "frame": 44734,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 44754,
+      "bank": 18,
+      "cpu": 18192,
+      "offset": 296720,
+      "raw": "e0",
+      "text": "m"
+    },
+    {
+      "frame": 44766,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e1",
+      "text": "on"
+    },
+    {
+      "frame": 44788,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6e7",
+      "text": "st"
+    },
+    {
+      "frame": 44809,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e5d8",
+      "text": "re"
+    },
+    {
+      "frame": 44831,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e6ff",
+      "text": "s "
+    },
+    {
+      "frame": 44852,
+      "bank": 18,
+      "cpu": 18197,
+      "offset": 296725,
+      "raw": "ec",
+      "text": "y"
+    },
+    {
+      "frame": 44860,
+      "bank": 18,
+      "cpu": 18199,
+      "offset": 296727,
+      "raw": "e5e2d7",
+      "text": "rod"
+    },
+    {
+      "frame": 44895,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 44913,
+      "bank": 18,
+      "cpu": 18203,
+      "offset": 296731,
+      "raw": "e7",
+      "text": "t"
+    },
+    {
+      "frame": 44926,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "afff",
+      "text": ". "
+    },
+    {
+      "frame": 44947,
+      "bank": 18,
+      "cpu": 18205,
+      "offset": 296733,
+      "raw": "cce2ecd8ed",
+      "text": "Soyez"
+    },
+    {
+      "frame": 44999,
+      "bank": 18,
+      "cpu": 18211,
+      "offset": 296739,
+      "raw": "e3e5e8d7",
+      "text": "prud"
+    },
+    {
+      "frame": 45043,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d8e1",
+      "text": "en"
+    },
+    {
+      "frame": 45064,
+      "bank": 18,
+      "cpu": 18216,
+      "offset": 296744,
+      "raw": "e7e6",
+      "text": "ts"
+    },
+    {
+      "frame": 45085,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "af",
+      "text": "."
+    },
+    {
+      "frame": 45097,
+      "bank": 18,
+      "cpu": 52649,
+      "offset": 52649,
+      "raw": "babababababa",
+      "text": "AAAAAA"
+    },
+    {
+      "frame": 45158,
+      "bank": 18,
+      "cpu": 18221,
+      "offset": 296749,
+      "raw": "bdad",
+      "text": "D'"
+    },
+    {
+      "frame": 45180,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d4d6",
+      "text": "ac"
+    },
+    {
+      "frame": 45201,
+      "bank": 18,
+      "cpu": 18224,
+      "offset": 296752,
+      "raw": "d6",
+      "text": "c"
+    },
+    {
+      "frame": 45213,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "e2e5",
+      "text": "or"
+    },
+    {
+      "frame": 45233,
+      "bank": 18,
+      "cpu": 52557,
+      "offset": 52557,
+      "raw": "d7ff",
+      "text": "d "
+    },
+    {
+      "frame": 45254,
+      "bank": 18,
+      "cpu": 18227,
+      "offset": 296755,
+      "raw": "f3",
+      "text": "!"
+    }
+  ],
+  "invalid_reads": [],
+  "frames": 62721,
+  "full_playthrough": false
+}

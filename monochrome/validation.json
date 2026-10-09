@@ -1,0 +1,11 @@
+{
+  "tests": "11 passed",
+  "pyboy": "2.7.0",
+  "route": "premier combat gagné, gains, scénario initial jusqu’au Talon",
+  "relocation_audit": "0 invalid reads on the executed route",
+  "save_reload": "RAM 8192 bytes; cold boot, Continue, matching party names and stats",
+  "source_operand_guard": "13 16 at 261F0 preserved and protected from reinsertion",
+  "font_letters": "é è à ê â î ô ù ç",
+  "full_playthrough": false,
+  "gui_interactive_test": false
+}

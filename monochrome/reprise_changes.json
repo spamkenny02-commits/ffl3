@@ -1,0 +1,80 @@
+[
+  {
+    "offset": "25EB3",
+    "english": "The Pureland Water\n Entity appeared\n and flooded this\n world's present,\n past and future.\n\nThe water brought\n monsters, which\nhunted people day\nand night. Cities\nfell one by one,\n   covered by\n   the sea...\n\n  However, a few\n   individuals\n  prepare for a\n journey that may\n  determine the\nfate of the world\n\n\n\n------------------\nBehold.” the sealed\n city Dharm. Here\nthree young people\n   sent back as\nchildren from the\n   ruins of the\nfuture, are living\n  with the Elder.\nHe has reared them\ntogether with his\nown granddaughter.\n",
+    "french": "L'Entité de l'Eau\nvenue de Pureland\ninonda le monde,\nà toutes les\n époques.\n\nDes monstres\nsurgirent des eaux\net traquèrent les\nhommes jour et\nnuit.\nLes cités furent\nenglouties.\n\nQuelques personnes\npréparent un long\nvoyage dont dépend\nle sort du monde.\n\n\n\n------------------\nVoici Dharm, une\ncité fermée. Trois\njeunes du futur\ny vivent avec\nl'Ancien. Envoyés\nici enfants, ils\nont grandi avec\nsa petite-fille.\n",
+    "reason": "Traduction alpha sans accents ; abreviations imposees par la largeur originale."
+  },
+  {
+    "offset": "261B8",
+    "english": "! Where are\n the kids going?”\n",
+    "french": "! Où vont les\nenfants ?",
+    "reason": "Traduction relue dans le script extrait ; parcours complet non valide."
+  },
+  {
+    "offset": "261F2",
+    "english": "\n finished yet!”\n",
+    "french": " pas encore finie\n!",
+    "reason": "Traduction relue : parametre 16 de la commande 13 a 261F0 exclu ; corrige apres trace en jeu."
+  },
+  {
+    "offset": "2621C",
+    "english": "is the only way\n to save the world\n ",
+    "french": "est notre seul\nmoyen de sauver le\nmonde de",
+    "reason": "Traduction relue dans le script extrait ; parcours complet non valide."
+  },
+  {
+    "offset": "26231",
+    "english": "from ",
+    "french": " ",
+    "reason": "Traduction relue apres trace du scenario : fragment anglais omis de l extraction heuristique initiale."
+  },
+  {
+    "offset": "26252",
+    "english": "'s plan\n won't work if the\n future's already\n destroyed. Still\n wish to go?”\n[1C][1F][00].”\n“Yes, we 3 decided\n that we can't\n close our eyes to\n our own future:\n",
+    "french": " ne peut pas\nréussir si le\nfutur est déjà\ndétruit.\nVoulez-vous\ntoujours partir ?\n[1C][1F][00]\nOui. Nous avons\ndécidé tous les\ntrois de faire\nface à notre\navenir.",
+    "reason": "Traduction relue dans le script extrait ; parcours complet non valide."
+  },
+  {
+    "offset": "2642B",
+    "english": "'s……”\n",
+    "french": "...\n",
+    "reason": "Traduction relue apres trace du scenario : fragment anglais omis de l extraction heuristique initiale."
+  },
+  {
+    "offset": "26CCF",
+    "english": " Item\n Magic\n Talent Status Equip\n Auto\n Save",
+    "french": " Obj.\n Magie\n Talent Etat   Equip\n Auto\n Sauv",
+    "reason": "Traduction relue dans le script extrait ; parcours complet non valide."
+  },
+  {
+    "offset": "26E0A",
+    "english": "Please select file to save the data.",
+    "french": "Sauvegarder dans\nquel fichier ?",
+    "reason": "Traduction relue dans le script extrait ; parcours complet non valide."
+  },
+  {
+    "offset": "2724F",
+    "english": "Received ",
+    "french": "Obtenu : ",
+    "reason": "Traduction relue dans le script extrait ; parcours complet non valide."
+  },
+  {
+    "offset": "27A97",
+    "english": " used\n",
+    "french": " utilise\n",
+    "reason": "Traduction relue dans le script extrait ; parcours complet non valide."
+  },
+  {
+    "offset": "27BFF",
+    "english": " used\n",
+    "french": " utilise\n",
+    "reason": "Traduction relue dans le script extrait ; parcours complet non valide."
+  },
+  {
+    "offset": "27E92",
+    "english": "the party.\n",
+    "french": "le groupe.\n",
+    "reason": "Traduction relue : chaine complete terminee par 00 a 27E98 ; fin de zone corrigee."
+  }
+]
